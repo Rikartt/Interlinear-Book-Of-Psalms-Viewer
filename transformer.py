@@ -44,8 +44,12 @@ for i in range(1, 151):
 outputdir = input('output directory: ')
 if not os.path.isdir(outputdir):
     outputdir = os.getcwd()
-output_path = os.path.join(outputdir, 'transformeroutput.json')
-f = open(output_path, 'w')
-json.dump(Psalms['chapters'], f)
-f.close()
+output_path = os.path.join(outputdir, 'transformeroutput')
+os.makedirs(output_path, exist_ok=True)
+for n in range(1, 151):
+    f = open(f'{output_path}\\Psalm{n}.json', 'w', encoding='utf-8')
+    for i in Psalms['chapters']:
+        if i['chapter'] == n:
+            f.write(json.dumps(i, ensure_ascii=False) + '\n')
+    f.close()
 #print(Psalms)
