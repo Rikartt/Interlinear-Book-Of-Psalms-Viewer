@@ -6,66 +6,381 @@
       "verse": 1,
       "english": "Behold, how good and how pleasant <i>it is</i> for brethren to dwell together in unity!",
       "hebrew": [
-        [
-          "שיר",
-          "H7892",
-          "HNcbsc"
-        ],
-        [
-          "ה/מעלות",
-          "Hd/H4609",
-          "HTd/Ncfpa"
-        ],
-        [
-          "ל/דוד",
-          "Hl/H1732",
-          "HR/Np"
-        ],
-        [
-          "הנה",
-          "H2009",
-          "HTm"
-        ],
-        [
-          "מה",
-          "H4100",
-          "HTi"
-        ],
-        [
-          "טוב",
-          "H2896",
-          "HAamsa"
-        ],
-        [
-          "ו/מה",
-          "Hc/H4100",
-          "HC/Ti"
-        ],
-        [
-          "נעים",
-          "H5273",
-          "HAamsa"
-        ],
-        [
-          "שבת",
-          "H3427",
-          "HVqc"
-        ],
-        [
-          "אחים",
-          "H251",
-          "HNcmpa"
-        ],
-        [
-          "גם",
-          "H1571",
-          "HTa"
-        ],
-        [
-          "יחד",
-          "H3162",
-          "HNcmsa"
-        ]
+        {
+          "word": [
+            "שיר"
+          ],
+          "strong": [
+            "H7892"
+          ],
+          "morph": [
+            "HNcbsc"
+          ],
+          "lemma": [
+            "שִׁיר"
+          ],
+          "xlit": [
+            "shîyr"
+          ],
+          "pron": [
+            "sheer"
+          ],
+          "derivation": [
+            "or feminine שִׁירָה; from H7891 (שִׁיר);"
+          ],
+          "strongs_def": [
+            "a song; abstractly, singing"
+          ],
+          "gloss": [
+            "musical(-ick), [idiom] sing(-er, -ing), song."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "מעלות"
+          ],
+          "strong": [
+            "Hd",
+            "H4609"
+          ],
+          "morph": [
+            "HTd",
+            "Ncfpa"
+          ],
+          "lemma": [
+            null,
+            "מַעֲלָה"
+          ],
+          "xlit": [
+            null,
+            "maʻălâh"
+          ],
+          "pron": [
+            null,
+            "mah-al-aw'"
+          ],
+          "derivation": [
+            null,
+            "feminine of H4608 (מַעֲלֶה);"
+          ],
+          "strongs_def": [
+            null,
+            "elevation, i.e. the act (literally, a journey to a higher place, figuratively, a thought arising), or (concretely) the condition (literally, a step or grademark, figuratively, a superiority of station); specifically a climactic progression (in certain Psalms)"
+          ],
+          "gloss": [
+            null,
+            "things that come up, (high) degree, deal, go up, stair, step, story."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "דוד"
+          ],
+          "strong": [
+            "Hl",
+            "H1732"
+          ],
+          "morph": [
+            "HR",
+            "Np"
+          ],
+          "lemma": [
+            null,
+            "דָּוִד"
+          ],
+          "xlit": [
+            null,
+            "Dâvid"
+          ],
+          "pron": [
+            null,
+            "daw-veed'"
+          ],
+          "derivation": [
+            null,
+            "rarely (fully); דָּוִיד; from the same as H1730 (דּוֹד); loving;"
+          ],
+          "strongs_def": [
+            null,
+            "David, the youngest son of Jesse"
+          ],
+          "gloss": [
+            null,
+            "David."
+          ]
+        },
+        {
+          "word": [
+            "הנה"
+          ],
+          "strong": [
+            "H2009"
+          ],
+          "morph": [
+            "HTm"
+          ],
+          "lemma": [
+            "הִנֵּה"
+          ],
+          "xlit": [
+            "hinnêh"
+          ],
+          "pron": [
+            "hin-nay'"
+          ],
+          "derivation": [
+            "prolongation for H2005 (הֵן);"
+          ],
+          "strongs_def": [
+            "lo!"
+          ],
+          "gloss": [
+            "behold, lo, see."
+          ]
+        },
+        {
+          "word": [
+            "מה"
+          ],
+          "strong": [
+            "H4100"
+          ],
+          "morph": [
+            "HTi"
+          ],
+          "lemma": [
+            "מָה"
+          ],
+          "xlit": [
+            "mâh"
+          ],
+          "pron": [
+            "maw"
+          ],
+          "derivation": [
+            "or מַה; or מָ; or מַ; also מֶה; a primitive particle;"
+          ],
+          "strongs_def": [
+            "properly, interrogative what? (including how? why? when?); but also exclamation, what! (including how!), or indefinitely what (including whatever, and even relatively, that which); often used with prefixes in various adverbial or conjunctive senses"
+          ],
+          "gloss": [
+            "how (long, oft, (-soever)), (no-) thing, what (end, good, purpose, thing), whereby(-fore, -in, -to, -with), (for) why."
+          ]
+        },
+        {
+          "word": [
+            "טוב"
+          ],
+          "strong": [
+            "H2896"
+          ],
+          "morph": [
+            "HAamsa"
+          ],
+          "lemma": [
+            "טוֹב"
+          ],
+          "xlit": [
+            "ṭôwb"
+          ],
+          "pron": [
+            "tobe"
+          ],
+          "derivation": [
+            "from H2895 (טוֹב);"
+          ],
+          "strongs_def": [
+            "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)"
+          ],
+          "gloss": [
+            "beautiful, best, better, bountiful, cheerful, at ease, [idiom] fair (word), (be in) favour, fine, glad, good (deed, -lier, -liest, -ly, -ness, -s), graciously, joyful, kindly, kindness, liketh (best), loving, merry, [idiom] most, pleasant, [phrase] pleaseth, pleasure, precious, prosperity, ready, sweet, wealth, welfare, (be) well(-favoured)."
+          ]
+        },
+        {
+          "word": [
+            "ו",
+            "מה"
+          ],
+          "strong": [
+            "Hc",
+            "H4100"
+          ],
+          "morph": [
+            "HC",
+            "Ti"
+          ],
+          "lemma": [
+            null,
+            "מָה"
+          ],
+          "xlit": [
+            null,
+            "mâh"
+          ],
+          "pron": [
+            null,
+            "maw"
+          ],
+          "derivation": [
+            null,
+            "or מַה; or מָ; or מַ; also מֶה; a primitive particle;"
+          ],
+          "strongs_def": [
+            null,
+            "properly, interrogative what? (including how? why? when?); but also exclamation, what! (including how!), or indefinitely what (including whatever, and even relatively, that which); often used with prefixes in various adverbial or conjunctive senses"
+          ],
+          "gloss": [
+            null,
+            "how (long, oft, (-soever)), (no-) thing, what (end, good, purpose, thing), whereby(-fore, -in, -to, -with), (for) why."
+          ]
+        },
+        {
+          "word": [
+            "נעים"
+          ],
+          "strong": [
+            "H5273"
+          ],
+          "morph": [
+            "HAamsa"
+          ],
+          "lemma": [
+            "נָעִים"
+          ],
+          "xlit": [
+            "nâʻîym"
+          ],
+          "pron": [
+            "naw-eem'"
+          ],
+          "derivation": [
+            "from H5276 (נָעֵם);"
+          ],
+          "strongs_def": [
+            "delightful (objective or subjective, literal or figurative)"
+          ],
+          "gloss": [
+            "pleasant(-ure), sweet."
+          ]
+        },
+        {
+          "word": [
+            "שבת"
+          ],
+          "strong": [
+            "H3427"
+          ],
+          "morph": [
+            "HVqc"
+          ],
+          "lemma": [
+            "יָשַׁב"
+          ],
+          "xlit": [
+            "yâshab"
+          ],
+          "pron": [
+            "yaw-shab'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry"
+          ],
+          "gloss": [
+            "(make to) abide(-ing), continue, (cause to, make to) dwell(-ing), ease self, endure, establish, [idiom] fail, habitation, haunt, (make to) inhabit(-ant), make to keep (house), lurking, [idiom] marry(-ing), (bring again to) place, remain, return, seat, set(-tle), (down-) sit(-down, still, -ting down, -ting (place) -uate), take, tarry."
+          ]
+        },
+        {
+          "word": [
+            "אחים"
+          ],
+          "strong": [
+            "H251"
+          ],
+          "morph": [
+            "HNcmpa"
+          ],
+          "lemma": [
+            "אָח"
+          ],
+          "xlit": [
+            "ʼâch"
+          ],
+          "pron": [
+            "awkh"
+          ],
+          "derivation": [
+            "a primitive word;"
+          ],
+          "strongs_def": [
+            "a brother (used in the widest sense of literal relationship and metaphorical affinity or resemblance (like father))"
+          ],
+          "gloss": [
+            "another, brother(-ly); kindred, like, other. Compare also the proper names beginning with 'Ah-' or 'Ahi-'."
+          ]
+        },
+        {
+          "word": [
+            "גם"
+          ],
+          "strong": [
+            "H1571"
+          ],
+          "morph": [
+            "HTa"
+          ],
+          "lemma": [
+            "גַּם"
+          ],
+          "xlit": [
+            "gam"
+          ],
+          "pron": [
+            "gam"
+          ],
+          "derivation": [
+            "by contraction from an unused root meaning to gather;"
+          ],
+          "strongs_def": [
+            "properly, assemblage; used only adverbially also, even, yea, though; often repeated as correl. both...and"
+          ],
+          "gloss": [
+            "again, alike, also, (so much) as (soon), both (so)...and, but, either...or, even, for all, (in) likewise (manner), moreover, nay...neither, one, then(-refore), though, what, with, yea."
+          ]
+        },
+        {
+          "word": [
+            "יחד"
+          ],
+          "strong": [
+            "H3162"
+          ],
+          "morph": [
+            "HNcmsa"
+          ],
+          "lemma": [
+            "יַחַד"
+          ],
+          "xlit": [
+            "yachad"
+          ],
+          "pron": [
+            "yakh'-ad"
+          ],
+          "derivation": [
+            "from H3161 (יָחַד);"
+          ],
+          "strongs_def": [
+            "properly, a unit, i.e. (adverb) unitedly"
+          ],
+          "gloss": [
+            "alike, at all (once), both, likewise, only, (al-) together, withal."
+          ]
+        }
       ],
       "header": "¶ A Song of degrees of David."
     },
@@ -74,71 +389,430 @@
       "verse": 2,
       "english": "<i>It is</i> like the precious ointment upon the head, that ran down upon the beard, <i>even</i> Aaron's beard: that went down to the skirts of his garments;",
       "hebrew": [
-        [
-          "כ/שמן",
-          "Hk/H8081",
-          "HRd/Ncmsa"
-        ],
-        [
-          "ה/טוב",
-          "Hd/H2896",
-          "HTd/Aamsa"
-        ],
-        [
-          "על",
-          "H5921",
-          "HR"
-        ],
-        [
-          "ה/ראש",
-          "Hd/H7218",
-          "HTd/Ncmsa"
-        ],
-        [
-          "ירד",
-          "H3381",
-          "HVqrmsa"
-        ],
-        [
-          "על",
-          "H5921",
-          "HR"
-        ],
-        [
-          "ה/זקן",
-          "Hd/H2206",
-          "HTd/Ncbsa"
-        ],
-        [
-          "זקן",
-          "H2206",
-          "HNcbsc"
-        ],
-        [
-          "אהרן",
-          "H175",
-          "HNp"
-        ],
-        [
-          "ש/ירד",
-          "Hs/H3381",
-          "HTr/Vqrmsa"
-        ],
-        [
-          "על",
-          "H5921",
-          "HR"
-        ],
-        [
-          "פי",
-          "H6310",
-          "HNcmsc"
-        ],
-        [
-          "מדותי/ו",
-          "H4060",
-          "HNcfpc/Sp3ms"
-        ]
+        {
+          "word": [
+            "כ",
+            "שמן"
+          ],
+          "strong": [
+            "Hk",
+            "H8081"
+          ],
+          "morph": [
+            "HRd",
+            "Ncmsa"
+          ],
+          "lemma": [
+            null,
+            "שֶׁמֶן"
+          ],
+          "xlit": [
+            null,
+            "shemen"
+          ],
+          "pron": [
+            null,
+            "sheh'-men"
+          ],
+          "derivation": [
+            null,
+            "from H8080 (שָׁמַן);"
+          ],
+          "strongs_def": [
+            null,
+            "grease, especially liquid (as from the olive, often perfumed); figuratively, richness"
+          ],
+          "gloss": [
+            null,
+            "anointing, [idiom] fat (things), [idiom] fruitful, oil(-ed), ointment, olive, [phrase] pine."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "טוב"
+          ],
+          "strong": [
+            "Hd",
+            "H2896"
+          ],
+          "morph": [
+            "HTd",
+            "Aamsa"
+          ],
+          "lemma": [
+            null,
+            "טוֹב"
+          ],
+          "xlit": [
+            null,
+            "ṭôwb"
+          ],
+          "pron": [
+            null,
+            "tobe"
+          ],
+          "derivation": [
+            null,
+            "from H2895 (טוֹב);"
+          ],
+          "strongs_def": [
+            null,
+            "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)"
+          ],
+          "gloss": [
+            null,
+            "beautiful, best, better, bountiful, cheerful, at ease, [idiom] fair (word), (be in) favour, fine, glad, good (deed, -lier, -liest, -ly, -ness, -s), graciously, joyful, kindly, kindness, liketh (best), loving, merry, [idiom] most, pleasant, [phrase] pleaseth, pleasure, precious, prosperity, ready, sweet, wealth, welfare, (be) well(-favoured)."
+          ]
+        },
+        {
+          "word": [
+            "על"
+          ],
+          "strong": [
+            "H5921"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "עַל"
+          ],
+          "xlit": [
+            "ʻal"
+          ],
+          "pron": [
+            "al"
+          ],
+          "derivation": [
+            "properly, the same as H5920 (עַל) used as a preposition (in the singular or plural often with prefix, or as conjunction with a particle following);"
+          ],
+          "strongs_def": [
+            "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+          ],
+          "gloss": [
+            "above, according to(-ly), after, (as) against, among, and, [idiom] as, at, because of, beside (the rest of), between, beyond the time, [idiom] both and, by (reason of), [idiom] had the charge of, concerning for, in (that), (forth, out) of, (from) (off), (up-) on, over, than, through(-out), to, touching, [idiom] with."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "ראש"
+          ],
+          "strong": [
+            "Hd",
+            "H7218"
+          ],
+          "morph": [
+            "HTd",
+            "Ncmsa"
+          ],
+          "lemma": [
+            null,
+            "רֹאשׁ"
+          ],
+          "xlit": [
+            null,
+            "rôʼsh"
+          ],
+          "pron": [
+            null,
+            "roshe"
+          ],
+          "derivation": [
+            null,
+            "from an unused root apparently meaning to shake;"
+          ],
+          "strongs_def": [
+            null,
+            "the head (as most easily shaken), whether literal or figurative (in many applications, of place, time, rank, itc.)"
+          ],
+          "gloss": [
+            null,
+            "band, beginning, captain, chapiter, chief(-est place, man, things), company, end, [idiom] every (man), excellent, first, forefront, (be-)head, height, (on) high(-est part, (priest)), [idiom] lead, [idiom] poor, principal, ruler, sum, top."
+          ]
+        },
+        {
+          "word": [
+            "ירד"
+          ],
+          "strong": [
+            "H3381"
+          ],
+          "morph": [
+            "HVqrmsa"
+          ],
+          "lemma": [
+            "יָרַד"
+          ],
+          "xlit": [
+            "yârad"
+          ],
+          "pron": [
+            "yaw-rad'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to descend (literally, to go downwards; or conventionally to a lower region, as the shore, a boundary, the enemy, etc.; or figuratively, to fall); causatively, to bring down (in all the above applications)"
+          ],
+          "gloss": [
+            "[idiom] abundantly, bring down, carry down, cast down, (cause to) come(-ing) down, fall (down), get down, go(-ing) down(-ward), hang down, [idiom] indeed, let down, light (down), put down (off), (cause to, let) run down, sink, subdue, take down."
+          ]
+        },
+        {
+          "word": [
+            "על"
+          ],
+          "strong": [
+            "H5921"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "עַל"
+          ],
+          "xlit": [
+            "ʻal"
+          ],
+          "pron": [
+            "al"
+          ],
+          "derivation": [
+            "properly, the same as H5920 (עַל) used as a preposition (in the singular or plural often with prefix, or as conjunction with a particle following);"
+          ],
+          "strongs_def": [
+            "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+          ],
+          "gloss": [
+            "above, according to(-ly), after, (as) against, among, and, [idiom] as, at, because of, beside (the rest of), between, beyond the time, [idiom] both and, by (reason of), [idiom] had the charge of, concerning for, in (that), (forth, out) of, (from) (off), (up-) on, over, than, through(-out), to, touching, [idiom] with."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "זקן"
+          ],
+          "strong": [
+            "Hd",
+            "H2206"
+          ],
+          "morph": [
+            "HTd",
+            "Ncbsa"
+          ],
+          "lemma": [
+            null,
+            "זָקָן"
+          ],
+          "xlit": [
+            null,
+            "zâqân"
+          ],
+          "pron": [
+            null,
+            "zaw-kawn'"
+          ],
+          "derivation": [
+            null,
+            "from H2204 (זָקֵן);"
+          ],
+          "strongs_def": [
+            null,
+            "the beard (as indicating age)"
+          ],
+          "gloss": [
+            null,
+            "beard."
+          ]
+        },
+        {
+          "word": [
+            "זקן"
+          ],
+          "strong": [
+            "H2206"
+          ],
+          "morph": [
+            "HNcbsc"
+          ],
+          "lemma": [
+            "זָקָן"
+          ],
+          "xlit": [
+            "zâqân"
+          ],
+          "pron": [
+            "zaw-kawn'"
+          ],
+          "derivation": [
+            "from H2204 (זָקֵן);"
+          ],
+          "strongs_def": [
+            "the beard (as indicating age)"
+          ],
+          "gloss": [
+            "beard."
+          ]
+        },
+        {
+          "word": [
+            "אהרן"
+          ],
+          "strong": [
+            "H175"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "אַהֲרוֹן"
+          ],
+          "xlit": [
+            "ʼAhărôwn"
+          ],
+          "pron": [
+            "a-har-one'"
+          ],
+          "derivation": [
+            "of uncertain derivation;"
+          ],
+          "strongs_def": [
+            "Aharon, the brother of Moses"
+          ],
+          "gloss": [
+            "Aaron."
+          ]
+        },
+        {
+          "word": [
+            "ש",
+            "ירד"
+          ],
+          "strong": [
+            "Hs",
+            "H3381"
+          ],
+          "morph": [
+            "HTr",
+            "Vqrmsa"
+          ],
+          "lemma": [
+            null,
+            "יָרַד"
+          ],
+          "xlit": [
+            null,
+            "yârad"
+          ],
+          "pron": [
+            null,
+            "yaw-rad'"
+          ],
+          "derivation": [
+            null,
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            null,
+            "to descend (literally, to go downwards; or conventionally to a lower region, as the shore, a boundary, the enemy, etc.; or figuratively, to fall); causatively, to bring down (in all the above applications)"
+          ],
+          "gloss": [
+            null,
+            "[idiom] abundantly, bring down, carry down, cast down, (cause to) come(-ing) down, fall (down), get down, go(-ing) down(-ward), hang down, [idiom] indeed, let down, light (down), put down (off), (cause to, let) run down, sink, subdue, take down."
+          ]
+        },
+        {
+          "word": [
+            "על"
+          ],
+          "strong": [
+            "H5921"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "עַל"
+          ],
+          "xlit": [
+            "ʻal"
+          ],
+          "pron": [
+            "al"
+          ],
+          "derivation": [
+            "properly, the same as H5920 (עַל) used as a preposition (in the singular or plural often with prefix, or as conjunction with a particle following);"
+          ],
+          "strongs_def": [
+            "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+          ],
+          "gloss": [
+            "above, according to(-ly), after, (as) against, among, and, [idiom] as, at, because of, beside (the rest of), between, beyond the time, [idiom] both and, by (reason of), [idiom] had the charge of, concerning for, in (that), (forth, out) of, (from) (off), (up-) on, over, than, through(-out), to, touching, [idiom] with."
+          ]
+        },
+        {
+          "word": [
+            "פי"
+          ],
+          "strong": [
+            "H6310"
+          ],
+          "morph": [
+            "HNcmsc"
+          ],
+          "lemma": [
+            "פֶּה"
+          ],
+          "xlit": [
+            "peh"
+          ],
+          "pron": [
+            "peh"
+          ],
+          "derivation": [
+            "from H6284 (פָּאָה);"
+          ],
+          "strongs_def": [
+            "the mouth (as the means of blowing), whether literal or figurative (particularly speech); specifically edge, portion or side; adverbially (with preposition) according to"
+          ],
+          "gloss": [
+            "accord(-ing as, -ing to), after, appointment, assent, collar, command(-ment), [idiom] eat, edge, end, entry, [phrase] file, hole, [idiom] in, mind, mouth, part, portion, [idiom] (should) say(-ing), sentence, skirt, sound, speech, [idiom] spoken, talk, tenor, [idiom] to, [phrase] two-edged, wish, word."
+          ]
+        },
+        {
+          "word": [
+            "מדותי",
+            "ו"
+          ],
+          "strong": [
+            "H4060"
+          ],
+          "morph": [
+            "HNcfpc",
+            "Sp3ms"
+          ],
+          "lemma": [
+            "מִדָּה"
+          ],
+          "xlit": [
+            "middâh"
+          ],
+          "pron": [
+            "mid-daw'"
+          ],
+          "derivation": [
+            "feminine of H4055 (מַד);"
+          ],
+          "strongs_def": [
+            "properly, extension, i.e. height or breadth; also a measure (including its standard); hence a portion (as measured) or a vestment; specifically, tribute (as measured)"
+          ],
+          "gloss": [
+            "garment, measure(-ing, meteyard, piece, size, (great) stature, tribute, wide."
+          ]
+        }
       ],
       "header": ""
     },
@@ -147,81 +821,477 @@
       "verse": 3,
       "english": "As the dew of Hermon, <i>and as the dew</i> that descended upon the mountains of Zion: for there the LORD commanded the blessing, <i>even</i> life for evermore.",
       "hebrew": [
-        [
-          "כ/טל",
-          "Hk/H2919",
-          "HR/Ncmsc"
-        ],
-        [
-          "חרמון",
-          "H2768",
-          "HNp"
-        ],
-        [
-          "ש/ירד",
-          "Hs/H3381",
-          "HTr/Vqrmsa"
-        ],
-        [
-          "על",
-          "H5921",
-          "HR"
-        ],
-        [
-          "הררי",
-          "H2042",
-          "HNcmpc"
-        ],
-        [
-          "ציון",
-          "H6726",
-          "HNp"
-        ],
-        [
-          "כי",
-          "H3588",
-          "HC"
-        ],
-        [
-          "שם",
-          "H8033",
-          "HD"
-        ],
-        [
-          "צוה",
-          "H6680",
-          "HVpp3ms"
-        ],
-        [
-          "יהוה",
-          "H3068",
-          "HNp"
-        ],
-        [
-          "את",
-          "H853",
-          "HTo"
-        ],
-        [
-          "ה/ברכה",
-          "Hd/H1293",
-          "HTd/Ncfsa"
-        ],
-        [
-          "חיים",
-          "H2416",
-          "HNcmpa"
-        ],
-        [
-          "עד",
-          "H5704",
-          "HR"
-        ],
-        [
-          "ה/עולם",
-          "Hd/H5769",
-          "HTd/Ncmsa"
-        ]
+        {
+          "word": [
+            "כ",
+            "טל"
+          ],
+          "strong": [
+            "Hk",
+            "H2919"
+          ],
+          "morph": [
+            "HR",
+            "Ncmsc"
+          ],
+          "lemma": [
+            null,
+            "טַל"
+          ],
+          "xlit": [
+            null,
+            "ṭal"
+          ],
+          "pron": [
+            null,
+            "tal"
+          ],
+          "derivation": [
+            null,
+            "from H2926 (טָלַל);"
+          ],
+          "strongs_def": [
+            null,
+            "dew (as covering vegetation)"
+          ],
+          "gloss": [
+            null,
+            "dew."
+          ]
+        },
+        {
+          "word": [
+            "חרמון"
+          ],
+          "strong": [
+            "H2768"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "חֶרְמוֹן"
+          ],
+          "xlit": [
+            "Chermôwn"
+          ],
+          "pron": [
+            "kher-mone'"
+          ],
+          "derivation": [
+            "from H2763 (חָרַם); abrupt;"
+          ],
+          "strongs_def": [
+            "Chermon, a mount of Palestine"
+          ],
+          "gloss": [
+            "Hermon."
+          ]
+        },
+        {
+          "word": [
+            "ש",
+            "ירד"
+          ],
+          "strong": [
+            "Hs",
+            "H3381"
+          ],
+          "morph": [
+            "HTr",
+            "Vqrmsa"
+          ],
+          "lemma": [
+            null,
+            "יָרַד"
+          ],
+          "xlit": [
+            null,
+            "yârad"
+          ],
+          "pron": [
+            null,
+            "yaw-rad'"
+          ],
+          "derivation": [
+            null,
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            null,
+            "to descend (literally, to go downwards; or conventionally to a lower region, as the shore, a boundary, the enemy, etc.; or figuratively, to fall); causatively, to bring down (in all the above applications)"
+          ],
+          "gloss": [
+            null,
+            "[idiom] abundantly, bring down, carry down, cast down, (cause to) come(-ing) down, fall (down), get down, go(-ing) down(-ward), hang down, [idiom] indeed, let down, light (down), put down (off), (cause to, let) run down, sink, subdue, take down."
+          ]
+        },
+        {
+          "word": [
+            "על"
+          ],
+          "strong": [
+            "H5921"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "עַל"
+          ],
+          "xlit": [
+            "ʻal"
+          ],
+          "pron": [
+            "al"
+          ],
+          "derivation": [
+            "properly, the same as H5920 (עַל) used as a preposition (in the singular or plural often with prefix, or as conjunction with a particle following);"
+          ],
+          "strongs_def": [
+            "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+          ],
+          "gloss": [
+            "above, according to(-ly), after, (as) against, among, and, [idiom] as, at, because of, beside (the rest of), between, beyond the time, [idiom] both and, by (reason of), [idiom] had the charge of, concerning for, in (that), (forth, out) of, (from) (off), (up-) on, over, than, through(-out), to, touching, [idiom] with."
+          ]
+        },
+        {
+          "word": [
+            "הררי"
+          ],
+          "strong": [
+            "H2042"
+          ],
+          "morph": [
+            "HNcmpc"
+          ],
+          "lemma": [
+            "הָרָר"
+          ],
+          "xlit": [
+            "hârâr"
+          ],
+          "pron": [
+            "haw-rawr'"
+          ],
+          "derivation": [
+            "from an unused root meaning to loom up;"
+          ],
+          "strongs_def": [
+            "a mountain"
+          ],
+          "gloss": [
+            "hill, mount(-ain)."
+          ]
+        },
+        {
+          "word": [
+            "ציון"
+          ],
+          "strong": [
+            "H6726"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "צִיּוֹן"
+          ],
+          "xlit": [
+            "Tsîyôwn"
+          ],
+          "pron": [
+            "tsee-yone'"
+          ],
+          "derivation": [
+            "the same (regularly) as H6725 (צִיּוּן)lemma צִיוּן missing dagesh, corrected to צִיּוּן;"
+          ],
+          "strongs_def": [
+            "Tsijon (as a permanent capital), a mountain of Jerusalem"
+          ],
+          "gloss": [
+            "Zion."
+          ]
+        },
+        {
+          "word": [
+            "כי"
+          ],
+          "strong": [
+            "H3588"
+          ],
+          "morph": [
+            "HC"
+          ],
+          "lemma": [
+            "כִּי"
+          ],
+          "xlit": [
+            "kîy"
+          ],
+          "pron": [
+            "kee"
+          ],
+          "derivation": [
+            "a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent;"
+          ],
+          "strongs_def": [
+            "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed"
+          ],
+          "gloss": [
+            "and, + (forasmuch, inasmuch, where-) as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al-) though, + till, truly, + until, when, whether, while, whom, yea, yet."
+          ]
+        },
+        {
+          "word": [
+            "שם"
+          ],
+          "strong": [
+            "H8033"
+          ],
+          "morph": [
+            "HD"
+          ],
+          "lemma": [
+            "שָׁם"
+          ],
+          "xlit": [
+            "shâm"
+          ],
+          "pron": [
+            "shawm"
+          ],
+          "derivation": [
+            "a primitive particle (rather from the relative pronoun, H834 (אֲשֶׁר));"
+          ],
+          "strongs_def": [
+            "there (transferring to time) then; often thither, or thence"
+          ],
+          "gloss": [
+            "in it, [phrase] thence, there (-in, [phrase] of, [phrase] out), [phrase] thither, [phrase] whither."
+          ]
+        },
+        {
+          "word": [
+            "צוה"
+          ],
+          "strong": [
+            "H6680"
+          ],
+          "morph": [
+            "HVpp3ms"
+          ],
+          "lemma": [
+            "צָוָה"
+          ],
+          "xlit": [
+            "tsâvâh"
+          ],
+          "pron": [
+            "tsaw-vaw'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "(intensively) to constitute, enjoin"
+          ],
+          "gloss": [
+            "appoint, (for-) bid, (give a) charge, (give a, give in, send with) command(-er, -ment), send a messenger, put, (set) in order."
+          ]
+        },
+        {
+          "word": [
+            "יהוה"
+          ],
+          "strong": [
+            "H3068"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "יְהֹוָה"
+          ],
+          "xlit": [
+            "Yᵉhôvâh"
+          ],
+          "pron": [
+            "yeh-ho-vaw'"
+          ],
+          "derivation": [
+            "from H1961 (הָיָה); (the) self-Existent or Eternal;"
+          ],
+          "strongs_def": [
+            "Jehovah, Jewish national name of God"
+          ],
+          "gloss": [
+            "Jehovah, the Lord. Compare H3050 (יָהּ), H3069 (יְהֹוִה)."
+          ]
+        },
+        {
+          "word": [
+            "את"
+          ],
+          "strong": [
+            "H853"
+          ],
+          "morph": [
+            "HTo"
+          ],
+          "lemma": [
+            "אֵת"
+          ],
+          "xlit": [
+            "ʼêth"
+          ],
+          "pron": [
+            "ayth"
+          ],
+          "derivation": [
+            "apparent contracted from H226 (אוֹת) in the demonstrative sense of entity;"
+          ],
+          "strongs_def": [
+            "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)"
+          ],
+          "gloss": [
+            "(as such unrepresented in English)."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "ברכה"
+          ],
+          "strong": [
+            "Hd",
+            "H1293"
+          ],
+          "morph": [
+            "HTd",
+            "Ncfsa"
+          ],
+          "lemma": [
+            null,
+            "בְּרָכָה"
+          ],
+          "xlit": [
+            null,
+            "Bᵉrâkâh"
+          ],
+          "pron": [
+            null,
+            "ber-aw-kaw'"
+          ],
+          "derivation": [
+            null,
+            "from H1288 (בָרַךְ);"
+          ],
+          "strongs_def": [
+            null,
+            "benediction; by implication prosperity"
+          ],
+          "gloss": [
+            null,
+            "blessing, liberal, pool, present."
+          ]
+        },
+        {
+          "word": [
+            "חיים"
+          ],
+          "strong": [
+            "H2416"
+          ],
+          "morph": [
+            "HNcmpa"
+          ],
+          "lemma": [
+            "חַי"
+          ],
+          "xlit": [
+            "chay"
+          ],
+          "pron": [
+            "khah'-ee"
+          ],
+          "derivation": [
+            "from H2421 (חָיָה);"
+          ],
+          "strongs_def": [
+            "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively"
+          ],
+          "gloss": [
+            "[phrase] age, alive, appetite, (wild) beast, company, congregation, life(-time), live(-ly), living (creature, thing), maintenance, [phrase] merry, multitude, [phrase] (be) old, quick, raw, running, springing, troop."
+          ]
+        },
+        {
+          "word": [
+            "עד"
+          ],
+          "strong": [
+            "H5704"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "עַד"
+          ],
+          "xlit": [
+            "ʻad"
+          ],
+          "pron": [
+            "ad"
+          ],
+          "derivation": [
+            "properly, the same as H5703 (עַד) (used as a preposition, adverb or conjunction; especially with a preposition);"
+          ],
+          "strongs_def": [
+            "as far (or long, or much) as, whether of space (even unto) or time (during, while, until) or degree (equally with)"
+          ],
+          "gloss": [
+            "against, and, as, at, before, by (that), even (to), for(-asmuch as), (hither-) to, [phrase] how long, into, as long (much) as, (so) that, till, toward, until, when, while, ([phrase] as) yet."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "עולם"
+          ],
+          "strong": [
+            "Hd",
+            "H5769"
+          ],
+          "morph": [
+            "HTd",
+            "Ncmsa"
+          ],
+          "lemma": [
+            null,
+            "עוֹלָם"
+          ],
+          "xlit": [
+            null,
+            "ʻôwlâm"
+          ],
+          "pron": [
+            null,
+            "o-lawm'"
+          ],
+          "derivation": [
+            null,
+            "or עֹלָם; from H5956 (עָלַם);"
+          ],
+          "strongs_def": [
+            null,
+            "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always"
+          ],
+          "gloss": [
+            null,
+            "alway(-s), ancient (time), any more, continuance, eternal, (for, (n-)) ever(-lasting, -more, of old), lasting, long (time), (of) old (time), perpetual, at any time, (beginning of the) world ([phrase] without end). Compare H5331 (נֶצַח), H5703 (עַד)."
+          ]
+        }
       ],
       "header": ""
     }

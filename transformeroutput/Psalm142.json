@@ -6,71 +6,416 @@
       "verse": 1,
       "english": "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.",
       "hebrew": [
-        [
-          "משכיל",
-          "H4905",
-          "HNcmsa"
-        ],
-        [
-          "ל/דוד",
-          "Hl/H1732",
-          "HR/Np"
-        ],
-        [
-          "ב/היות/ו",
-          "Hb/H1961",
-          "HR/Vqc/Sp3ms"
-        ],
-        [
-          "ב/מערה",
-          "Hb/H4631",
-          "HRd/Ncfsa"
-        ],
-        [
-          "תפלה",
-          "H8605",
-          "HNcfsa"
-        ],
-        [
-          "קול/י",
-          "H6963",
-          "HNcmsc/Sp1cs"
-        ],
-        [
-          "אל",
-          "H413",
-          "HR"
-        ],
-        [
-          "יהוה",
-          "H3068",
-          "HNp"
-        ],
-        [
-          "אזעק",
-          "H2199",
-          "HVqi1cs"
-        ],
-        [
-          "קול/י",
-          "H6963",
-          "HNcmsc/Sp1cs"
-        ],
-        [
-          "אל",
-          "H413",
-          "HR"
-        ],
-        [
-          "יהוה",
-          "H3068",
-          "HNp"
-        ],
-        [
-          "אתחנן",
-          "H2603",
-          "HVti1cs"
-        ]
+        {
+          "word": [
+            "משכיל"
+          ],
+          "strong": [
+            "H4905"
+          ],
+          "morph": [
+            "HNcmsa"
+          ],
+          "lemma": [
+            "מַשְׂכִּיל"
+          ],
+          "xlit": [
+            "maskîyl"
+          ],
+          "pron": [
+            "mas-keel'"
+          ],
+          "derivation": [
+            "from H7919 (שָׂכַל);"
+          ],
+          "strongs_def": [
+            "instructive, i.e. a didactic poem"
+          ],
+          "gloss": [
+            "Maschil."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "דוד"
+          ],
+          "strong": [
+            "Hl",
+            "H1732"
+          ],
+          "morph": [
+            "HR",
+            "Np"
+          ],
+          "lemma": [
+            null,
+            "דָּוִד"
+          ],
+          "xlit": [
+            null,
+            "Dâvid"
+          ],
+          "pron": [
+            null,
+            "daw-veed'"
+          ],
+          "derivation": [
+            null,
+            "rarely (fully); דָּוִיד; from the same as H1730 (דּוֹד); loving;"
+          ],
+          "strongs_def": [
+            null,
+            "David, the youngest son of Jesse"
+          ],
+          "gloss": [
+            null,
+            "David."
+          ]
+        },
+        {
+          "word": [
+            "ב",
+            "היות",
+            "ו"
+          ],
+          "strong": [
+            "Hb",
+            "H1961"
+          ],
+          "morph": [
+            "HR",
+            "Vqc",
+            "Sp3ms"
+          ],
+          "lemma": [
+            null,
+            "הָיָה"
+          ],
+          "xlit": [
+            null,
+            "hâyâh"
+          ],
+          "pron": [
+            null,
+            "haw-yaw"
+          ],
+          "derivation": [
+            null,
+            "a primitive root (compare H1933 (הָוָא));"
+          ],
+          "strongs_def": [
+            null,
+            "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)"
+          ],
+          "gloss": [
+            null,
+            "beacon, [idiom] altogether, be(-come), accomplished, committed, like), break, cause, come (to pass), do, faint, fall, [phrase] follow, happen, [idiom] have, last, pertain, quit (one-) self, require, [idiom] use."
+          ]
+        },
+        {
+          "word": [
+            "ב",
+            "מערה"
+          ],
+          "strong": [
+            "Hb",
+            "H4631"
+          ],
+          "morph": [
+            "HRd",
+            "Ncfsa"
+          ],
+          "lemma": [
+            null,
+            "מְעָרָה"
+          ],
+          "xlit": [
+            null,
+            "mᵉʻârâh"
+          ],
+          "pron": [
+            null,
+            "meh-aw-raw'"
+          ],
+          "derivation": [
+            null,
+            "from H5783 (עוּר);"
+          ],
+          "strongs_def": [
+            null,
+            "a cavern (as dark)"
+          ],
+          "gloss": [
+            null,
+            "cave, den, hole."
+          ]
+        },
+        {
+          "word": [
+            "תפלה"
+          ],
+          "strong": [
+            "H8605"
+          ],
+          "morph": [
+            "HNcfsa"
+          ],
+          "lemma": [
+            "תְּפִלָּה"
+          ],
+          "xlit": [
+            "tᵉphillâh"
+          ],
+          "pron": [
+            "tef-il-law'"
+          ],
+          "derivation": [
+            "from H6419 (פָּלַל);"
+          ],
+          "strongs_def": [
+            "intercession, supplication; by implication, a hymn"
+          ],
+          "gloss": [
+            "prayer."
+          ]
+        },
+        {
+          "word": [
+            "קול",
+            "י"
+          ],
+          "strong": [
+            "H6963"
+          ],
+          "morph": [
+            "HNcmsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "קוֹל"
+          ],
+          "xlit": [
+            "qôwl"
+          ],
+          "pron": [
+            "kole"
+          ],
+          "derivation": [
+            "or קֹל; from an unused root meaning to call aloud;"
+          ],
+          "strongs_def": [
+            "a voice or sound"
+          ],
+          "gloss": [
+            "[phrase] aloud, bleating, crackling, cry ([phrase] out), fame, lightness, lowing, noise, [phrase] hold peace, (pro-) claim, proclamation, [phrase] sing, sound, [phrase] spark, thunder(-ing), voice, [phrase] yell."
+          ]
+        },
+        {
+          "word": [
+            "אל"
+          ],
+          "strong": [
+            "H413"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "אֵל"
+          ],
+          "xlit": [
+            "ʼêl"
+          ],
+          "pron": [
+            "ale"
+          ],
+          "derivation": [
+            "(but only used in the shortened constructive form אֶל ); a primitive particle; properly, denoting motion towards, but occasionally used of a quiescent position, i.e."
+          ],
+          "strongs_def": [
+            "near, with or among; often in general, to"
+          ],
+          "gloss": [
+            "about, according to, after, against, among, as for, at, because(-fore, -side), both...and, by, concerning, for, from, [idiom] hath, in(-to), near, (out) of, over, through, to(-ward), under, unto, upon, whether, with(-in)."
+          ]
+        },
+        {
+          "word": [
+            "יהוה"
+          ],
+          "strong": [
+            "H3068"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "יְהֹוָה"
+          ],
+          "xlit": [
+            "Yᵉhôvâh"
+          ],
+          "pron": [
+            "yeh-ho-vaw'"
+          ],
+          "derivation": [
+            "from H1961 (הָיָה); (the) self-Existent or Eternal;"
+          ],
+          "strongs_def": [
+            "Jehovah, Jewish national name of God"
+          ],
+          "gloss": [
+            "Jehovah, the Lord. Compare H3050 (יָהּ), H3069 (יְהֹוִה)."
+          ]
+        },
+        {
+          "word": [
+            "אזעק"
+          ],
+          "strong": [
+            "H2199"
+          ],
+          "morph": [
+            "HVqi1cs"
+          ],
+          "lemma": [
+            "זָעַק"
+          ],
+          "xlit": [
+            "zâʻaq"
+          ],
+          "pron": [
+            "zaw-ak'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to shriek (from anguish or danger); by analogy, (as a herald) to announce or convene publicly"
+          ],
+          "gloss": [
+            "assemble, call (together), (make a) cry (out), come with such a company, gather (together), cause to be proclaimed."
+          ]
+        },
+        {
+          "word": [
+            "קול",
+            "י"
+          ],
+          "strong": [
+            "H6963"
+          ],
+          "morph": [
+            "HNcmsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "קוֹל"
+          ],
+          "xlit": [
+            "qôwl"
+          ],
+          "pron": [
+            "kole"
+          ],
+          "derivation": [
+            "or קֹל; from an unused root meaning to call aloud;"
+          ],
+          "strongs_def": [
+            "a voice or sound"
+          ],
+          "gloss": [
+            "[phrase] aloud, bleating, crackling, cry ([phrase] out), fame, lightness, lowing, noise, [phrase] hold peace, (pro-) claim, proclamation, [phrase] sing, sound, [phrase] spark, thunder(-ing), voice, [phrase] yell."
+          ]
+        },
+        {
+          "word": [
+            "אל"
+          ],
+          "strong": [
+            "H413"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "אֵל"
+          ],
+          "xlit": [
+            "ʼêl"
+          ],
+          "pron": [
+            "ale"
+          ],
+          "derivation": [
+            "(but only used in the shortened constructive form אֶל ); a primitive particle; properly, denoting motion towards, but occasionally used of a quiescent position, i.e."
+          ],
+          "strongs_def": [
+            "near, with or among; often in general, to"
+          ],
+          "gloss": [
+            "about, according to, after, against, among, as for, at, because(-fore, -side), both...and, by, concerning, for, from, [idiom] hath, in(-to), near, (out) of, over, through, to(-ward), under, unto, upon, whether, with(-in)."
+          ]
+        },
+        {
+          "word": [
+            "יהוה"
+          ],
+          "strong": [
+            "H3068"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "יְהֹוָה"
+          ],
+          "xlit": [
+            "Yᵉhôvâh"
+          ],
+          "pron": [
+            "yeh-ho-vaw'"
+          ],
+          "derivation": [
+            "from H1961 (הָיָה); (the) self-Existent or Eternal;"
+          ],
+          "strongs_def": [
+            "Jehovah, Jewish national name of God"
+          ],
+          "gloss": [
+            "Jehovah, the Lord. Compare H3050 (יָהּ), H3069 (יְהֹוִה)."
+          ]
+        },
+        {
+          "word": [
+            "אתחנן"
+          ],
+          "strong": [
+            "H2603"
+          ],
+          "morph": [
+            "HVti1cs"
+          ],
+          "lemma": [
+            "חָנַן"
+          ],
+          "xlit": [
+            "chânan"
+          ],
+          "pron": [
+            "khaw-nan'"
+          ],
+          "derivation": [
+            "a primitive root (compare H2583 (חָנָה));"
+          ],
+          "strongs_def": [
+            "properly, to bend or stoop in kindness to an inferior; to favor, bestow; causatively to implore (i.e. move to favor by petition)"
+          ],
+          "gloss": [
+            "beseech, [idiom] fair, (be, find, shew) favour(-able), be (deal, give, grant (gracious(-ly), intreat, (be) merciful, have (shew) mercy (on, upon), have pity upon, pray, make supplication, [idiom] very."
+          ]
+        }
       ],
       "header": "¶ Maschil of David; A Prayer when he was in the cave."
     },
@@ -79,36 +424,206 @@
       "verse": 2,
       "english": "I poured out my complaint before him; I shewed before him my trouble.",
       "hebrew": [
-        [
-          "אשפך",
-          "H8210",
-          "HVqi1cs"
-        ],
-        [
-          "ל/פני/ו",
-          "Hl/H6440",
-          "HR/Ncbpc/Sp3ms"
-        ],
-        [
-          "שיח/י",
-          "H7879",
-          "HNcmsc/Sp1cs"
-        ],
-        [
-          "צרת/י",
-          "H6869",
-          "HNcfsc/Sp1cs"
-        ],
-        [
-          "ל/פני/ו",
-          "Hl/H6440",
-          "HR/Ncbpc/Sp3ms"
-        ],
-        [
-          "אגיד",
-          "H5046",
-          "HVhi1cs"
-        ]
+        {
+          "word": [
+            "אשפך"
+          ],
+          "strong": [
+            "H8210"
+          ],
+          "morph": [
+            "HVqi1cs"
+          ],
+          "lemma": [
+            "שָׁפַךְ"
+          ],
+          "xlit": [
+            "shâphak"
+          ],
+          "pron": [
+            "shaw-fak'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to spill forth (blood, a libation, liquid metal; or even a solid, i.e. to mound up); also (figuratively) to expend (life, soul, complaint, money, etc.); intensively, to sprawl out"
+          ],
+          "gloss": [
+            "cast (up), gush out, pour (out), shed(-der, out), slip."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "פני",
+            "ו"
+          ],
+          "strong": [
+            "Hl",
+            "H6440"
+          ],
+          "morph": [
+            "HR",
+            "Ncbpc",
+            "Sp3ms"
+          ],
+          "lemma": [
+            null,
+            "פָּנִים"
+          ],
+          "xlit": [
+            null,
+            "pânîym"
+          ],
+          "pron": [
+            null,
+            "paw-neem'"
+          ],
+          "derivation": [
+            null,
+            "plural (but always as singular) of an unused noun פָּנֶה; from H6437 (פָּנָה));"
+          ],
+          "strongs_def": [
+            null,
+            "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)"
+          ],
+          "gloss": [
+            null,
+            "[phrase] accept, a-(be-) fore(-time), against, anger, [idiom] as (long as), at, [phrase] battle, [phrase] because (of), [phrase] beseech, countenance, edge, [phrase] employ, endure, [phrase] enquire, face, favour, fear of, for, forefront(-part), form(-er time, -ward), from, front, heaviness, [idiom] him(-self), [phrase] honourable, [phrase] impudent, [phrase] in, it, look(-eth) (-s), [idiom] me, [phrase] meet, [idiom] more than, mouth, of, off, (of) old (time), [idiom] on, open, [phrase] out of, over against, the partial, person, [phrase] please, presence, propect, was purposed, by reason of, [phrase] regard, right forth, [phrase] serve, [idiom] shewbread, sight, state, straight, [phrase] street, [idiom] thee, [idiom] them(-selves), through ([phrase] -out), till, time(-s) past, (un-) to(-ward), [phrase] upon, upside ([phrase] down), with(-in, [phrase] -stand), [idiom] ye, [idiom] you."
+          ]
+        },
+        {
+          "word": [
+            "שיח",
+            "י"
+          ],
+          "strong": [
+            "H7879"
+          ],
+          "morph": [
+            "HNcmsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "שִׂיחַ"
+          ],
+          "xlit": [
+            "sîyach"
+          ],
+          "pron": [
+            "see'-akh"
+          ],
+          "derivation": [
+            "from H7878 (שִׂיחַ);"
+          ],
+          "strongs_def": [
+            "a contemplation; by implication, an utterance"
+          ],
+          "gloss": [
+            "babbling, communication, complaint, meditation, prayer, talk."
+          ]
+        },
+        {
+          "word": [
+            "צרת",
+            "י"
+          ],
+          "strong": [
+            "H6869"
+          ],
+          "morph": [
+            "HNcfsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "צָרָה"
+          ],
+          "xlit": [
+            "tsârâh"
+          ],
+          "pron": [
+            "tsaw-raw'"
+          ],
+          "derivation": [
+            "feminine of H6862 (צַר);"
+          ],
+          "strongs_def": [
+            "tightness (i.e. figuratively, trouble); transitively, a female rival:"
+          ],
+          "gloss": [
+            "adversary, adversity, affliction, anguish, distress, tribulation, trouble."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "פני",
+            "ו"
+          ],
+          "strong": [
+            "Hl",
+            "H6440"
+          ],
+          "morph": [
+            "HR",
+            "Ncbpc",
+            "Sp3ms"
+          ],
+          "lemma": [
+            null,
+            "פָּנִים"
+          ],
+          "xlit": [
+            null,
+            "pânîym"
+          ],
+          "pron": [
+            null,
+            "paw-neem'"
+          ],
+          "derivation": [
+            null,
+            "plural (but always as singular) of an unused noun פָּנֶה; from H6437 (פָּנָה));"
+          ],
+          "strongs_def": [
+            null,
+            "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)"
+          ],
+          "gloss": [
+            null,
+            "[phrase] accept, a-(be-) fore(-time), against, anger, [idiom] as (long as), at, [phrase] battle, [phrase] because (of), [phrase] beseech, countenance, edge, [phrase] employ, endure, [phrase] enquire, face, favour, fear of, for, forefront(-part), form(-er time, -ward), from, front, heaviness, [idiom] him(-self), [phrase] honourable, [phrase] impudent, [phrase] in, it, look(-eth) (-s), [idiom] me, [phrase] meet, [idiom] more than, mouth, of, off, (of) old (time), [idiom] on, open, [phrase] out of, over against, the partial, person, [phrase] please, presence, propect, was purposed, by reason of, [phrase] regard, right forth, [phrase] serve, [idiom] shewbread, sight, state, straight, [phrase] street, [idiom] thee, [idiom] them(-selves), through ([phrase] -out), till, time(-s) past, (un-) to(-ward), [phrase] upon, upside ([phrase] down), with(-in, [phrase] -stand), [idiom] ye, [idiom] you."
+          ]
+        },
+        {
+          "word": [
+            "אגיד"
+          ],
+          "strong": [
+            "H5046"
+          ],
+          "morph": [
+            "HVhi1cs"
+          ],
+          "lemma": [
+            "נָגַד"
+          ],
+          "xlit": [
+            "nâgad"
+          ],
+          "pron": [
+            "naw-gad'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "properly, to front, i.e. stand boldly out opposite; by implication (causatively), to manifest; figuratively, to announce (always by word of mouth to one present); specifically, to expose, predict, explain, praise"
+          ],
+          "gloss": [
+            "bewray, [idiom] certainly, certify, declare(-ing), denounce, expound, [idiom] fully, messenger, plainly, profess, rehearse, report, shew (forth), speak, [idiom] surely, tell, utter."
+          ]
+        }
       ],
       "header": ""
     },
@@ -117,66 +632,389 @@
       "verse": 3,
       "english": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
       "hebrew": [
-        [
-          "ב/התעטף",
-          "Hb/H5848",
-          "HR/Vtc"
-        ],
-        [
-          "על/י",
-          "H5921",
-          "HR/Sp1cs"
-        ],
-        [
-          "רוח/י",
-          "H7307",
-          "HNcbsc/Sp1cs"
-        ],
-        [
-          "ו/אתה",
-          "Hc/H859",
-          "HC/Pp2ms"
-        ],
-        [
-          "ידעת",
-          "H3045",
-          "HVqp2ms"
-        ],
-        [
-          "נתיבת/י",
-          "H5410",
-          "HNcbsc/Sp1cs"
-        ],
-        [
-          "ב/ארח",
-          "Hb/H734",
-          "HR/Ncbsa"
-        ],
-        [
-          "זו",
-          "H2098",
-          "HTr"
-        ],
-        [
-          "אהלך",
-          "H1980",
-          "HVpi1cs"
-        ],
-        [
-          "טמנו",
-          "H2934",
-          "HVqp3cp"
-        ],
-        [
-          "פח",
-          "H6341",
-          "HNcmsa"
-        ],
-        [
-          "ל/י",
-          "Hl",
-          "HR/Sp1cs"
-        ]
+        {
+          "word": [
+            "ב",
+            "התעטף"
+          ],
+          "strong": [
+            "Hb",
+            "H5848"
+          ],
+          "morph": [
+            "HR",
+            "Vtc"
+          ],
+          "lemma": [
+            null,
+            "עָטַף"
+          ],
+          "xlit": [
+            null,
+            "ʻâṭaph"
+          ],
+          "pron": [
+            null,
+            "aw-taf'"
+          ],
+          "derivation": [
+            null,
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            null,
+            "to shroud, i.e. clothe (whether transitive or reflex.); hence (from the idea of darkness) to languish"
+          ],
+          "gloss": [
+            null,
+            "cover (over), fail, faint, feebler, hide self, be overwhelmed, swoon."
+          ]
+        },
+        {
+          "word": [
+            "על",
+            "י"
+          ],
+          "strong": [
+            "H5921"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "עַל"
+          ],
+          "xlit": [
+            "ʻal"
+          ],
+          "pron": [
+            "al"
+          ],
+          "derivation": [
+            "properly, the same as H5920 (עַל) used as a preposition (in the singular or plural often with prefix, or as conjunction with a particle following);"
+          ],
+          "strongs_def": [
+            "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+          ],
+          "gloss": [
+            "above, according to(-ly), after, (as) against, among, and, [idiom] as, at, because of, beside (the rest of), between, beyond the time, [idiom] both and, by (reason of), [idiom] had the charge of, concerning for, in (that), (forth, out) of, (from) (off), (up-) on, over, than, through(-out), to, touching, [idiom] with."
+          ]
+        },
+        {
+          "word": [
+            "רוח",
+            "י"
+          ],
+          "strong": [
+            "H7307"
+          ],
+          "morph": [
+            "HNcbsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "רוּחַ"
+          ],
+          "xlit": [
+            "rûwach"
+          ],
+          "pron": [
+            "roo'-akh"
+          ],
+          "derivation": [
+            "from H7306 (רוּחַ);"
+          ],
+          "strongs_def": [
+            "wind; by resemblance breath, i.e. a sensible (or even violent) exhalation; figuratively, life, anger, unsubstantiality; by extension, a region of the sky; by resemblance spirit, but only of a rational being (including its expression and functions)"
+          ],
+          "gloss": [
+            "air, anger, blast, breath, [idiom] cool, courage, mind, [idiom] quarter, [idiom] side, spirit(-ual), tempest, [idiom] vain, (whirl-) wind(-y)."
+          ]
+        },
+        {
+          "word": [
+            "ו",
+            "אתה"
+          ],
+          "strong": [
+            "Hc",
+            "H859"
+          ],
+          "morph": [
+            "HC",
+            "Pp2ms"
+          ],
+          "lemma": [
+            null,
+            "אַתָּה"
+          ],
+          "xlit": [
+            null,
+            "ʼattâh"
+          ],
+          "pron": [
+            null,
+            "at-taw'"
+          ],
+          "derivation": [
+            null,
+            "or (shortened); אַתָּ; or אַת; feminine (irregular) sometimes אַתִּי; plural masculine אַתֶּם; feminine אַתֶּן; or אַתֵּנָהlemma אתֵּנָה missing vowel, corrected to אַתֵּנָה; or אַתֵּנָּה; a primitive pronoun of the second person;"
+          ],
+          "strongs_def": [
+            null,
+            "thou and thee, or (plural) ye and you"
+          ],
+          "gloss": [
+            null,
+            "thee, thou, ye, you."
+          ]
+        },
+        {
+          "word": [
+            "ידעת"
+          ],
+          "strong": [
+            "H3045"
+          ],
+          "morph": [
+            "HVqp2ms"
+          ],
+          "lemma": [
+            "יָדַע"
+          ],
+          "xlit": [
+            "yâdaʻ"
+          ],
+          "pron": [
+            "yaw-dah'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)"
+          ],
+          "gloss": [
+            "acknowledge, acquaintance(-ted with), advise, answer, appoint, assuredly, be aware, (un-) awares, can(-not), certainly, comprehend, consider, [idiom] could they, cunning, declare, be diligent, (can, cause to) discern, discover, endued with, familiar friend, famous, feel, can have, be (ig-) norant, instruct, kinsfolk, kinsman, (cause to let, make) know, (come to give, have, take) knowledge, have (knowledge), (be, make, make to be, make self) known, [phrase] be learned, [phrase] lie by man, mark, perceive, privy to, [idiom] prognosticator, regard, have respect, skilful, shew, can (man of) skill, be sure, of a surety, teach, (can) tell, understand, have (understanding), [idiom] will be, wist, wit, wot."
+          ]
+        },
+        {
+          "word": [
+            "נתיבת",
+            "י"
+          ],
+          "strong": [
+            "H5410"
+          ],
+          "morph": [
+            "HNcbsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "נָתִיב"
+          ],
+          "xlit": [
+            "nâthîyb"
+          ],
+          "pron": [
+            "naw-theeb'"
+          ],
+          "derivation": [
+            "or (feminine) נְתִיבָה; or נְתִבָה; (Jeremiah 6:16), from an unused root meaning to tramp;"
+          ],
+          "strongs_def": [
+            "a (beaten) track"
+          ],
+          "gloss": [
+            "path(-way), [idiom] travel(-ler), way."
+          ]
+        },
+        {
+          "word": [
+            "ב",
+            "ארח"
+          ],
+          "strong": [
+            "Hb",
+            "H734"
+          ],
+          "morph": [
+            "HR",
+            "Ncbsa"
+          ],
+          "lemma": [
+            null,
+            "אֹרַח"
+          ],
+          "xlit": [
+            null,
+            "ʼôrach"
+          ],
+          "pron": [
+            null,
+            "o'-rakh"
+          ],
+          "derivation": [
+            null,
+            "from H732 (אָרַח);"
+          ],
+          "strongs_def": [
+            null,
+            "a well-trodden road (literally or figuratively); also a caravan"
+          ],
+          "gloss": [
+            null,
+            "manner, path, race, rank, traveller, troop, (by-, high-) way."
+          ]
+        },
+        {
+          "word": [
+            "זו"
+          ],
+          "strong": [
+            "H2098"
+          ],
+          "morph": [
+            "HTr"
+          ],
+          "lemma": [
+            "זוּ"
+          ],
+          "xlit": [
+            "zûw"
+          ],
+          "pron": [
+            "zoo"
+          ],
+          "derivation": [
+            "for H2088 (זֶה);"
+          ],
+          "strongs_def": [
+            "this or that"
+          ],
+          "gloss": [
+            "that, this, [idiom] wherein, which, whom."
+          ]
+        },
+        {
+          "word": [
+            "אהלך"
+          ],
+          "strong": [
+            "H1980"
+          ],
+          "morph": [
+            "HVpi1cs"
+          ],
+          "lemma": [
+            "הָלַךְ"
+          ],
+          "xlit": [
+            "hâlak"
+          ],
+          "pron": [
+            "haw-lak'"
+          ],
+          "derivation": [
+            "akin to H3212 (יָלַךְ); a primitive root;"
+          ],
+          "strongs_def": [
+            "to walk (in a great variety of applications, literally and figuratively)"
+          ],
+          "gloss": [
+            "(all) along, apace, behave (self), come, (on) continually, be conversant, depart, [phrase] be eased, enter, exercise (self), [phrase] follow, forth, forward, get, go (about, abroad, along, away, forward, on, out, up and down), [phrase] greater, grow, be wont to haunt, lead, march, [idiom] more and more, move (self), needs, on, pass (away), be at the point, quite, run (along), [phrase] send, speedily, spread, still, surely, [phrase] tale-bearer, [phrase] travel(-ler), walk (abroad, on, to and fro, up and down, to places), wander, wax, (way-) faring man, [idiom] be weak, whirl."
+          ]
+        },
+        {
+          "word": [
+            "טמנו"
+          ],
+          "strong": [
+            "H2934"
+          ],
+          "morph": [
+            "HVqp3cp"
+          ],
+          "lemma": [
+            "טָמַן"
+          ],
+          "xlit": [
+            "ṭâman"
+          ],
+          "pron": [
+            "taw-man'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to hide (by covering over)"
+          ],
+          "gloss": [
+            "hide, lay privily, in secret."
+          ]
+        },
+        {
+          "word": [
+            "פח"
+          ],
+          "strong": [
+            "H6341"
+          ],
+          "morph": [
+            "HNcmsa"
+          ],
+          "lemma": [
+            "פַּח"
+          ],
+          "xlit": [
+            "pach"
+          ],
+          "pron": [
+            "pakh"
+          ],
+          "derivation": [
+            "from H6351 (פָּחַח);"
+          ],
+          "strongs_def": [
+            "a (metallic) sheet (as pounded thin); also a spring net (as spread out like a lamina)"
+          ],
+          "gloss": [
+            "gin, (thin) plate, snare."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "י"
+          ],
+          "strong": [
+            "Hl"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cs"
+          ],
+          "lemma": [
+            null
+          ],
+          "xlit": [
+            null
+          ],
+          "pron": [
+            null
+          ],
+          "derivation": [
+            null
+          ],
+          "strongs_def": [
+            null
+          ],
+          "gloss": [
+            null
+          ]
+        }
       ],
       "header": ""
     },
@@ -185,66 +1023,387 @@
       "verse": 4,
       "english": "I looked on <i>my</i> right hand, and beheld, but <i>there was</i> no man that would know me: refuge failed me; no man cared for my soul.",
       "hebrew": [
-        [
-          "הביט",
-          "H5027",
-          "HVhv2ms"
-        ],
-        [
-          "ימין",
-          "H3225",
-          "HNcfsa"
-        ],
-        [
-          "ו/ראה",
-          "Hc/H7200",
-          "HC/Vqv2ms"
-        ],
-        [
-          "ו/אין",
-          "Hc/H369",
-          "HC/Tn"
-        ],
-        [
-          "ל/י",
-          "Hl",
-          "HR/Sp1cs"
-        ],
-        [
-          "מכיר",
-          "H5234",
-          "HVhrmsa"
-        ],
-        [
-          "אבד",
-          "H6",
-          "HVqp3ms"
-        ],
-        [
-          "מנוס",
-          "H4498",
-          "HNcmsa"
-        ],
-        [
-          "ממ/ני",
-          "H4480",
-          "HR/Sp1cs"
-        ],
-        [
-          "אין",
-          "H369",
-          "HTn"
-        ],
-        [
-          "דורש",
-          "H1875",
-          "HVqrmsa"
-        ],
-        [
-          "ל/נפש/י",
-          "Hl/H5315",
-          "HR/Ncbsc/Sp1cs"
-        ]
+        {
+          "word": [
+            "הביט"
+          ],
+          "strong": [
+            "H5027"
+          ],
+          "morph": [
+            "HVhv2ms"
+          ],
+          "lemma": [
+            "נָבַט"
+          ],
+          "xlit": [
+            "nâbaṭ"
+          ],
+          "pron": [
+            "naw-bat'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to scan, i.e. look intently at; by implication, to regard with pleasure, favor or care"
+          ],
+          "gloss": [
+            "(cause to) behold, consider, look (down), regard, have respect, see."
+          ]
+        },
+        {
+          "word": [
+            "ימין"
+          ],
+          "strong": [
+            "H3225"
+          ],
+          "morph": [
+            "HNcfsa"
+          ],
+          "lemma": [
+            "יָמִין"
+          ],
+          "xlit": [
+            "yâmîyn"
+          ],
+          "pron": [
+            "yaw-meen'"
+          ],
+          "derivation": [
+            "from H3231 (יָמַן);"
+          ],
+          "strongs_def": [
+            "the right hand or side (leg, eye) of a person or other object (as the stronger and more dexterous); locally, the south"
+          ],
+          "gloss": [
+            "[phrase] left-handed, right (hand, side), south."
+          ]
+        },
+        {
+          "word": [
+            "ו",
+            "ראה"
+          ],
+          "strong": [
+            "Hc",
+            "H7200"
+          ],
+          "morph": [
+            "HC",
+            "Vqv2ms"
+          ],
+          "lemma": [
+            null,
+            "רָאָה"
+          ],
+          "xlit": [
+            null,
+            "râʼâh"
+          ],
+          "pron": [
+            null,
+            "raw-aw'"
+          ],
+          "derivation": [
+            null,
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            null,
+            "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)"
+          ],
+          "gloss": [
+            null,
+            "advise self, appear, approve, behold, [idiom] certainly, consider, discern, (make to) enjoy, have experience, gaze, take heed, [idiom] indeed, [idiom] joyfully, lo, look (on, one another, one on another, one upon another, out, up, upon), mark, meet, [idiom] be near, perceive, present, provide, regard, (have) respect, (fore-, cause to, let) see(-r, -m, one another), shew (self), [idiom] sight of others, (e-) spy, stare, [idiom] surely, [idiom] think, view, visions."
+          ]
+        },
+        {
+          "word": [
+            "ו",
+            "אין"
+          ],
+          "strong": [
+            "Hc",
+            "H369"
+          ],
+          "morph": [
+            "HC",
+            "Tn"
+          ],
+          "lemma": [
+            null,
+            "אַיִן"
+          ],
+          "xlit": [
+            null,
+            "ʼayin"
+          ],
+          "pron": [
+            null,
+            "ah'-yin"
+          ],
+          "derivation": [
+            null,
+            "as if from a primitive root meaning to be nothing or not exist;"
+          ],
+          "strongs_def": [
+            null,
+            "a non-entity; generally used as a negative particle"
+          ],
+          "gloss": [
+            null,
+            "else, except, fail, (father-) less, be gone, in(-curable), neither, never, no (where), none, nor, (any, thing), not, nothing, to nought, past, un(-searchable), well-nigh, without. Compare H370 (אַיִן)."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "י"
+          ],
+          "strong": [
+            "Hl"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cs"
+          ],
+          "lemma": [
+            null
+          ],
+          "xlit": [
+            null
+          ],
+          "pron": [
+            null
+          ],
+          "derivation": [
+            null
+          ],
+          "strongs_def": [
+            null
+          ],
+          "gloss": [
+            null
+          ]
+        },
+        {
+          "word": [
+            "מכיר"
+          ],
+          "strong": [
+            "H5234"
+          ],
+          "morph": [
+            "HVhrmsa"
+          ],
+          "lemma": [
+            "נָכַר"
+          ],
+          "xlit": [
+            "nâkar"
+          ],
+          "pron": [
+            "naw-kar'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "properly, to scrutinize, i.e. look intently at; hence (with recognition implied), to acknowledge, be acquainted with, care for, respect, revere, or (with suspicion implied), to disregard, ignore, be strange toward, reject, resign, dissimulate (as if ignorant or disowning)"
+          ],
+          "gloss": [
+            "acknowledge, [idiom] could, deliver, discern, dissemble, estrange, feign self to be another, know, take knowledge (notice), perceive, regard, (have) respect, behave (make) self strange(-ly)."
+          ]
+        },
+        {
+          "word": [
+            "אבד"
+          ],
+          "strong": [
+            "H6"
+          ],
+          "morph": [
+            "HVqp3ms"
+          ],
+          "lemma": [
+            "אָבַד"
+          ],
+          "xlit": [
+            "ʼâbad"
+          ],
+          "pron": [
+            "aw-bad'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "properly, to wander away, i.e. lose oneself; by implication to perish (causative, destroy)"
+          ],
+          "gloss": [
+            "break, destroy(-uction), [phrase] not escape, fail, lose, (cause to, make) perish, spend, [idiom] and surely, take, be undone, [idiom] utterly, be void of, have no way to flee."
+          ]
+        },
+        {
+          "word": [
+            "מנוס"
+          ],
+          "strong": [
+            "H4498"
+          ],
+          "morph": [
+            "HNcmsa"
+          ],
+          "lemma": [
+            "מָנוֹס"
+          ],
+          "xlit": [
+            "mânôwç"
+          ],
+          "pron": [
+            "maw-noce'"
+          ],
+          "derivation": [
+            "from H5127 (נוּס);"
+          ],
+          "strongs_def": [
+            "a retreat (literally or figuratively); abstractly, a fleeing"
+          ],
+          "gloss": [
+            "[idiom] apace, escape, way to flee, flight, refuge."
+          ]
+        },
+        {
+          "word": [
+            "ממ",
+            "ני"
+          ],
+          "strong": [
+            "H4480"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "מִן"
+          ],
+          "xlit": [
+            "min"
+          ],
+          "pron": [
+            "min"
+          ],
+          "derivation": [
+            "or מִנִּי; or מִנֵּי; (constructive plural) (Isaiah 30:11); for H4482 (מֵן);"
+          ],
+          "strongs_def": [
+            "properly, a part of; hence (prepositionally), from or out of in many senses"
+          ],
+          "gloss": [
+            "above, after, among, at, because of, by (reason of), from (among), in, [idiom] neither, [idiom] nor, (out) of, over, since, [idiom] then, through, [idiom] whether, with."
+          ]
+        },
+        {
+          "word": [
+            "אין"
+          ],
+          "strong": [
+            "H369"
+          ],
+          "morph": [
+            "HTn"
+          ],
+          "lemma": [
+            "אַיִן"
+          ],
+          "xlit": [
+            "ʼayin"
+          ],
+          "pron": [
+            "ah'-yin"
+          ],
+          "derivation": [
+            "as if from a primitive root meaning to be nothing or not exist;"
+          ],
+          "strongs_def": [
+            "a non-entity; generally used as a negative particle"
+          ],
+          "gloss": [
+            "else, except, fail, (father-) less, be gone, in(-curable), neither, never, no (where), none, nor, (any, thing), not, nothing, to nought, past, un(-searchable), well-nigh, without. Compare H370 (אַיִן)."
+          ]
+        },
+        {
+          "word": [
+            "דורש"
+          ],
+          "strong": [
+            "H1875"
+          ],
+          "morph": [
+            "HVqrmsa"
+          ],
+          "lemma": [
+            "דָּרַשׁ"
+          ],
+          "xlit": [
+            "dârash"
+          ],
+          "pron": [
+            "daw-rash'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "properly, to tread or frequent; usually to follow (for pursuit or search); by implication, to seek or ask; specifically to worship"
+          ],
+          "gloss": [
+            "ask, [idiom] at all, care for, [idiom] diligently, inquire, make inquisition, (necro-) mancer, question, require, search, seek (for, out), [idiom] surely."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "נפש",
+            "י"
+          ],
+          "strong": [
+            "Hl",
+            "H5315"
+          ],
+          "morph": [
+            "HR",
+            "Ncbsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            null,
+            "נֶפֶשׁ"
+          ],
+          "xlit": [
+            null,
+            "nephesh"
+          ],
+          "pron": [
+            null,
+            "neh'-fesh"
+          ],
+          "derivation": [
+            null,
+            "from H5314 (נָפַשׁ);"
+          ],
+          "strongs_def": [
+            null,
+            "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)"
+          ],
+          "gloss": [
+            null,
+            "any, appetite, beast, body, breath, creature, [idiom] dead(-ly), desire, [idiom] (dis-) contented, [idiom] fish, ghost, [phrase] greedy, he, heart(-y), (hath, [idiom] jeopardy of) life ([idiom] in jeopardy), lust, man, me, mind, mortally, one, own, person, pleasure, (her-, him-, my-, thy-) self, them (your) -selves, [phrase] slay, soul, [phrase] tablet, they, thing, ([idiom] she) will, [idiom] would have it."
+          ]
+        }
       ],
       "header": ""
     },
@@ -253,51 +1412,291 @@
       "verse": 5,
       "english": "I cried unto thee, O LORD: I said, Thou <i>art</i> my refuge <i>and</i> my portion in the land of the living.",
       "hebrew": [
-        [
-          "זעקתי",
-          "H2199",
-          "HVqp1cs"
-        ],
-        [
-          "אלי/ך",
-          "H413",
-          "HR/Sp2ms"
-        ],
-        [
-          "יהוה",
-          "H3068",
-          "HNp"
-        ],
-        [
-          "אמרתי",
-          "H559",
-          "HVqp1cs"
-        ],
-        [
-          "אתה",
-          "H859",
-          "HPp2ms"
-        ],
-        [
-          "מחס/י",
-          "H4268",
-          "HNcmsc/Sp1cs"
-        ],
-        [
-          "חלק/י",
-          "H2506",
-          "HNcmsc/Sp1cs"
-        ],
-        [
-          "ב/ארץ",
-          "Hb/H776",
-          "HR/Ncbsc"
-        ],
-        [
-          "ה/חיים",
-          "Hd/H2416",
-          "HTd/Aampa"
-        ]
+        {
+          "word": [
+            "זעקתי"
+          ],
+          "strong": [
+            "H2199"
+          ],
+          "morph": [
+            "HVqp1cs"
+          ],
+          "lemma": [
+            "זָעַק"
+          ],
+          "xlit": [
+            "zâʻaq"
+          ],
+          "pron": [
+            "zaw-ak'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to shriek (from anguish or danger); by analogy, (as a herald) to announce or convene publicly"
+          ],
+          "gloss": [
+            "assemble, call (together), (make a) cry (out), come with such a company, gather (together), cause to be proclaimed."
+          ]
+        },
+        {
+          "word": [
+            "אלי",
+            "ך"
+          ],
+          "strong": [
+            "H413"
+          ],
+          "morph": [
+            "HR",
+            "Sp2ms"
+          ],
+          "lemma": [
+            "אֵל"
+          ],
+          "xlit": [
+            "ʼêl"
+          ],
+          "pron": [
+            "ale"
+          ],
+          "derivation": [
+            "(but only used in the shortened constructive form אֶל ); a primitive particle; properly, denoting motion towards, but occasionally used of a quiescent position, i.e."
+          ],
+          "strongs_def": [
+            "near, with or among; often in general, to"
+          ],
+          "gloss": [
+            "about, according to, after, against, among, as for, at, because(-fore, -side), both...and, by, concerning, for, from, [idiom] hath, in(-to), near, (out) of, over, through, to(-ward), under, unto, upon, whether, with(-in)."
+          ]
+        },
+        {
+          "word": [
+            "יהוה"
+          ],
+          "strong": [
+            "H3068"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "יְהֹוָה"
+          ],
+          "xlit": [
+            "Yᵉhôvâh"
+          ],
+          "pron": [
+            "yeh-ho-vaw'"
+          ],
+          "derivation": [
+            "from H1961 (הָיָה); (the) self-Existent or Eternal;"
+          ],
+          "strongs_def": [
+            "Jehovah, Jewish national name of God"
+          ],
+          "gloss": [
+            "Jehovah, the Lord. Compare H3050 (יָהּ), H3069 (יְהֹוִה)."
+          ]
+        },
+        {
+          "word": [
+            "אמרתי"
+          ],
+          "strong": [
+            "H559"
+          ],
+          "morph": [
+            "HVqp1cs"
+          ],
+          "lemma": [
+            "אָמַר"
+          ],
+          "xlit": [
+            "ʼâmar"
+          ],
+          "pron": [
+            "aw-mar'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to say (used with great latitude)"
+          ],
+          "gloss": [
+            "answer, appoint, avouch, bid, boast self, call, certify, challenge, charge, [phrase] (at the, give) command(-ment), commune, consider, declare, demand, [idiom] desire, determine, [idiom] expressly, [idiom] indeed, [idiom] intend, name, [idiom] plainly, promise, publish, report, require, say, speak (against, of), [idiom] still, [idiom] suppose, talk, tell, term, [idiom] that is, [idiom] think, use (speech), utter, [idiom] verily, [idiom] yet."
+          ]
+        },
+        {
+          "word": [
+            "אתה"
+          ],
+          "strong": [
+            "H859"
+          ],
+          "morph": [
+            "HPp2ms"
+          ],
+          "lemma": [
+            "אַתָּה"
+          ],
+          "xlit": [
+            "ʼattâh"
+          ],
+          "pron": [
+            "at-taw'"
+          ],
+          "derivation": [
+            "or (shortened); אַתָּ; or אַת; feminine (irregular) sometimes אַתִּי; plural masculine אַתֶּם; feminine אַתֶּן; or אַתֵּנָהlemma אתֵּנָה missing vowel, corrected to אַתֵּנָה; or אַתֵּנָּה; a primitive pronoun of the second person;"
+          ],
+          "strongs_def": [
+            "thou and thee, or (plural) ye and you"
+          ],
+          "gloss": [
+            "thee, thou, ye, you."
+          ]
+        },
+        {
+          "word": [
+            "מחס",
+            "י"
+          ],
+          "strong": [
+            "H4268"
+          ],
+          "morph": [
+            "HNcmsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "מַחֲסֶה"
+          ],
+          "xlit": [
+            "machăçeh"
+          ],
+          "pron": [
+            "makh-as-eh'"
+          ],
+          "derivation": [
+            "or מַחְסֶה; from H2620 (חָסָה);"
+          ],
+          "strongs_def": [
+            "a shelter (literally or figuratively)"
+          ],
+          "gloss": [
+            "hope, (place of) refuge, shelter, trust."
+          ]
+        },
+        {
+          "word": [
+            "חלק",
+            "י"
+          ],
+          "strong": [
+            "H2506"
+          ],
+          "morph": [
+            "HNcmsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "חֵלֶק"
+          ],
+          "xlit": [
+            "chêleq"
+          ],
+          "pron": [
+            "khay'lek"
+          ],
+          "derivation": [
+            "from H2505 (חָלַק);"
+          ],
+          "strongs_def": [
+            "properly, smoothness (of the tongue); also an allotment"
+          ],
+          "gloss": [
+            "flattery, inheritance, part, [idiom] partake, portion."
+          ]
+        },
+        {
+          "word": [
+            "ב",
+            "ארץ"
+          ],
+          "strong": [
+            "Hb",
+            "H776"
+          ],
+          "morph": [
+            "HR",
+            "Ncbsc"
+          ],
+          "lemma": [
+            null,
+            "אֶרֶץ"
+          ],
+          "xlit": [
+            null,
+            "ʼerets"
+          ],
+          "pron": [
+            null,
+            "eh'-rets"
+          ],
+          "derivation": [
+            null,
+            "from an unused root probably meaning to be firm;"
+          ],
+          "strongs_def": [
+            null,
+            "the earth (at large, or partitively a land)"
+          ],
+          "gloss": [
+            null,
+            "[idiom] common, country, earth, field, ground, land, [idiom] natins, way, [phrase] wilderness, world."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "חיים"
+          ],
+          "strong": [
+            "Hd",
+            "H2416"
+          ],
+          "morph": [
+            "HTd",
+            "Aampa"
+          ],
+          "lemma": [
+            null,
+            "חַי"
+          ],
+          "xlit": [
+            null,
+            "chay"
+          ],
+          "pron": [
+            null,
+            "khah'-ee"
+          ],
+          "derivation": [
+            null,
+            "from H2421 (חָיָה);"
+          ],
+          "strongs_def": [
+            null,
+            "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively"
+          ],
+          "gloss": [
+            null,
+            "[phrase] age, alive, appetite, (wild) beast, company, congregation, life(-time), live(-ly), living (creature, thing), maintenance, [phrase] merry, multitude, [phrase] (be) old, quick, raw, running, springing, troop."
+          ]
+        }
       ],
       "header": ""
     },
@@ -306,61 +1705,344 @@
       "verse": 6,
       "english": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
       "hebrew": [
-        [
-          "הקשיב/ה",
-          "H7181",
-          "HVhv2ms/Sh"
-        ],
-        [
-          "אל",
-          "H413",
-          "HR"
-        ],
-        [
-          "רנת/י",
-          "H7440",
-          "HNcfsc/Sp1cs"
-        ],
-        [
-          "כי",
-          "H3588",
-          "HC"
-        ],
-        [
-          "דלותי",
-          "H1809",
-          "HVqp1cs"
-        ],
-        [
-          "מאד",
-          "H3966",
-          "HD"
-        ],
-        [
-          "הציל/ני",
-          "H5337",
-          "HVhv2ms/Sp1cs"
-        ],
-        [
-          "מ/רדפ/י",
-          "Hm/H7291",
-          "HR/Vqrmpc/Sp1cs"
-        ],
-        [
-          "כי",
-          "H3588",
-          "HC"
-        ],
-        [
-          "אמצו",
-          "H553",
-          "HVqp3cp"
-        ],
-        [
-          "ממ/ני",
-          "H4480",
-          "HR/Sp1cs"
-        ]
+        {
+          "word": [
+            "הקשיב",
+            "ה"
+          ],
+          "strong": [
+            "H7181"
+          ],
+          "morph": [
+            "HVhv2ms",
+            "Sh"
+          ],
+          "lemma": [
+            "קָשַׁב"
+          ],
+          "xlit": [
+            "qâshab"
+          ],
+          "pron": [
+            "kaw-shab'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to prick up the ears, i.e. hearken"
+          ],
+          "gloss": [
+            "attend, (cause to) hear(-ken), give heed, incline, mark (well), regard."
+          ]
+        },
+        {
+          "word": [
+            "אל"
+          ],
+          "strong": [
+            "H413"
+          ],
+          "morph": [
+            "HR"
+          ],
+          "lemma": [
+            "אֵל"
+          ],
+          "xlit": [
+            "ʼêl"
+          ],
+          "pron": [
+            "ale"
+          ],
+          "derivation": [
+            "(but only used in the shortened constructive form אֶל ); a primitive particle; properly, denoting motion towards, but occasionally used of a quiescent position, i.e."
+          ],
+          "strongs_def": [
+            "near, with or among; often in general, to"
+          ],
+          "gloss": [
+            "about, according to, after, against, among, as for, at, because(-fore, -side), both...and, by, concerning, for, from, [idiom] hath, in(-to), near, (out) of, over, through, to(-ward), under, unto, upon, whether, with(-in)."
+          ]
+        },
+        {
+          "word": [
+            "רנת",
+            "י"
+          ],
+          "strong": [
+            "H7440"
+          ],
+          "morph": [
+            "HNcfsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "רִנָּה"
+          ],
+          "xlit": [
+            "rinnâh"
+          ],
+          "pron": [
+            "rin-naw'"
+          ],
+          "derivation": [
+            "from H7442 (רָנַן);"
+          ],
+          "strongs_def": [
+            "properly, a creaking (or shrill sound), i.e. shout (of joy or grief)"
+          ],
+          "gloss": [
+            "cry, gladness, joy, proclamation, rejoicing, shouting, sing(-ing), triumph."
+          ]
+        },
+        {
+          "word": [
+            "כי"
+          ],
+          "strong": [
+            "H3588"
+          ],
+          "morph": [
+            "HC"
+          ],
+          "lemma": [
+            "כִּי"
+          ],
+          "xlit": [
+            "kîy"
+          ],
+          "pron": [
+            "kee"
+          ],
+          "derivation": [
+            "a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent;"
+          ],
+          "strongs_def": [
+            "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed"
+          ],
+          "gloss": [
+            "and, + (forasmuch, inasmuch, where-) as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al-) though, + till, truly, + until, when, whether, while, whom, yea, yet."
+          ]
+        },
+        {
+          "word": [
+            "דלותי"
+          ],
+          "strong": [
+            "H1809"
+          ],
+          "morph": [
+            "HVqp1cs"
+          ],
+          "lemma": [
+            "דָּלַל"
+          ],
+          "xlit": [
+            "dâlal"
+          ],
+          "pron": [
+            "daw-lal'"
+          ],
+          "derivation": [
+            "a primitive root (compare H1802 (דָּלָה));"
+          ],
+          "strongs_def": [
+            "to slacken or be feeble; figuratively, to be oppressed"
+          ],
+          "gloss": [
+            "bring low, dry up, be emptied, be not equal, fail, be impoverished, be made thin."
+          ]
+        },
+        {
+          "word": [
+            "מאד"
+          ],
+          "strong": [
+            "H3966"
+          ],
+          "morph": [
+            "HD"
+          ],
+          "lemma": [
+            "מְאֹד"
+          ],
+          "xlit": [
+            "mᵉʼôd"
+          ],
+          "pron": [
+            "meh-ode'"
+          ],
+          "derivation": [
+            "from the same as H181 (אוּד);"
+          ],
+          "strongs_def": [
+            "properly, vehemence, i.e. (with or without preposition) vehemently; by implication, wholly, speedily, etc. (often with other words as an intensive or superlative; especially when repeated)"
+          ],
+          "gloss": [
+            "diligently, especially, exceeding(-ly), far, fast, good, great(-ly), [idiom] louder and louder, might(-ily, -y), (so) much, quickly, (so) sore, utterly, very ([phrase] much, sore), well."
+          ]
+        },
+        {
+          "word": [
+            "הציל",
+            "ני"
+          ],
+          "strong": [
+            "H5337"
+          ],
+          "morph": [
+            "HVhv2ms",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "נָצַל"
+          ],
+          "xlit": [
+            "nâtsal"
+          ],
+          "pron": [
+            "naw-tsal'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to snatch away, whether in a good or a bad sense"
+          ],
+          "gloss": [
+            "[idiom] at all, defend, deliver (self), escape, [idiom] without fail, part, pluck, preserve, recover, rescue, rid, save, spoil, strip, [idiom] surely, take (out)."
+          ]
+        },
+        {
+          "word": [
+            "מ",
+            "רדפ",
+            "י"
+          ],
+          "strong": [
+            "Hm",
+            "H7291"
+          ],
+          "morph": [
+            "HR",
+            "Vqrmpc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            null,
+            "רָדַף"
+          ],
+          "xlit": [
+            null,
+            "râdaph"
+          ],
+          "pron": [
+            null,
+            "raw-daf'"
+          ],
+          "derivation": [
+            null,
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            null,
+            "to run after (usually with hostile intent; figuratively (of time) gone by)"
+          ],
+          "gloss": [
+            null,
+            "chase, put to flight, follow (after, on), hunt, (be under) persecute(-ion, -or), pursue(-r)."
+          ]
+        },
+        {
+          "word": [
+            "כי"
+          ],
+          "strong": [
+            "H3588"
+          ],
+          "morph": [
+            "HC"
+          ],
+          "lemma": [
+            "כִּי"
+          ],
+          "xlit": [
+            "kîy"
+          ],
+          "pron": [
+            "kee"
+          ],
+          "derivation": [
+            "a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent;"
+          ],
+          "strongs_def": [
+            "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed"
+          ],
+          "gloss": [
+            "and, + (forasmuch, inasmuch, where-) as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al-) though, + till, truly, + until, when, whether, while, whom, yea, yet."
+          ]
+        },
+        {
+          "word": [
+            "אמצו"
+          ],
+          "strong": [
+            "H553"
+          ],
+          "morph": [
+            "HVqp3cp"
+          ],
+          "lemma": [
+            "אָמַץ"
+          ],
+          "xlit": [
+            "ʼâmats"
+          ],
+          "pron": [
+            "aw-mats'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to be alert, physically (on foot) or mentally (in courage)"
+          ],
+          "gloss": [
+            "confirm, be courageous (of good courage, stedfastly minded, strong, stronger), establish, fortify, harden, increase, prevail, strengthen (self), make strong (obstinate, speed)."
+          ]
+        },
+        {
+          "word": [
+            "ממ",
+            "ני"
+          ],
+          "strong": [
+            "H4480"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "מִן"
+          ],
+          "xlit": [
+            "min"
+          ],
+          "pron": [
+            "min"
+          ],
+          "derivation": [
+            "or מִנִּי; or מִנֵּי; (constructive plural) (Isaiah 30:11); for H4482 (מֵן);"
+          ],
+          "strongs_def": [
+            "properly, a part of; hence (prepositionally), from or out of in many senses"
+          ],
+          "gloss": [
+            "above, after, among, at, because of, by (reason of), from (among), in, [idiom] neither, [idiom] nor, (out) of, over, since, [idiom] then, through, [idiom] whether, with."
+          ]
+        }
       ],
       "header": ""
     },
@@ -369,66 +2051,382 @@
       "verse": 7,
       "english": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
       "hebrew": [
-        [
-          "הוציא/ה",
-          "H3318",
-          "HVhv2ms/Sh"
-        ],
-        [
-          "מ/מסגר",
-          "Hm/H4525",
-          "HR/Ncmsa"
-        ],
-        [
-          "נפש/י",
-          "H5315",
-          "HNcbsc/Sp1cs"
-        ],
-        [
-          "ל/הודות",
-          "Hl/H3034",
-          "HR/Vhc"
-        ],
-        [
-          "את",
-          "H853",
-          "HTo"
-        ],
-        [
-          "שמ/ך",
-          "H8034",
-          "HNcmsc/Sp2ms"
-        ],
-        [
-          "ב/י",
-          "Hb",
-          "HR/Sp1cs"
-        ],
-        [
-          "יכתרו",
-          "H3803",
-          "HVhi3mp"
-        ],
-        [
-          "צדיקים",
-          "H6662",
-          "HAampa"
-        ],
-        [
-          "כי",
-          "H3588",
-          "HC"
-        ],
-        [
-          "תגמל",
-          "H1580",
-          "HVqi2ms"
-        ],
-        [
-          "על/י",
-          "H5921",
-          "HR/Sp1cs"
-        ]
+        {
+          "word": [
+            "הוציא",
+            "ה"
+          ],
+          "strong": [
+            "H3318"
+          ],
+          "morph": [
+            "HVhv2ms",
+            "Sh"
+          ],
+          "lemma": [
+            "יָצָא"
+          ],
+          "xlit": [
+            "yâtsâʼ"
+          ],
+          "pron": [
+            "yaw-tsaw'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to go (causatively, bring) out, in a great variety of applications, literally and figuratively, direct and proxim."
+          ],
+          "gloss": [
+            "[idiom] after, appear, [idiom] assuredly, bear out, [idiom] begotten, break out, bring forth (out, up), carry out, come (abroad, out, thereat, without), [phrase] be condemned, depart(-ing, -ure), draw forth, in the end, escape, exact, fail, fall (out), fetch forth (out), get away (forth, hence, out), (able to, cause to, let) go abroad (forth, on, out), going out, grow, have forth (out), issue out, lay (lie) out, lead out, pluck out, proceed, pull out, put away, be risen, [idiom] scarce, send with commandment, shoot forth, spread, spring out, stand out, [idiom] still, [idiom] surely, take forth (out), at any time, [idiom] to (and fro), utter."
+          ]
+        },
+        {
+          "word": [
+            "מ",
+            "מסגר"
+          ],
+          "strong": [
+            "Hm",
+            "H4525"
+          ],
+          "morph": [
+            "HR",
+            "Ncmsa"
+          ],
+          "lemma": [
+            null,
+            "מַסְגֵּר"
+          ],
+          "xlit": [
+            null,
+            "maçgêr"
+          ],
+          "pron": [
+            null,
+            "mas-gare'"
+          ],
+          "derivation": [
+            null,
+            "from H5462 (סָגַר);"
+          ],
+          "strongs_def": [
+            null,
+            "a fastener, i.e. (of a person) a smith, (of a thing) a prison"
+          ],
+          "gloss": [
+            null,
+            "prison, smith."
+          ]
+        },
+        {
+          "word": [
+            "נפש",
+            "י"
+          ],
+          "strong": [
+            "H5315"
+          ],
+          "morph": [
+            "HNcbsc",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "נֶפֶשׁ"
+          ],
+          "xlit": [
+            "nephesh"
+          ],
+          "pron": [
+            "neh'-fesh"
+          ],
+          "derivation": [
+            "from H5314 (נָפַשׁ);"
+          ],
+          "strongs_def": [
+            "properly, a breathing creature, i.e. animal of (abstractly) vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)"
+          ],
+          "gloss": [
+            "any, appetite, beast, body, breath, creature, [idiom] dead(-ly), desire, [idiom] (dis-) contented, [idiom] fish, ghost, [phrase] greedy, he, heart(-y), (hath, [idiom] jeopardy of) life ([idiom] in jeopardy), lust, man, me, mind, mortally, one, own, person, pleasure, (her-, him-, my-, thy-) self, them (your) -selves, [phrase] slay, soul, [phrase] tablet, they, thing, ([idiom] she) will, [idiom] would have it."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "הודות"
+          ],
+          "strong": [
+            "Hl",
+            "H3034"
+          ],
+          "morph": [
+            "HR",
+            "Vhc"
+          ],
+          "lemma": [
+            null,
+            "יָדָה"
+          ],
+          "xlit": [
+            null,
+            "yâdâh"
+          ],
+          "pron": [
+            null,
+            "yaw-daw'"
+          ],
+          "derivation": [
+            null,
+            "a primitive root; used only as denominative from H3027 (יָד); literally, to use (i.e. hold out) the hand;"
+          ],
+          "strongs_def": [
+            null,
+            "physically, to throw (a stone, an arrow) at or away; especially to revere or worship (with extended hands); intensively, to bemoan (by wringing the hands)"
+          ],
+          "gloss": [
+            null,
+            "cast (out), (make) confess(-ion), praise, shoot, (give) thank(-ful, -s, -sgiving)."
+          ]
+        },
+        {
+          "word": [
+            "את"
+          ],
+          "strong": [
+            "H853"
+          ],
+          "morph": [
+            "HTo"
+          ],
+          "lemma": [
+            "אֵת"
+          ],
+          "xlit": [
+            "ʼêth"
+          ],
+          "pron": [
+            "ayth"
+          ],
+          "derivation": [
+            "apparent contracted from H226 (אוֹת) in the demonstrative sense of entity;"
+          ],
+          "strongs_def": [
+            "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)"
+          ],
+          "gloss": [
+            "(as such unrepresented in English)."
+          ]
+        },
+        {
+          "word": [
+            "שמ",
+            "ך"
+          ],
+          "strong": [
+            "H8034"
+          ],
+          "morph": [
+            "HNcmsc",
+            "Sp2ms"
+          ],
+          "lemma": [
+            "שֵׁם"
+          ],
+          "xlit": [
+            "shêm"
+          ],
+          "pron": [
+            "shame"
+          ],
+          "derivation": [
+            "a primitive word (perhaps rather from through the idea of definite and conspicuous position; compare H8064 (שָׁמַיִם));"
+          ],
+          "strongs_def": [
+            "an appellation, as amark or memorial of individuality; by implication honor, authority, character"
+          ],
+          "gloss": [
+            "[phrase] base, (in-) fame(-ous), named(-d), renown, report."
+          ]
+        },
+        {
+          "word": [
+            "ב",
+            "י"
+          ],
+          "strong": [
+            "Hb"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cs"
+          ],
+          "lemma": [
+            null
+          ],
+          "xlit": [
+            null
+          ],
+          "pron": [
+            null
+          ],
+          "derivation": [
+            null
+          ],
+          "strongs_def": [
+            null
+          ],
+          "gloss": [
+            null
+          ]
+        },
+        {
+          "word": [
+            "יכתרו"
+          ],
+          "strong": [
+            "H3803"
+          ],
+          "morph": [
+            "HVhi3mp"
+          ],
+          "lemma": [
+            "כָּתַר"
+          ],
+          "xlit": [
+            "kâthar"
+          ],
+          "pron": [
+            "kaw-thar'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to enclose; hence (in a friendly sense) to crown, (in a hostile one) to besiege; also to wait (as restraining oneself)"
+          ],
+          "gloss": [
+            "beset round, compass about, be crowned inclose round, suffer."
+          ]
+        },
+        {
+          "word": [
+            "צדיקים"
+          ],
+          "strong": [
+            "H6662"
+          ],
+          "morph": [
+            "HAampa"
+          ],
+          "lemma": [
+            "צַדִּיק"
+          ],
+          "xlit": [
+            "tsaddîyq"
+          ],
+          "pron": [
+            "tsad-deek'"
+          ],
+          "derivation": [
+            "from H6663 (צָדַק);"
+          ],
+          "strongs_def": [
+            "just"
+          ],
+          "gloss": [
+            "just, lawful, righteous (man)."
+          ]
+        },
+        {
+          "word": [
+            "כי"
+          ],
+          "strong": [
+            "H3588"
+          ],
+          "morph": [
+            "HC"
+          ],
+          "lemma": [
+            "כִּי"
+          ],
+          "xlit": [
+            "kîy"
+          ],
+          "pron": [
+            "kee"
+          ],
+          "derivation": [
+            "a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent;"
+          ],
+          "strongs_def": [
+            "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed"
+          ],
+          "gloss": [
+            "and, + (forasmuch, inasmuch, where-) as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al-) though, + till, truly, + until, when, whether, while, whom, yea, yet."
+          ]
+        },
+        {
+          "word": [
+            "תגמל"
+          ],
+          "strong": [
+            "H1580"
+          ],
+          "morph": [
+            "HVqi2ms"
+          ],
+          "lemma": [
+            "גָּמַל"
+          ],
+          "xlit": [
+            "gâmal"
+          ],
+          "pron": [
+            "gaw-mal'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to treat a person (well or ill), i.e. benefit or requite; by implication (of toil), to ripen, i.e. (specifically) to wean"
+          ],
+          "gloss": [
+            "bestow on, deal bountifully, do (good), recompense, requite, reward, ripen, [phrase] serve, mean, yield."
+          ]
+        },
+        {
+          "word": [
+            "על",
+            "י"
+          ],
+          "strong": [
+            "H5921"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cs"
+          ],
+          "lemma": [
+            "עַל"
+          ],
+          "xlit": [
+            "ʻal"
+          ],
+          "pron": [
+            "al"
+          ],
+          "derivation": [
+            "properly, the same as H5920 (עַל) used as a preposition (in the singular or plural often with prefix, or as conjunction with a particle following);"
+          ],
+          "strongs_def": [
+            "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+          ],
+          "gloss": [
+            "above, according to(-ly), after, (as) against, among, and, [idiom] as, at, because of, beside (the rest of), between, beyond the time, [idiom] both and, by (reason of), [idiom] had the charge of, concerning for, in (that), (forth, out) of, (from) (off), (up-) on, over, than, through(-out), to, touching, [idiom] with."
+          ]
+        }
       ],
       "header": ""
     }

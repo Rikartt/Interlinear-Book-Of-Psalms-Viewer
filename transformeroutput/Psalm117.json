@@ -6,46 +6,249 @@
       "verse": 1,
       "english": "O praise the LORD, all ye nations: praise him, all ye people.",
       "hebrew": [
-        [
-          "הללו",
-          "H1984",
-          "HVpv2mp"
-        ],
-        [
-          "את",
-          "H853",
-          "HTo"
-        ],
-        [
-          "יהוה",
-          "H3068",
-          "HNp"
-        ],
-        [
-          "כל",
-          "H3605",
-          "HNcmsc"
-        ],
-        [
-          "גוים",
-          "H1471",
-          "HNcmpa"
-        ],
-        [
-          "שבחו/הו",
-          "H7623",
-          "HVpv2mp/Sp3ms"
-        ],
-        [
-          "כל",
-          "H3605",
-          "HNcmsc"
-        ],
-        [
-          "ה/אמים",
-          "Hd/H523",
-          "HTd/Ncfpa"
-        ]
+        {
+          "word": [
+            "הללו"
+          ],
+          "strong": [
+            "H1984"
+          ],
+          "morph": [
+            "HVpv2mp"
+          ],
+          "lemma": [
+            "הָלַל"
+          ],
+          "xlit": [
+            "hâlal"
+          ],
+          "pron": [
+            "haw-lal'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to be clear (orig. of sound, but usually of color); to shine; hence, to make ashow, to boast; and thus to be (clamorously) foolish; to rave; causatively, to celebrate; also to stultify"
+          ],
+          "gloss": [
+            "(make) boast (self), celebrate, commend, (deal, make), fool(-ish, -ly), glory, give (light), be (make, feign self) mad (against), give in marriage, (sing, be worthy of) praise, rage, renowned, shine."
+          ]
+        },
+        {
+          "word": [
+            "את"
+          ],
+          "strong": [
+            "H853"
+          ],
+          "morph": [
+            "HTo"
+          ],
+          "lemma": [
+            "אֵת"
+          ],
+          "xlit": [
+            "ʼêth"
+          ],
+          "pron": [
+            "ayth"
+          ],
+          "derivation": [
+            "apparent contracted from H226 (אוֹת) in the demonstrative sense of entity;"
+          ],
+          "strongs_def": [
+            "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)"
+          ],
+          "gloss": [
+            "(as such unrepresented in English)."
+          ]
+        },
+        {
+          "word": [
+            "יהוה"
+          ],
+          "strong": [
+            "H3068"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "יְהֹוָה"
+          ],
+          "xlit": [
+            "Yᵉhôvâh"
+          ],
+          "pron": [
+            "yeh-ho-vaw'"
+          ],
+          "derivation": [
+            "from H1961 (הָיָה); (the) self-Existent or Eternal;"
+          ],
+          "strongs_def": [
+            "Jehovah, Jewish national name of God"
+          ],
+          "gloss": [
+            "Jehovah, the Lord. Compare H3050 (יָהּ), H3069 (יְהֹוִה)."
+          ]
+        },
+        {
+          "word": [
+            "כל"
+          ],
+          "strong": [
+            "H3605"
+          ],
+          "morph": [
+            "HNcmsc"
+          ],
+          "lemma": [
+            "כֹּל"
+          ],
+          "xlit": [
+            "kôl"
+          ],
+          "pron": [
+            "kole"
+          ],
+          "derivation": [
+            "or (Jeremiah 33:8) כּוֹל; from H3634 (כָּלַל);"
+          ],
+          "strongs_def": [
+            "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)"
+          ],
+          "gloss": [
+            "(in) all (manner, (ye)), altogether, any (manner), enough, every (one, place, thing), howsoever, as many as, (no-) thing, ought, whatsoever, (the) whole, whoso(-ever)."
+          ]
+        },
+        {
+          "word": [
+            "גוים"
+          ],
+          "strong": [
+            "H1471"
+          ],
+          "morph": [
+            "HNcmpa"
+          ],
+          "lemma": [
+            "גּוֹי"
+          ],
+          "xlit": [
+            "gôwy"
+          ],
+          "pron": [
+            "go'-ee"
+          ],
+          "derivation": [
+            "rarely (shortened) גֹּי; apparently from the same root as H1465 (גֵּוָה) (in the sense of massing);"
+          ],
+          "strongs_def": [
+            "a foreign nation; hence, a Gentile; also (figuratively) a troop of animals, or a flight of locusts"
+          ],
+          "gloss": [
+            "Gentile, heathen, nation, people."
+          ]
+        },
+        {
+          "word": [
+            "שבחו",
+            "הו"
+          ],
+          "strong": [
+            "H7623"
+          ],
+          "morph": [
+            "HVpv2mp",
+            "Sp3ms"
+          ],
+          "lemma": [
+            "שָׁבַח"
+          ],
+          "xlit": [
+            "shâbach"
+          ],
+          "pron": [
+            "shaw-bakh'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "properly, to address in aloud tone, i.e. (specifically) loud; figuratively, to pacify (as if by words)"
+          ],
+          "gloss": [
+            "commend, glory, keep in, praise, still, triumph."
+          ]
+        },
+        {
+          "word": [
+            "כל"
+          ],
+          "strong": [
+            "H3605"
+          ],
+          "morph": [
+            "HNcmsc"
+          ],
+          "lemma": [
+            "כֹּל"
+          ],
+          "xlit": [
+            "kôl"
+          ],
+          "pron": [
+            "kole"
+          ],
+          "derivation": [
+            "or (Jeremiah 33:8) כּוֹל; from H3634 (כָּלַל);"
+          ],
+          "strongs_def": [
+            "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)"
+          ],
+          "gloss": [
+            "(in) all (manner, (ye)), altogether, any (manner), enough, every (one, place, thing), howsoever, as many as, (no-) thing, ought, whatsoever, (the) whole, whoso(-ever)."
+          ]
+        },
+        {
+          "word": [
+            "ה",
+            "אמים"
+          ],
+          "strong": [
+            "Hd",
+            "H523"
+          ],
+          "morph": [
+            "HTd",
+            "Ncfpa"
+          ],
+          "lemma": [
+            null,
+            "אֻמַּה"
+          ],
+          "xlit": [
+            null,
+            "ʼummah"
+          ],
+          "pron": [
+            null,
+            "oom-maw'"
+          ],
+          "derivation": [
+            null,
+            "from the same as H517 (אֵם);"
+          ],
+          "strongs_def": [
+            null,
+            "a collection, i.e. community of persons"
+          ],
+          "gloss": [
+            null,
+            "nation, people."
+          ]
+        }
       ],
       "header": ""
     },
@@ -54,51 +257,289 @@
       "verse": 2,
       "english": "For his merciful kindness is great toward us: and the truth of the LORD <i>endureth</i> for ever. Praise ye the LORD.",
       "hebrew": [
-        [
-          "כי",
-          "H3588",
-          "HC"
-        ],
-        [
-          "גבר",
-          "H1396",
-          "HVqp3ms"
-        ],
-        [
-          "עלי/נו",
-          "H5921",
-          "HR/Sp1cp"
-        ],
-        [
-          "חסד/ו",
-          "H2617",
-          "HNcmsc/Sp3ms"
-        ],
-        [
-          "ו/אמת",
-          "Hc/H571",
-          "HC/Ncfsc"
-        ],
-        [
-          "יהוה",
-          "H3068",
-          "HNp"
-        ],
-        [
-          "ל/עולם",
-          "Hl/H5769",
-          "HR/Ncmsa"
-        ],
-        [
-          "הללו",
-          "H1984",
-          "HVpv2mp"
-        ],
-        [
-          "יה",
-          "H3050",
-          "HNp"
-        ]
+        {
+          "word": [
+            "כי"
+          ],
+          "strong": [
+            "H3588"
+          ],
+          "morph": [
+            "HC"
+          ],
+          "lemma": [
+            "כִּי"
+          ],
+          "xlit": [
+            "kîy"
+          ],
+          "pron": [
+            "kee"
+          ],
+          "derivation": [
+            "a primitive particle (the full form of the prepositional prefix) indicating causal relations of all kinds, antecedent or consequent;"
+          ],
+          "strongs_def": [
+            "(by implication) very widely used as a relative conjunction or adverb (as below); often largely modified by other particles annexed"
+          ],
+          "gloss": [
+            "and, + (forasmuch, inasmuch, where-) as, assured(-ly), + but, certainly, doubtless, + else, even, + except, for, how, (because, in, so, than) that, + nevertheless, now, rightly, seeing, since, surely, then, therefore, + (al-) though, + till, truly, + until, when, whether, while, whom, yea, yet."
+          ]
+        },
+        {
+          "word": [
+            "גבר"
+          ],
+          "strong": [
+            "H1396"
+          ],
+          "morph": [
+            "HVqp3ms"
+          ],
+          "lemma": [
+            "גָּבַר"
+          ],
+          "xlit": [
+            "gâbar"
+          ],
+          "pron": [
+            "gaw-bar'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to be strong; by implication, to prevail, act insolently"
+          ],
+          "gloss": [
+            "exceed, confirm, be great, be mighty, prevail, put to more (strength), strengthen, be stronger, be valiant."
+          ]
+        },
+        {
+          "word": [
+            "עלי",
+            "נו"
+          ],
+          "strong": [
+            "H5921"
+          ],
+          "morph": [
+            "HR",
+            "Sp1cp"
+          ],
+          "lemma": [
+            "עַל"
+          ],
+          "xlit": [
+            "ʻal"
+          ],
+          "pron": [
+            "al"
+          ],
+          "derivation": [
+            "properly, the same as H5920 (עַל) used as a preposition (in the singular or plural often with prefix, or as conjunction with a particle following);"
+          ],
+          "strongs_def": [
+            "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+          ],
+          "gloss": [
+            "above, according to(-ly), after, (as) against, among, and, [idiom] as, at, because of, beside (the rest of), between, beyond the time, [idiom] both and, by (reason of), [idiom] had the charge of, concerning for, in (that), (forth, out) of, (from) (off), (up-) on, over, than, through(-out), to, touching, [idiom] with."
+          ]
+        },
+        {
+          "word": [
+            "חסד",
+            "ו"
+          ],
+          "strong": [
+            "H2617"
+          ],
+          "morph": [
+            "HNcmsc",
+            "Sp3ms"
+          ],
+          "lemma": [
+            "חֵסֵד"
+          ],
+          "xlit": [
+            "chêçêd"
+          ],
+          "pron": [
+            "kheh'-sed"
+          ],
+          "derivation": [
+            "from H2616 (חָסַד);"
+          ],
+          "strongs_def": [
+            "kindness; by implication (towards God) piety; rarely (by opposition) reproof, or (subject.) beauty"
+          ],
+          "gloss": [
+            "favour, good deed(-liness, -ness), kindly, (loving-) kindness, merciful (kindness), mercy, pity, reproach, wicked thing."
+          ]
+        },
+        {
+          "word": [
+            "ו",
+            "אמת"
+          ],
+          "strong": [
+            "Hc",
+            "H571"
+          ],
+          "morph": [
+            "HC",
+            "Ncfsc"
+          ],
+          "lemma": [
+            null,
+            "אֶמֶת"
+          ],
+          "xlit": [
+            null,
+            "ʼemeth"
+          ],
+          "pron": [
+            null,
+            "eh'-meth"
+          ],
+          "derivation": [
+            null,
+            "contracted from H539 (אָמַן);"
+          ],
+          "strongs_def": [
+            null,
+            "stability; (figuratively) certainty, truth, trustworthiness"
+          ],
+          "gloss": [
+            null,
+            "assured(-ly), establishment, faithful, right, sure, true (-ly, -th), verity."
+          ]
+        },
+        {
+          "word": [
+            "יהוה"
+          ],
+          "strong": [
+            "H3068"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "יְהֹוָה"
+          ],
+          "xlit": [
+            "Yᵉhôvâh"
+          ],
+          "pron": [
+            "yeh-ho-vaw'"
+          ],
+          "derivation": [
+            "from H1961 (הָיָה); (the) self-Existent or Eternal;"
+          ],
+          "strongs_def": [
+            "Jehovah, Jewish national name of God"
+          ],
+          "gloss": [
+            "Jehovah, the Lord. Compare H3050 (יָהּ), H3069 (יְהֹוִה)."
+          ]
+        },
+        {
+          "word": [
+            "ל",
+            "עולם"
+          ],
+          "strong": [
+            "Hl",
+            "H5769"
+          ],
+          "morph": [
+            "HR",
+            "Ncmsa"
+          ],
+          "lemma": [
+            null,
+            "עוֹלָם"
+          ],
+          "xlit": [
+            null,
+            "ʻôwlâm"
+          ],
+          "pron": [
+            null,
+            "o-lawm'"
+          ],
+          "derivation": [
+            null,
+            "or עֹלָם; from H5956 (עָלַם);"
+          ],
+          "strongs_def": [
+            null,
+            "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always"
+          ],
+          "gloss": [
+            null,
+            "alway(-s), ancient (time), any more, continuance, eternal, (for, (n-)) ever(-lasting, -more, of old), lasting, long (time), (of) old (time), perpetual, at any time, (beginning of the) world ([phrase] without end). Compare H5331 (נֶצַח), H5703 (עַד)."
+          ]
+        },
+        {
+          "word": [
+            "הללו"
+          ],
+          "strong": [
+            "H1984"
+          ],
+          "morph": [
+            "HVpv2mp"
+          ],
+          "lemma": [
+            "הָלַל"
+          ],
+          "xlit": [
+            "hâlal"
+          ],
+          "pron": [
+            "haw-lal'"
+          ],
+          "derivation": [
+            "a primitive root;"
+          ],
+          "strongs_def": [
+            "to be clear (orig. of sound, but usually of color); to shine; hence, to make ashow, to boast; and thus to be (clamorously) foolish; to rave; causatively, to celebrate; also to stultify"
+          ],
+          "gloss": [
+            "(make) boast (self), celebrate, commend, (deal, make), fool(-ish, -ly), glory, give (light), be (make, feign self) mad (against), give in marriage, (sing, be worthy of) praise, rage, renowned, shine."
+          ]
+        },
+        {
+          "word": [
+            "יה"
+          ],
+          "strong": [
+            "H3050"
+          ],
+          "morph": [
+            "HNp"
+          ],
+          "lemma": [
+            "יָהּ"
+          ],
+          "xlit": [
+            "Yâhh"
+          ],
+          "pron": [
+            "yaw"
+          ],
+          "derivation": [
+            "contraction for H3068 (יְהֹוָה), and meaning the same;"
+          ],
+          "strongs_def": [
+            "Jah, the sacred name"
+          ],
+          "gloss": [
+            "Jah, the Lord, most vehement. Compare names in '-iah,' '-jah.'"
+          ]
+        }
       ],
       "header": ""
     }
