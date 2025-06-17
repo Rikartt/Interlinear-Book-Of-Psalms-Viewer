@@ -106,7 +106,7 @@ Website/psalms-interlinear/public/data/psalms/
 
 ## 🪪 License
 
-This project is **not open source**.
+This project is, as of now, **not open source**.
 
 All code, data, and content in this repository are ©Rikard Blennhem and may not be used, copied, modified, or distributed without explicit written permission.
 
