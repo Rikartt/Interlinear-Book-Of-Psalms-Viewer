@@ -1,16 +1,10 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 // src/pages/something.js
-//function addnikkud(t) {
-  //t.word.map((w, idx) => {
-    //if ({word.lemma[idx]} == null) return;
-  //});
-//}
 function addNikkud(wordObj) {
   return wordObj.word.map((w, idx) => {
     if (wordObj.lemma[idx] == null) return w;
-    // Apply nikkud logic here — e.g., append some symbol
-    return wordObj.lemma[idx]; // Or whatever transformation you want
+    return wordObj.lemma[idx]; 
   });
 }
 function decodeMorph(tag) {
