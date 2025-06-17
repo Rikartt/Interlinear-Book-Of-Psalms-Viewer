@@ -95,7 +95,9 @@ Website/psalms-interlinear/public/data/psalms/
 ## 📈 Roadmap
 
 - [ ] Add nikkud to the UI
+- [ ] Add scaling for smaller displays
 - [ ] Improve user-friendliness of UI
+- [ ] Add mobile support
 - [ ] Add verse audio support
 - [ ] Add search by Strong’s number or lemma
 - [ ] Expand beyond Psalms to full Tanakh

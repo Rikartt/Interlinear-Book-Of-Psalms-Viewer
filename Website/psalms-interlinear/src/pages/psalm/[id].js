@@ -6,6 +6,13 @@ import { useRouter } from 'next/router';
     //if ({word.lemma[idx]} == null) return;
   //});
 //}
+function addNikkud(wordObj) {
+  return wordObj.word.map((w, idx) => {
+    if (wordObj.lemma[idx] == null) return w;
+    // Apply nikkud logic here — e.g., append some symbol
+    return wordObj.lemma[idx]; // Or whatever transformation you want
+  });
+}
 function decodeMorph(tag) {
   const pos = {
     N: "Noun",
@@ -74,11 +81,18 @@ export default function PsalmPage() {
           <div className="text-right font-hebrew"> 
             {v.hebrew.map((wordObj, i) => (
               <span key={i} className="group relative mx-1 hover:underline cursor-help">
-                {wordObj.word.join("")}
-                <span className="absolute bottom-full mb-1 hidden group-hover:block bg-white text-black text-xs px-2 py-1 rounded shadow-lg z-10 whitespace-nowrap">
+                {addNikkud(wordObj).join("")}
+                <span className="absolute top-full mb-1 hidden group-hover:block bg-white text-black text-xs px-3 py-2 rounded shadow-lg z-10 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
                   {wordObj.word.map((w, idx) => (
                     <div key={idx} className="text wrap">
-                      <b>{wordObj.lemma[idx]} {w}</b> — {wordObj.strong[idx]} • {decodeMorph(wordObj.morph[idx])} • {wordObj.xlit[idx]} • {wordObj.pron[idx]} • {wordObj.derivation[idx]} • {wordObj.strongs_def[idx]} • {wordObj.gloss[idx]}
+                      <b>{addNikkud(wordObj)}</b> —
+                        <div>• {wordObj.strong[idx]}</div>
+                        <div>• {decodeMorph(wordObj.morph[idx])}</div>
+                        <div>• {wordObj.xlit[idx]}</div>
+                        <div>• {wordObj.pron[idx]}</div>
+                        <div>• {wordObj.derivation[idx]}</div>
+                        <div>• {wordObj.strongs_def[idx]}</div>
+                        <div>• {wordObj.gloss[idx]}</div>
                     </div>
                   ))}
                 </span>
