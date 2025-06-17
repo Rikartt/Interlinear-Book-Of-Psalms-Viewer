@@ -1,43 +1,1739 @@
-{"chapter": 107, "verse": 1, "english": "O give thanks unto the LORD, for <i>he is</i> good: for his mercy <i>endureth</i> for ever.", "hebrew": [["הדו", "H3034", "HVhv2mp"], ["ל/יהוה", "Hl/H3068", "HR/Np"], ["כי", "H3588", "HC"], ["טוב", "H2896", "HAamsa"], ["כי", "H3588", "HC"], ["ל/עולם", "Hl/H5769", "HR/Ncmsa"], ["חסד/ו", "H2617", "HNcmsc/Sp3ms"]], "header": ""}
-{"chapter": 107, "verse": 2, "english": "Let the redeemed of the LORD say <i>so,</i> whom he hath redeemed from the hand of the enemy;", "hebrew": [["יאמרו", "H559", "HVqi3mp"], ["גאולי", "H1350", "HVqsmpc"], ["יהוה", "H3068", "HNp"], ["אשר", "H834", "HTr"], ["גאל/ם", "H1350", "HVqp3ms/Sp3mp"], ["מ/יד", "Hm/H3027", "HR/Ncbsc"], ["צר", "H6862", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 3, "english": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south.", "hebrew": [["ו/מ/ארצות", "Hc/Hm/H776", "HC/R/Ncbpa"], ["קבצ/ם", "H6908", "HVpp3ms/Sp3mp"], ["מ/מזרח", "Hm/H4217", "HR/Ncmsa"], ["ו/מ/מערב", "Hc/Hm/H4628", "HC/R/Ncmsa"], ["מ/צפון", "Hm/H6828", "HR/Ncfsa"], ["ו/מ/ים", "Hc/Hm/H3220", "HC/R/Ncmsa"]], "header": ""}
-{"chapter": 107, "verse": 4, "english": "They wandered in the wilderness in a solitary way; they found no city to dwell in.", "hebrew": [["תעו", "H8582", "HVqp3cp"], ["ב/מדבר", "Hb/H4057", "HRd/Ncmsa"], ["ב/ישימון", "Hb/H3452", "HR/Ncmsc"], ["דרך", "H1870", "HNcbsa"], ["עיר", "H5892", "HNcfsc"], ["מושב", "H4186", "HNcmsa"], ["לא", "H3808", "HTn"], ["מצאו", "H4672", "HVqp3cp"]], "header": ""}
-{"chapter": 107, "verse": 5, "english": "Hungry and thirsty, their soul fainted in them.", "hebrew": [["רעבים", "H7457", "HAampa"], ["גם", "H1571", "HTa"], ["צמאים", "H6771", "HAampa"], ["נפש/ם", "H5315", "HNcbsc/Sp3mp"], ["ב/הם", "Hb", "HR/Sp3mp"], ["תתעטף", "H5848", "HVti3fs"]], "header": ""}
-{"chapter": 107, "verse": 6, "english": "Then they cried unto the LORD in their trouble, <i>and</i> he delivered them out of their distresses.", "hebrew": [["ו/יצעקו", "Hc/H6817", "HC/Vqw3mp"], ["אל", "H413", "HR"], ["יהוה", "H3068", "HNp"], ["ב/צר", "Hb/H6862", "HRd/Aamsa"], ["ל/הם", "Hl", "HR/Sp3mp"], ["מ/מצוקותי/הם", "Hm/H4691", "HR/Ncfpc/Sp3mp"], ["יציל/ם", "H5337", "HVhi3ms/Sp3mp"]], "header": ""}
-{"chapter": 107, "verse": 7, "english": "And he led them forth by the right way, that they might go to a city of habitation.", "hebrew": [["ו/ידריכ/ם", "Hc/H1869", "HC/Vhw3ms/Sp3mp"], ["ב/דרך", "Hb/H1870", "HR/Ncbsa"], ["ישרה", "H3477", "HAafsa"], ["ל/לכת", "Hl/H3212", "HR/Vqc"], ["אל", "H413", "HR"], ["עיר", "H5892", "HNcfsc"], ["מושב", "H4186", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 8, "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!", "hebrew": [["יודו", "H3034", "HVhj3mp"], ["ל/יהוה", "Hl/H3068", "HR/Np"], ["חסד/ו", "H2617", "HNcmsc/Sp3ms"], ["ו/נפלאותי/ו", "Hc/H6381", "HC/VNrfpc/Sp3ms"], ["ל/בני", "Hl/H1121", "HR/Ncmpc"], ["אדם", "H120", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 9, "english": "For he satisfieth the longing soul, and filleth the hungry soul with goodness.", "hebrew": [["כי", "H3588", "HC"], ["השביע", "H7646", "HVhp3ms"], ["נפש", "H5315", "HNcbsa"], ["שקקה", "H8264", "HVqrfsa"], ["ו/נפש", "Hc/H5315", "HC/Ncbsa"], ["רעבה", "H7457", "HAafsa"], ["מלא", "H4390", "HVpp3ms"], ["טוב", "H2896", "HAamsa"]], "header": ""}
-{"chapter": 107, "verse": 10, "english": "Such as sit in darkness and in the shadow of death, <i>being</i> bound in affliction and iron;", "hebrew": [["ישבי", "H3427", "HVqrmpc"], ["חשך", "H2822", "HNcmsa"], ["ו/צלמות", "Hc/H6757", "HC/Ncmsa"], ["אסירי", "H615", "HNcmpc"], ["עני", "H6040", "HNcmsa"], ["ו/ברזל", "Hc/H1270", "HC/Ncmsa"]], "header": ""}
-{"chapter": 107, "verse": 11, "english": "Because they rebelled against the words of God, and contemned the counsel of the most High:", "hebrew": [["כי", "H3588", "HC"], ["המרו", "H4784", "HVhp3cp"], ["אמרי", "H561", "HNcmpc"], ["אל", "H410", "HNcmsa"], ["ו/עצת", "Hc/H6098", "HC/Ncfsc"], ["עליון", "H5945", "HAamsa"], ["נאצו", "H5006", "HVqp3cp"]], "header": ""}
-{"chapter": 107, "verse": 12, "english": "Therefore he brought down their heart with labour; they fell down, and <i>there was</i> none to help.", "hebrew": [["ו/יכנע", "Hc/H3665", "HC/Vhw3ms"], ["ב/עמל", "Hb/H5999", "HRd/Ncbsa"], ["לב/ם", "H3820", "HNcmsc/Sp3mp"], ["כשלו", "H3782", "HVqp3cp"], ["ו/אין", "Hc/H369", "HC/Tn"], ["עזר", "H5826", "HVqrmsa"]], "header": ""}
-{"chapter": 107, "verse": 13, "english": "Then they cried unto the LORD in their trouble, <i>and</i> he saved them out of their distresses.", "hebrew": [["ו/יזעקו", "Hc/H2199", "HC/Vqw3mp"], ["אל", "H413", "HR"], ["יהוה", "H3068", "HNp"], ["ב/צר", "Hb/H6862", "HRd/Aamsa"], ["ל/הם", "Hl", "HR/Sp3mp"], ["מ/מצקותי/הם", "Hm/H4691", "HR/Ncfpc/Sp3mp"], ["יושיע/ם", "H3467", "HVhi3ms/Sp3mp"]], "header": ""}
-{"chapter": 107, "verse": 14, "english": "He brought them out of darkness and the shadow of death, and brake their bands in sunder.", "hebrew": [["יוציא/ם", "H3318", "HVhi3ms/Sp3mp"], ["מ/חשך", "Hm/H2822", "HR/Ncmsa"], ["ו/צלמות", "Hc/H6757", "HC/Ncmsa"], ["ו/מוסרותי/הם", "Hc/H4147", "HC/Ncbpc/Sp3mp"], ["ינתק", "H5423", "HVpi3ms"]], "header": ""}
-{"chapter": 107, "verse": 15, "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!", "hebrew": [["יודו", "H3034", "HVhj3mp"], ["ל/יהוה", "Hl/H3068", "HR/Np"], ["חסד/ו", "H2617", "HNcmsc/Sp3ms"], ["ו/נפלאותי/ו", "Hc/H6381", "HC/VNrfpc/Sp3ms"], ["ל/בני", "Hl/H1121", "HR/Ncmpc"], ["אדם", "H120", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 16, "english": "For he hath broken the gates of brass, and cut the bars of iron in sunder.", "hebrew": [["כי", "H3588", "HC"], ["שבר", "H7665", "HVpp3ms"], ["דלתות", "H1817", "HNcfpc"], ["נחשת", "H5178", "HNcfsa"], ["ו/בריחי", "Hc/H1280", "HC/Ncmpc"], ["ברזל", "H1270", "HNcmsa"], ["גדע", "H1438", "HVpp3ms"]], "header": ""}
-{"chapter": 107, "verse": 17, "english": "Fools because of their transgression, and because of their iniquities, are afflicted.", "hebrew": [["אולים", "H191", "HAampa"], ["מ/דרך", "Hm/H1870", "HR/Ncbsc"], ["פשע/ם", "H6588", "HNcmsc/Sp3mp"], ["ו/מ/עונתי/הם", "Hc/Hm/H5771", "HC/R/Ncbpc/Sp3mp"], ["יתענו", "H6031", "HVti3mp"]], "header": ""}
-{"chapter": 107, "verse": 18, "english": "Their soul abhorreth all manner of meat; and they draw near unto the gates of death.", "hebrew": [["כל", "H3605", "HNcmsc"], ["אכל", "H400", "HNcmsa"], ["תתעב", "H8581", "HVpi3fs"], ["נפש/ם", "H5315", "HNcbsc/Sp3mp"], ["ו/יגיעו", "Hc/H5060", "HC/Vhw3mp"], ["עד", "H5704", "HR"], ["שערי", "H8179", "HNcmpc"], ["מות", "H4194", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 19, "english": "Then they cry unto the LORD in their trouble, <i>and</i> he saveth them out of their distresses.", "hebrew": [["ו/יזעקו", "Hc/H2199", "HC/Vqw3mp"], ["אל", "H413", "HR"], ["יהוה", "H3068", "HNp"], ["ב/צר", "Hb/H6862", "HRd/Aamsa"], ["ל/הם", "Hl", "HR/Sp3mp"], ["מ/מצקותי/הם", "Hm/H4691", "HR/Ncfpc/Sp3mp"], ["יושיע/ם", "H3467", "HVhi3ms/Sp3mp"]], "header": ""}
-{"chapter": 107, "verse": 20, "english": "He sent his word, and healed them, and delivered <i>them</i> from their destructions.", "hebrew": [["ישלח", "H7971", "HVqi3ms"], ["דבר/ו", "H1697", "HNcmsc/Sp3ms"], ["ו/ירפא/ם", "Hc/H7495", "HC/Vqi3ms/Sp3mp"], ["ו/ימלט", "Hc/H4422", "HC/Vpi3ms"], ["מ/שחיתות/ם", "Hm/H7825", "HR/Ncfpc/Sp3mp"]], "header": ""}
-{"chapter": 107, "verse": 21, "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!", "hebrew": [["יודו", "H3034", "HVhj3mp"], ["ל/יהוה", "Hl/H3068", "HR/Np"], ["חסד/ו", "H2617", "HNcmsc/Sp3ms"], ["ו/נפלאותי/ו", "Hc/H6381", "HC/VNrfpc/Sp3ms"], ["ל/בני", "Hl/H1121", "HR/Ncmpc"], ["אדם", "H120", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 22, "english": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.", "hebrew": [["ו/יזבחו", "Hc/H2076", "HC/Vqi3mp"], ["זבחי", "H2077", "HNcmpc"], ["תודה", "H8426", "HNcfsa"], ["ו/יספרו", "Hc/H5608", "HC/Vpi3mp"], ["מעשי/ו", "H4639", "HNcmpc/Sp3ms"], ["ב/רנה", "Hb/H7440", "HR/Ncfsa"]], "header": ""}
-{"chapter": 107, "verse": 23, "english": "They that go down to the sea in ships, that do business in great waters;", "hebrew": [["יורדי", "H3381", "HVqrmpc"], ["ה/ים", "Hd/H3220", "HTd/Ncmsa"], ["ב/אניות", "Hb/H591", "HR/Ncfpa"], ["עשי", "H6213", "HVqrmpc"], ["מלאכה", "H4399", "HNcfsa"], ["ב/מים", "Hb/H4325", "HR/Ncmpa"], ["רבים", "H7227", "HAampa"]], "header": ""}
-{"chapter": 107, "verse": 24, "english": "These see the works of the LORD, and his wonders in the deep.", "hebrew": [["המה", "H1992", "HPp3mp"], ["ראו", "H7200", "HVqp3cp"], ["מעשי", "H4639", "HNcmpc"], ["יהוה", "H3068", "HNp"], ["ו/נפלאותי/ו", "Hc/H6381", "HC/VNrfpc/Sp3ms"], ["ב/מצולה", "Hb/H4688", "HR/Ncfsa"]], "header": ""}
-{"chapter": 107, "verse": 25, "english": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.", "hebrew": [["ו/יאמר", "Hc/H559", "HC/Vqw3ms"], ["ו/יעמד", "Hc/H5975", "HC/Vhw3ms"], ["רוח", "H7307", "HNcbsc"], ["סערה", "H5591", "HNcfsa"], ["ו/תרומם", "Hc/H7311", "HC/Vow3fs"], ["גלי/ו", "H1530", "HNcmpc/Sp3ms"]], "header": ""}
-{"chapter": 107, "verse": 26, "english": "They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.", "hebrew": [["יעלו", "H5927", "HVqi3mp"], ["שמים", "H8064", "HNcmpa"], ["ירדו", "H3381", "HVqi3mp"], ["תהומות", "H8415", "HNcbpa"], ["נפש/ם", "H5315", "HNcbsc/Sp3mp"], ["ב/רעה", "Hb/H7451", "HR/Ncfsa"], ["תתמוגג", "H4127", "HVri3fs"]], "header": ""}
-{"chapter": 107, "verse": 27, "english": "They reel to and fro, and stagger like a drunken man, and are at their wits' end.", "hebrew": [["יחוגו", "H2287", "HVqi3mp"], ["ו/ינועו", "Hc/H5128", "HC/Vqi3mp"], ["כ/שכור", "Hk/H7910", "HRd/Aamsa"], ["ו/כל", "Hc/H3605", "HC/Ncmsc"], ["חכמת/ם", "H2451", "HNcfsc/Sp3mp"], ["תתבלע", "H1104", "HVti3fs"]], "header": ""}
-{"chapter": 107, "verse": 28, "english": "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.", "hebrew": [["ו/יצעקו", "Hc/H6817", "HC/Vqw3mp"], ["אל", "H413", "HR"], ["יהוה", "H3068", "HNp"], ["ב/צר", "Hb/H6862", "HRd/Aamsa"], ["ל/הם", "Hl", "HR/Sp3mp"], ["ו/מ/מצוקתי/הם", "Hc/Hm/H4691", "HC/R/Ncfpc/Sp3mp"], ["יוציא/ם", "H3318", "HVhi3ms/Sp3mp"]], "header": ""}
-{"chapter": 107, "verse": 29, "english": "He maketh the storm a calm, so that the waves thereof are still.", "hebrew": [["יקם", "H6965", "HVhi3ms"], ["סערה", "H5591", "HNcfsa"], ["ל/דממה", "Hl/H1827", "HR/Ncfsa"], ["ו/יחשו", "Hc/H2814", "HC/Vqw3mp"], ["גלי/הם", "H1530", "HNcmpc/Sp3mp"]], "header": ""}
-{"chapter": 107, "verse": 30, "english": "Then are they glad because they be quiet; so he bringeth them unto their desired haven.", "hebrew": [["ו/ישמחו", "Hc/H8055", "HC/Vqw3mp"], ["כי", "H3588", "HC"], ["ישתקו", "H8367", "HVqi3mp"], ["ו/ינח/ם", "Hc/H5148", "HC/Vhw3ms/Sp3mp"], ["אל", "H413", "HR"], ["מחוז", "H4231", "HNcmsc"], ["חפצ/ם", "H2656", "HNcmsc/Sp3mp"]], "header": ""}
-{"chapter": 107, "verse": 31, "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!", "hebrew": [["יודו", "H3034", "HVhj3mp"], ["ל/יהוה", "Hl/H3068", "HR/Np"], ["חסד/ו", "H2617", "HNcmsc/Sp3ms"], ["ו/נפלאותי/ו", "Hc/H6381", "HC/VNrfpc/Sp3ms"], ["ל/בני", "Hl/H1121", "HR/Ncmpc"], ["אדם", "H120", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 32, "english": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.", "hebrew": [["ו/ירממו/הו", "Hc/H7311", "HC/Voi3mp/Sp3ms"], ["ב/קהל", "Hb/H6951", "HR/Ncmsc"], ["עם", "H5971", "HNcmsa"], ["ו/ב/מושב", "Hc/Hb/H4186", "HC/R/Ncmsc"], ["זקנים", "H2205", "HAampa"], ["יהללו/הו", "H1984", "HVpi3mp/Sp3ms"]], "header": ""}
-{"chapter": 107, "verse": 33, "english": "He turneth rivers into a wilderness, and the watersprings into dry ground;", "hebrew": [["ישם", "H7760", "HVqi3ms"], ["נהרות", "H5104", "HNcmpa"], ["ל/מדבר", "Hl/H4057", "HR/Ncmsa"], ["ו/מצאי", "Hc/H4161", "HC/Ncmpc"], ["מים", "H4325", "HNcmpa"], ["ל/צמאון", "Hl/H6774", "HR/Ncmsa"]], "header": ""}
-{"chapter": 107, "verse": 34, "english": "A fruitful land into barrenness, for the wickedness of them that dwell therein.", "hebrew": [["ארץ", "H776", "HNcbsc"], ["פרי", "H6529", "HNcmsa"], ["ל/מלחה", "Hl/H4420", "HR/Ncfsa"], ["מ/רעת", "Hm/H7451", "HR/Ncfsc"], ["ישבי", "H3427", "HVqrmpc"], ["ב/ה", "Hb", "HR/Sp3fs"]], "header": ""}
-{"chapter": 107, "verse": 35, "english": "He turneth the wilderness into a standing water, and dry ground into watersprings.", "hebrew": [["ישם", "H7760", "HVqi3ms"], ["מדבר", "H4057", "HNcmsa"], ["ל/אגם", "Hl/H98", "HR/Ncmsc"], ["מים", "H4325", "HNcmpa"], ["ו/ארץ", "Hc/H776", "HC/Ncbsc"], ["ציה", "H6723", "HNcfsa"], ["ל/מצאי", "Hl/H4161", "HR/Ncmpc"], ["מים", "H4325", "HNcmpa"]], "header": ""}
-{"chapter": 107, "verse": 36, "english": "And there he maketh the hungry to dwell, that they may prepare a city for habitation;", "hebrew": [["ו/יושב", "Hc/H3427", "HC/Vhw3ms"], ["שם", "H8033", "HD"], ["רעבים", "H7457", "HAampa"], ["ו/יכוננו", "Hc/H3559", "HC/Vow3mp"], ["עיר", "H5892", "HNcfsc"], ["מושב", "H4186", "HNcmsa"]], "header": ""}
-{"chapter": 107, "verse": 37, "english": "And sow the fields, and plant vineyards, which may yield fruits of increase.", "hebrew": [["ו/יזרעו", "Hc/H2232", "HC/Vqw3mp"], ["שדות", "H7704", "HNcmpa"], ["ו/יטעו", "Hc/H5193", "HC/Vqw3mp"], ["כרמים", "H3754", "HNcbpa"], ["ו/יעשו", "Hc/H6213", "HC/Vqw3mp"], ["פרי", "H6529", "HNcmsc"], ["תבואה", "H8393", "HNcfsa"]], "header": ""}
-{"chapter": 107, "verse": 38, "english": "He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.", "hebrew": [["ו/יברכ/ם", "Hc/H1288", "HC/Vpw3ms/Sp3mp"], ["ו/ירבו", "Hc/H7235", "HC/Vqw3mp"], ["מאד", "H3966", "HD"], ["ו/בהמת/ם", "Hc/H929", "HC/Ncfsc/Sp3mp"], ["לא", "H3808", "HTn"], ["ימעיט", "H4591", "HVhi3ms"]], "header": ""}
-{"chapter": 107, "verse": 39, "english": "Again, they are minished and brought low through oppression, affliction, and sorrow.", "hebrew": [["ו/ימעטו", "Hc/H4591", "HC/Vqw3mp"], ["ו/ישחו", "Hc/H7817", "HC/Vqw3mp"], ["מ/עצר", "Hm/H6115", "HR/Ncmsc"], ["רעה", "H7451", "HNcfsa"], ["ו/יגון", "Hc/H3015", "HC/Ncmsa"]], "header": ""}
-{"chapter": 107, "verse": 40, "english": "He poureth contempt upon princes, and causeth them to wander in the wilderness, <i>where there is</i> no way.", "hebrew": [["שפך", "H8210", "HVqrmsa"], ["בוז", "H937", "HNcmsa"], ["על", "H5921", "HR"], ["נדיבים", "H5081", "HAampa"], ["ו/יתע/ם", "Hc/H8582", "HC/Vhw3ms/Sp3mp"], ["ב/תהו", "Hb/H8414", "HR/Ncmsc"], ["לא", "H3808", "HTn"], ["דרך", "H1870", "HNcbsa"]], "header": ""}
-{"chapter": 107, "verse": 41, "english": "Yet setteth he the poor on high from affliction, and maketh <i>him</i> families like a flock.", "hebrew": [["ו/ישגב", "Hc/H7682", "HC/Vpw3ms"], ["אביון", "H34", "HAamsa"], ["מ/עוני", "Hm/H6040", "HR/Ncmsa"], ["ו/ישם", "Hc/H7760", "HC/Vqw3ms"], ["כ/צאן", "Hk/H6629", "HRd/Ncbsa"], ["משפחות", "H4940", "HNcfpa"]], "header": ""}
-{"chapter": 107, "verse": 42, "english": "The righteous shall see <i>it,</i> and rejoice: and all iniquity shall stop her mouth.", "hebrew": [["יראו", "H7200", "HVqi3mp"], ["ישרים", "H3477", "HAampa"], ["ו/ישמחו", "Hc/H8055", "HC/Vqi3mp"], ["ו/כל", "Hc/H3605", "HC/Ncmsc"], ["עולה", "H5766", "HNcbsa"], ["קפצה", "H7092", "HVqp3fs"], ["פי/ה", "H6310", "HNcmsc/Sp3fs"]], "header": ""}
-{"chapter": 107, "verse": 43, "english": "Whoso <i>is</i> wise, and will observe these <i>things,</i> even they shall understand the lovingkindness of the LORD.", "hebrew": [["מי", "H4310", "HTi"], ["חכם", "H2450", "HAamsa"], ["ו/ישמר", "Hc/H8104", "HC/Vqi3ms"], ["אלה", "H428", "HPdxcp"], ["ו/יתבוננו", "Hc/H995", "HC/Vrj3mp"], ["חסדי", "H2617", "HNcmpc"], ["יהוה", "H3068", "HNp"]], "header": ""}
+{
+  "psalm": 107,
+  "verses": [
+    {
+      "chapter": 107,
+      "verse": 1,
+      "english": "O give thanks unto the LORD, for <i>he is</i> good: for his mercy <i>endureth</i> for ever.",
+      "hebrew": [
+        [
+          "הדו",
+          "H3034",
+          "HVhv2mp"
+        ],
+        [
+          "ל/יהוה",
+          "Hl/H3068",
+          "HR/Np"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "טוב",
+          "H2896",
+          "HAamsa"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "ל/עולם",
+          "Hl/H5769",
+          "HR/Ncmsa"
+        ],
+        [
+          "חסד/ו",
+          "H2617",
+          "HNcmsc/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 2,
+      "english": "Let the redeemed of the LORD say <i>so,</i> whom he hath redeemed from the hand of the enemy;",
+      "hebrew": [
+        [
+          "יאמרו",
+          "H559",
+          "HVqi3mp"
+        ],
+        [
+          "גאולי",
+          "H1350",
+          "HVqsmpc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "אשר",
+          "H834",
+          "HTr"
+        ],
+        [
+          "גאל/ם",
+          "H1350",
+          "HVqp3ms/Sp3mp"
+        ],
+        [
+          "מ/יד",
+          "Hm/H3027",
+          "HR/Ncbsc"
+        ],
+        [
+          "צר",
+          "H6862",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 3,
+      "english": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south.",
+      "hebrew": [
+        [
+          "ו/מ/ארצות",
+          "Hc/Hm/H776",
+          "HC/R/Ncbpa"
+        ],
+        [
+          "קבצ/ם",
+          "H6908",
+          "HVpp3ms/Sp3mp"
+        ],
+        [
+          "מ/מזרח",
+          "Hm/H4217",
+          "HR/Ncmsa"
+        ],
+        [
+          "ו/מ/מערב",
+          "Hc/Hm/H4628",
+          "HC/R/Ncmsa"
+        ],
+        [
+          "מ/צפון",
+          "Hm/H6828",
+          "HR/Ncfsa"
+        ],
+        [
+          "ו/מ/ים",
+          "Hc/Hm/H3220",
+          "HC/R/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 4,
+      "english": "They wandered in the wilderness in a solitary way; they found no city to dwell in.",
+      "hebrew": [
+        [
+          "תעו",
+          "H8582",
+          "HVqp3cp"
+        ],
+        [
+          "ב/מדבר",
+          "Hb/H4057",
+          "HRd/Ncmsa"
+        ],
+        [
+          "ב/ישימון",
+          "Hb/H3452",
+          "HR/Ncmsc"
+        ],
+        [
+          "דרך",
+          "H1870",
+          "HNcbsa"
+        ],
+        [
+          "עיר",
+          "H5892",
+          "HNcfsc"
+        ],
+        [
+          "מושב",
+          "H4186",
+          "HNcmsa"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "מצאו",
+          "H4672",
+          "HVqp3cp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 5,
+      "english": "Hungry and thirsty, their soul fainted in them.",
+      "hebrew": [
+        [
+          "רעבים",
+          "H7457",
+          "HAampa"
+        ],
+        [
+          "גם",
+          "H1571",
+          "HTa"
+        ],
+        [
+          "צמאים",
+          "H6771",
+          "HAampa"
+        ],
+        [
+          "נפש/ם",
+          "H5315",
+          "HNcbsc/Sp3mp"
+        ],
+        [
+          "ב/הם",
+          "Hb",
+          "HR/Sp3mp"
+        ],
+        [
+          "תתעטף",
+          "H5848",
+          "HVti3fs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 6,
+      "english": "Then they cried unto the LORD in their trouble, <i>and</i> he delivered them out of their distresses.",
+      "hebrew": [
+        [
+          "ו/יצעקו",
+          "Hc/H6817",
+          "HC/Vqw3mp"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/צר",
+          "Hb/H6862",
+          "HRd/Aamsa"
+        ],
+        [
+          "ל/הם",
+          "Hl",
+          "HR/Sp3mp"
+        ],
+        [
+          "מ/מצוקותי/הם",
+          "Hm/H4691",
+          "HR/Ncfpc/Sp3mp"
+        ],
+        [
+          "יציל/ם",
+          "H5337",
+          "HVhi3ms/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 7,
+      "english": "And he led them forth by the right way, that they might go to a city of habitation.",
+      "hebrew": [
+        [
+          "ו/ידריכ/ם",
+          "Hc/H1869",
+          "HC/Vhw3ms/Sp3mp"
+        ],
+        [
+          "ב/דרך",
+          "Hb/H1870",
+          "HR/Ncbsa"
+        ],
+        [
+          "ישרה",
+          "H3477",
+          "HAafsa"
+        ],
+        [
+          "ל/לכת",
+          "Hl/H3212",
+          "HR/Vqc"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "עיר",
+          "H5892",
+          "HNcfsc"
+        ],
+        [
+          "מושב",
+          "H4186",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 8,
+      "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!",
+      "hebrew": [
+        [
+          "יודו",
+          "H3034",
+          "HVhj3mp"
+        ],
+        [
+          "ל/יהוה",
+          "Hl/H3068",
+          "HR/Np"
+        ],
+        [
+          "חסד/ו",
+          "H2617",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "ו/נפלאותי/ו",
+          "Hc/H6381",
+          "HC/VNrfpc/Sp3ms"
+        ],
+        [
+          "ל/בני",
+          "Hl/H1121",
+          "HR/Ncmpc"
+        ],
+        [
+          "אדם",
+          "H120",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 9,
+      "english": "For he satisfieth the longing soul, and filleth the hungry soul with goodness.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "השביע",
+          "H7646",
+          "HVhp3ms"
+        ],
+        [
+          "נפש",
+          "H5315",
+          "HNcbsa"
+        ],
+        [
+          "שקקה",
+          "H8264",
+          "HVqrfsa"
+        ],
+        [
+          "ו/נפש",
+          "Hc/H5315",
+          "HC/Ncbsa"
+        ],
+        [
+          "רעבה",
+          "H7457",
+          "HAafsa"
+        ],
+        [
+          "מלא",
+          "H4390",
+          "HVpp3ms"
+        ],
+        [
+          "טוב",
+          "H2896",
+          "HAamsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 10,
+      "english": "Such as sit in darkness and in the shadow of death, <i>being</i> bound in affliction and iron;",
+      "hebrew": [
+        [
+          "ישבי",
+          "H3427",
+          "HVqrmpc"
+        ],
+        [
+          "חשך",
+          "H2822",
+          "HNcmsa"
+        ],
+        [
+          "ו/צלמות",
+          "Hc/H6757",
+          "HC/Ncmsa"
+        ],
+        [
+          "אסירי",
+          "H615",
+          "HNcmpc"
+        ],
+        [
+          "עני",
+          "H6040",
+          "HNcmsa"
+        ],
+        [
+          "ו/ברזל",
+          "Hc/H1270",
+          "HC/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 11,
+      "english": "Because they rebelled against the words of God, and contemned the counsel of the most High:",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "המרו",
+          "H4784",
+          "HVhp3cp"
+        ],
+        [
+          "אמרי",
+          "H561",
+          "HNcmpc"
+        ],
+        [
+          "אל",
+          "H410",
+          "HNcmsa"
+        ],
+        [
+          "ו/עצת",
+          "Hc/H6098",
+          "HC/Ncfsc"
+        ],
+        [
+          "עליון",
+          "H5945",
+          "HAamsa"
+        ],
+        [
+          "נאצו",
+          "H5006",
+          "HVqp3cp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 12,
+      "english": "Therefore he brought down their heart with labour; they fell down, and <i>there was</i> none to help.",
+      "hebrew": [
+        [
+          "ו/יכנע",
+          "Hc/H3665",
+          "HC/Vhw3ms"
+        ],
+        [
+          "ב/עמל",
+          "Hb/H5999",
+          "HRd/Ncbsa"
+        ],
+        [
+          "לב/ם",
+          "H3820",
+          "HNcmsc/Sp3mp"
+        ],
+        [
+          "כשלו",
+          "H3782",
+          "HVqp3cp"
+        ],
+        [
+          "ו/אין",
+          "Hc/H369",
+          "HC/Tn"
+        ],
+        [
+          "עזר",
+          "H5826",
+          "HVqrmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 13,
+      "english": "Then they cried unto the LORD in their trouble, <i>and</i> he saved them out of their distresses.",
+      "hebrew": [
+        [
+          "ו/יזעקו",
+          "Hc/H2199",
+          "HC/Vqw3mp"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/צר",
+          "Hb/H6862",
+          "HRd/Aamsa"
+        ],
+        [
+          "ל/הם",
+          "Hl",
+          "HR/Sp3mp"
+        ],
+        [
+          "מ/מצקותי/הם",
+          "Hm/H4691",
+          "HR/Ncfpc/Sp3mp"
+        ],
+        [
+          "יושיע/ם",
+          "H3467",
+          "HVhi3ms/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 14,
+      "english": "He brought them out of darkness and the shadow of death, and brake their bands in sunder.",
+      "hebrew": [
+        [
+          "יוציא/ם",
+          "H3318",
+          "HVhi3ms/Sp3mp"
+        ],
+        [
+          "מ/חשך",
+          "Hm/H2822",
+          "HR/Ncmsa"
+        ],
+        [
+          "ו/צלמות",
+          "Hc/H6757",
+          "HC/Ncmsa"
+        ],
+        [
+          "ו/מוסרותי/הם",
+          "Hc/H4147",
+          "HC/Ncbpc/Sp3mp"
+        ],
+        [
+          "ינתק",
+          "H5423",
+          "HVpi3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 15,
+      "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!",
+      "hebrew": [
+        [
+          "יודו",
+          "H3034",
+          "HVhj3mp"
+        ],
+        [
+          "ל/יהוה",
+          "Hl/H3068",
+          "HR/Np"
+        ],
+        [
+          "חסד/ו",
+          "H2617",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "ו/נפלאותי/ו",
+          "Hc/H6381",
+          "HC/VNrfpc/Sp3ms"
+        ],
+        [
+          "ל/בני",
+          "Hl/H1121",
+          "HR/Ncmpc"
+        ],
+        [
+          "אדם",
+          "H120",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 16,
+      "english": "For he hath broken the gates of brass, and cut the bars of iron in sunder.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "שבר",
+          "H7665",
+          "HVpp3ms"
+        ],
+        [
+          "דלתות",
+          "H1817",
+          "HNcfpc"
+        ],
+        [
+          "נחשת",
+          "H5178",
+          "HNcfsa"
+        ],
+        [
+          "ו/בריחי",
+          "Hc/H1280",
+          "HC/Ncmpc"
+        ],
+        [
+          "ברזל",
+          "H1270",
+          "HNcmsa"
+        ],
+        [
+          "גדע",
+          "H1438",
+          "HVpp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 17,
+      "english": "Fools because of their transgression, and because of their iniquities, are afflicted.",
+      "hebrew": [
+        [
+          "אולים",
+          "H191",
+          "HAampa"
+        ],
+        [
+          "מ/דרך",
+          "Hm/H1870",
+          "HR/Ncbsc"
+        ],
+        [
+          "פשע/ם",
+          "H6588",
+          "HNcmsc/Sp3mp"
+        ],
+        [
+          "ו/מ/עונתי/הם",
+          "Hc/Hm/H5771",
+          "HC/R/Ncbpc/Sp3mp"
+        ],
+        [
+          "יתענו",
+          "H6031",
+          "HVti3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 18,
+      "english": "Their soul abhorreth all manner of meat; and they draw near unto the gates of death.",
+      "hebrew": [
+        [
+          "כל",
+          "H3605",
+          "HNcmsc"
+        ],
+        [
+          "אכל",
+          "H400",
+          "HNcmsa"
+        ],
+        [
+          "תתעב",
+          "H8581",
+          "HVpi3fs"
+        ],
+        [
+          "נפש/ם",
+          "H5315",
+          "HNcbsc/Sp3mp"
+        ],
+        [
+          "ו/יגיעו",
+          "Hc/H5060",
+          "HC/Vhw3mp"
+        ],
+        [
+          "עד",
+          "H5704",
+          "HR"
+        ],
+        [
+          "שערי",
+          "H8179",
+          "HNcmpc"
+        ],
+        [
+          "מות",
+          "H4194",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 19,
+      "english": "Then they cry unto the LORD in their trouble, <i>and</i> he saveth them out of their distresses.",
+      "hebrew": [
+        [
+          "ו/יזעקו",
+          "Hc/H2199",
+          "HC/Vqw3mp"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/צר",
+          "Hb/H6862",
+          "HRd/Aamsa"
+        ],
+        [
+          "ל/הם",
+          "Hl",
+          "HR/Sp3mp"
+        ],
+        [
+          "מ/מצקותי/הם",
+          "Hm/H4691",
+          "HR/Ncfpc/Sp3mp"
+        ],
+        [
+          "יושיע/ם",
+          "H3467",
+          "HVhi3ms/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 20,
+      "english": "He sent his word, and healed them, and delivered <i>them</i> from their destructions.",
+      "hebrew": [
+        [
+          "ישלח",
+          "H7971",
+          "HVqi3ms"
+        ],
+        [
+          "דבר/ו",
+          "H1697",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "ו/ירפא/ם",
+          "Hc/H7495",
+          "HC/Vqi3ms/Sp3mp"
+        ],
+        [
+          "ו/ימלט",
+          "Hc/H4422",
+          "HC/Vpi3ms"
+        ],
+        [
+          "מ/שחיתות/ם",
+          "Hm/H7825",
+          "HR/Ncfpc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 21,
+      "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!",
+      "hebrew": [
+        [
+          "יודו",
+          "H3034",
+          "HVhj3mp"
+        ],
+        [
+          "ל/יהוה",
+          "Hl/H3068",
+          "HR/Np"
+        ],
+        [
+          "חסד/ו",
+          "H2617",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "ו/נפלאותי/ו",
+          "Hc/H6381",
+          "HC/VNrfpc/Sp3ms"
+        ],
+        [
+          "ל/בני",
+          "Hl/H1121",
+          "HR/Ncmpc"
+        ],
+        [
+          "אדם",
+          "H120",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 22,
+      "english": "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.",
+      "hebrew": [
+        [
+          "ו/יזבחו",
+          "Hc/H2076",
+          "HC/Vqi3mp"
+        ],
+        [
+          "זבחי",
+          "H2077",
+          "HNcmpc"
+        ],
+        [
+          "תודה",
+          "H8426",
+          "HNcfsa"
+        ],
+        [
+          "ו/יספרו",
+          "Hc/H5608",
+          "HC/Vpi3mp"
+        ],
+        [
+          "מעשי/ו",
+          "H4639",
+          "HNcmpc/Sp3ms"
+        ],
+        [
+          "ב/רנה",
+          "Hb/H7440",
+          "HR/Ncfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 23,
+      "english": "They that go down to the sea in ships, that do business in great waters;",
+      "hebrew": [
+        [
+          "יורדי",
+          "H3381",
+          "HVqrmpc"
+        ],
+        [
+          "ה/ים",
+          "Hd/H3220",
+          "HTd/Ncmsa"
+        ],
+        [
+          "ב/אניות",
+          "Hb/H591",
+          "HR/Ncfpa"
+        ],
+        [
+          "עשי",
+          "H6213",
+          "HVqrmpc"
+        ],
+        [
+          "מלאכה",
+          "H4399",
+          "HNcfsa"
+        ],
+        [
+          "ב/מים",
+          "Hb/H4325",
+          "HR/Ncmpa"
+        ],
+        [
+          "רבים",
+          "H7227",
+          "HAampa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 24,
+      "english": "These see the works of the LORD, and his wonders in the deep.",
+      "hebrew": [
+        [
+          "המה",
+          "H1992",
+          "HPp3mp"
+        ],
+        [
+          "ראו",
+          "H7200",
+          "HVqp3cp"
+        ],
+        [
+          "מעשי",
+          "H4639",
+          "HNcmpc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ו/נפלאותי/ו",
+          "Hc/H6381",
+          "HC/VNrfpc/Sp3ms"
+        ],
+        [
+          "ב/מצולה",
+          "Hb/H4688",
+          "HR/Ncfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 25,
+      "english": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.",
+      "hebrew": [
+        [
+          "ו/יאמר",
+          "Hc/H559",
+          "HC/Vqw3ms"
+        ],
+        [
+          "ו/יעמד",
+          "Hc/H5975",
+          "HC/Vhw3ms"
+        ],
+        [
+          "רוח",
+          "H7307",
+          "HNcbsc"
+        ],
+        [
+          "סערה",
+          "H5591",
+          "HNcfsa"
+        ],
+        [
+          "ו/תרומם",
+          "Hc/H7311",
+          "HC/Vow3fs"
+        ],
+        [
+          "גלי/ו",
+          "H1530",
+          "HNcmpc/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 26,
+      "english": "They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.",
+      "hebrew": [
+        [
+          "יעלו",
+          "H5927",
+          "HVqi3mp"
+        ],
+        [
+          "שמים",
+          "H8064",
+          "HNcmpa"
+        ],
+        [
+          "ירדו",
+          "H3381",
+          "HVqi3mp"
+        ],
+        [
+          "תהומות",
+          "H8415",
+          "HNcbpa"
+        ],
+        [
+          "נפש/ם",
+          "H5315",
+          "HNcbsc/Sp3mp"
+        ],
+        [
+          "ב/רעה",
+          "Hb/H7451",
+          "HR/Ncfsa"
+        ],
+        [
+          "תתמוגג",
+          "H4127",
+          "HVri3fs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 27,
+      "english": "They reel to and fro, and stagger like a drunken man, and are at their wits' end.",
+      "hebrew": [
+        [
+          "יחוגו",
+          "H2287",
+          "HVqi3mp"
+        ],
+        [
+          "ו/ינועו",
+          "Hc/H5128",
+          "HC/Vqi3mp"
+        ],
+        [
+          "כ/שכור",
+          "Hk/H7910",
+          "HRd/Aamsa"
+        ],
+        [
+          "ו/כל",
+          "Hc/H3605",
+          "HC/Ncmsc"
+        ],
+        [
+          "חכמת/ם",
+          "H2451",
+          "HNcfsc/Sp3mp"
+        ],
+        [
+          "תתבלע",
+          "H1104",
+          "HVti3fs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 28,
+      "english": "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.",
+      "hebrew": [
+        [
+          "ו/יצעקו",
+          "Hc/H6817",
+          "HC/Vqw3mp"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/צר",
+          "Hb/H6862",
+          "HRd/Aamsa"
+        ],
+        [
+          "ל/הם",
+          "Hl",
+          "HR/Sp3mp"
+        ],
+        [
+          "ו/מ/מצוקתי/הם",
+          "Hc/Hm/H4691",
+          "HC/R/Ncfpc/Sp3mp"
+        ],
+        [
+          "יוציא/ם",
+          "H3318",
+          "HVhi3ms/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 29,
+      "english": "He maketh the storm a calm, so that the waves thereof are still.",
+      "hebrew": [
+        [
+          "יקם",
+          "H6965",
+          "HVhi3ms"
+        ],
+        [
+          "סערה",
+          "H5591",
+          "HNcfsa"
+        ],
+        [
+          "ל/דממה",
+          "Hl/H1827",
+          "HR/Ncfsa"
+        ],
+        [
+          "ו/יחשו",
+          "Hc/H2814",
+          "HC/Vqw3mp"
+        ],
+        [
+          "גלי/הם",
+          "H1530",
+          "HNcmpc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 30,
+      "english": "Then are they glad because they be quiet; so he bringeth them unto their desired haven.",
+      "hebrew": [
+        [
+          "ו/ישמחו",
+          "Hc/H8055",
+          "HC/Vqw3mp"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "ישתקו",
+          "H8367",
+          "HVqi3mp"
+        ],
+        [
+          "ו/ינח/ם",
+          "Hc/H5148",
+          "HC/Vhw3ms/Sp3mp"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "מחוז",
+          "H4231",
+          "HNcmsc"
+        ],
+        [
+          "חפצ/ם",
+          "H2656",
+          "HNcmsc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 31,
+      "english": "Oh that <i>men</i> would praise the LORD <i>for</i> his goodness, and <i>for</i> his wonderful works to the children of men!",
+      "hebrew": [
+        [
+          "יודו",
+          "H3034",
+          "HVhj3mp"
+        ],
+        [
+          "ל/יהוה",
+          "Hl/H3068",
+          "HR/Np"
+        ],
+        [
+          "חסד/ו",
+          "H2617",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "ו/נפלאותי/ו",
+          "Hc/H6381",
+          "HC/VNrfpc/Sp3ms"
+        ],
+        [
+          "ל/בני",
+          "Hl/H1121",
+          "HR/Ncmpc"
+        ],
+        [
+          "אדם",
+          "H120",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 32,
+      "english": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.",
+      "hebrew": [
+        [
+          "ו/ירממו/הו",
+          "Hc/H7311",
+          "HC/Voi3mp/Sp3ms"
+        ],
+        [
+          "ב/קהל",
+          "Hb/H6951",
+          "HR/Ncmsc"
+        ],
+        [
+          "עם",
+          "H5971",
+          "HNcmsa"
+        ],
+        [
+          "ו/ב/מושב",
+          "Hc/Hb/H4186",
+          "HC/R/Ncmsc"
+        ],
+        [
+          "זקנים",
+          "H2205",
+          "HAampa"
+        ],
+        [
+          "יהללו/הו",
+          "H1984",
+          "HVpi3mp/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 33,
+      "english": "He turneth rivers into a wilderness, and the watersprings into dry ground;",
+      "hebrew": [
+        [
+          "ישם",
+          "H7760",
+          "HVqi3ms"
+        ],
+        [
+          "נהרות",
+          "H5104",
+          "HNcmpa"
+        ],
+        [
+          "ל/מדבר",
+          "Hl/H4057",
+          "HR/Ncmsa"
+        ],
+        [
+          "ו/מצאי",
+          "Hc/H4161",
+          "HC/Ncmpc"
+        ],
+        [
+          "מים",
+          "H4325",
+          "HNcmpa"
+        ],
+        [
+          "ל/צמאון",
+          "Hl/H6774",
+          "HR/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 34,
+      "english": "A fruitful land into barrenness, for the wickedness of them that dwell therein.",
+      "hebrew": [
+        [
+          "ארץ",
+          "H776",
+          "HNcbsc"
+        ],
+        [
+          "פרי",
+          "H6529",
+          "HNcmsa"
+        ],
+        [
+          "ל/מלחה",
+          "Hl/H4420",
+          "HR/Ncfsa"
+        ],
+        [
+          "מ/רעת",
+          "Hm/H7451",
+          "HR/Ncfsc"
+        ],
+        [
+          "ישבי",
+          "H3427",
+          "HVqrmpc"
+        ],
+        [
+          "ב/ה",
+          "Hb",
+          "HR/Sp3fs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 35,
+      "english": "He turneth the wilderness into a standing water, and dry ground into watersprings.",
+      "hebrew": [
+        [
+          "ישם",
+          "H7760",
+          "HVqi3ms"
+        ],
+        [
+          "מדבר",
+          "H4057",
+          "HNcmsa"
+        ],
+        [
+          "ל/אגם",
+          "Hl/H98",
+          "HR/Ncmsc"
+        ],
+        [
+          "מים",
+          "H4325",
+          "HNcmpa"
+        ],
+        [
+          "ו/ארץ",
+          "Hc/H776",
+          "HC/Ncbsc"
+        ],
+        [
+          "ציה",
+          "H6723",
+          "HNcfsa"
+        ],
+        [
+          "ל/מצאי",
+          "Hl/H4161",
+          "HR/Ncmpc"
+        ],
+        [
+          "מים",
+          "H4325",
+          "HNcmpa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 36,
+      "english": "And there he maketh the hungry to dwell, that they may prepare a city for habitation;",
+      "hebrew": [
+        [
+          "ו/יושב",
+          "Hc/H3427",
+          "HC/Vhw3ms"
+        ],
+        [
+          "שם",
+          "H8033",
+          "HD"
+        ],
+        [
+          "רעבים",
+          "H7457",
+          "HAampa"
+        ],
+        [
+          "ו/יכוננו",
+          "Hc/H3559",
+          "HC/Vow3mp"
+        ],
+        [
+          "עיר",
+          "H5892",
+          "HNcfsc"
+        ],
+        [
+          "מושב",
+          "H4186",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 37,
+      "english": "And sow the fields, and plant vineyards, which may yield fruits of increase.",
+      "hebrew": [
+        [
+          "ו/יזרעו",
+          "Hc/H2232",
+          "HC/Vqw3mp"
+        ],
+        [
+          "שדות",
+          "H7704",
+          "HNcmpa"
+        ],
+        [
+          "ו/יטעו",
+          "Hc/H5193",
+          "HC/Vqw3mp"
+        ],
+        [
+          "כרמים",
+          "H3754",
+          "HNcbpa"
+        ],
+        [
+          "ו/יעשו",
+          "Hc/H6213",
+          "HC/Vqw3mp"
+        ],
+        [
+          "פרי",
+          "H6529",
+          "HNcmsc"
+        ],
+        [
+          "תבואה",
+          "H8393",
+          "HNcfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 38,
+      "english": "He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.",
+      "hebrew": [
+        [
+          "ו/יברכ/ם",
+          "Hc/H1288",
+          "HC/Vpw3ms/Sp3mp"
+        ],
+        [
+          "ו/ירבו",
+          "Hc/H7235",
+          "HC/Vqw3mp"
+        ],
+        [
+          "מאד",
+          "H3966",
+          "HD"
+        ],
+        [
+          "ו/בהמת/ם",
+          "Hc/H929",
+          "HC/Ncfsc/Sp3mp"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "ימעיט",
+          "H4591",
+          "HVhi3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 39,
+      "english": "Again, they are minished and brought low through oppression, affliction, and sorrow.",
+      "hebrew": [
+        [
+          "ו/ימעטו",
+          "Hc/H4591",
+          "HC/Vqw3mp"
+        ],
+        [
+          "ו/ישחו",
+          "Hc/H7817",
+          "HC/Vqw3mp"
+        ],
+        [
+          "מ/עצר",
+          "Hm/H6115",
+          "HR/Ncmsc"
+        ],
+        [
+          "רעה",
+          "H7451",
+          "HNcfsa"
+        ],
+        [
+          "ו/יגון",
+          "Hc/H3015",
+          "HC/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 40,
+      "english": "He poureth contempt upon princes, and causeth them to wander in the wilderness, <i>where there is</i> no way.",
+      "hebrew": [
+        [
+          "שפך",
+          "H8210",
+          "HVqrmsa"
+        ],
+        [
+          "בוז",
+          "H937",
+          "HNcmsa"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "נדיבים",
+          "H5081",
+          "HAampa"
+        ],
+        [
+          "ו/יתע/ם",
+          "Hc/H8582",
+          "HC/Vhw3ms/Sp3mp"
+        ],
+        [
+          "ב/תהו",
+          "Hb/H8414",
+          "HR/Ncmsc"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "דרך",
+          "H1870",
+          "HNcbsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 41,
+      "english": "Yet setteth he the poor on high from affliction, and maketh <i>him</i> families like a flock.",
+      "hebrew": [
+        [
+          "ו/ישגב",
+          "Hc/H7682",
+          "HC/Vpw3ms"
+        ],
+        [
+          "אביון",
+          "H34",
+          "HAamsa"
+        ],
+        [
+          "מ/עוני",
+          "Hm/H6040",
+          "HR/Ncmsa"
+        ],
+        [
+          "ו/ישם",
+          "Hc/H7760",
+          "HC/Vqw3ms"
+        ],
+        [
+          "כ/צאן",
+          "Hk/H6629",
+          "HRd/Ncbsa"
+        ],
+        [
+          "משפחות",
+          "H4940",
+          "HNcfpa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 42,
+      "english": "The righteous shall see <i>it,</i> and rejoice: and all iniquity shall stop her mouth.",
+      "hebrew": [
+        [
+          "יראו",
+          "H7200",
+          "HVqi3mp"
+        ],
+        [
+          "ישרים",
+          "H3477",
+          "HAampa"
+        ],
+        [
+          "ו/ישמחו",
+          "Hc/H8055",
+          "HC/Vqi3mp"
+        ],
+        [
+          "ו/כל",
+          "Hc/H3605",
+          "HC/Ncmsc"
+        ],
+        [
+          "עולה",
+          "H5766",
+          "HNcbsa"
+        ],
+        [
+          "קפצה",
+          "H7092",
+          "HVqp3fs"
+        ],
+        [
+          "פי/ה",
+          "H6310",
+          "HNcmsc/Sp3fs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 107,
+      "verse": 43,
+      "english": "Whoso <i>is</i> wise, and will observe these <i>things,</i> even they shall understand the lovingkindness of the LORD.",
+      "hebrew": [
+        [
+          "מי",
+          "H4310",
+          "HTi"
+        ],
+        [
+          "חכם",
+          "H2450",
+          "HAamsa"
+        ],
+        [
+          "ו/ישמר",
+          "Hc/H8104",
+          "HC/Vqi3ms"
+        ],
+        [
+          "אלה",
+          "H428",
+          "HPdxcp"
+        ],
+        [
+          "ו/יתבוננו",
+          "Hc/H995",
+          "HC/Vrj3mp"
+        ],
+        [
+          "חסדי",
+          "H2617",
+          "HNcmpc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

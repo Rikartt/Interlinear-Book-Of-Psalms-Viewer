@@ -1,8 +1,409 @@
-{"chapter": 61, "verse": 1, "english": "Hear my cry, O God; attend unto my prayer.", "hebrew": [["ל/מנצח", "Hl/H5329", "HRd/Vprmsa"], ["על", "H5921", "HR"], ["נגינת", "H5058", "HNcfsc"], ["ל/דוד", "Hl/H1732", "HR/Np"], ["שמע/ה", "H8085", "HVqv2ms/Sh"], ["אלהים", "H430", "HNcmpa"], ["רנת/י", "H7440", "HNcfsc/Sp1cs"], ["הקשיב/ה", "H7181", "HVhv2ms/Sh"], ["תפלת/י", "H8605", "HNcfsc/Sp1cs"]], "header": "¶ To the chief Musician upon Neginah, *A Psalm* of David."}
-{"chapter": 61, "verse": 2, "english": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock <i>that</i> is higher than I.", "hebrew": [["מ/קצה", "Hm/H7097", "HR/Ncbsc"], ["ה/ארץ", "Hd/H776", "HTd/Ncbsa"], ["אלי/ך", "H413", "HR/Sp2ms"], ["אקרא", "H7121", "HVqi1cs"], ["ב/עטף", "Hb/H5848", "HR/Vqc"], ["לב/י", "H3820", "HNcmsc/Sp1cs"], ["ב/צור", "Hb/H6697", "HR/Ncmsa"], ["ירום", "H7311", "HVqi3ms"], ["ממ/ני", "H4480", "HR/Sp1cs"], ["תנח/ני", "H5148", "HVhi2ms/Sp1cs"]], "header": ""}
-{"chapter": 61, "verse": 3, "english": "For thou hast been a shelter for me, <i>and</i> a strong tower from the enemy.", "hebrew": [["כי", "H3588", "HC"], ["היית", "H1961", "HVqp2ms"], ["מחסה", "H4268", "HNcmsa"], ["ל/י", "Hl", "HR/Sp1cs"], ["מגדל", "H4026", "HNcbsc"], ["עז", "H5797", "HNcmsa"], ["מ/פני", "Hm/H6440", "HR/Ncbpc"], ["אויב", "H341", "HVqrmsa"]], "header": ""}
-{"chapter": 61, "verse": 4, "english": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.", "hebrew": [["אגורה", "H1481", "HVqh1cs"], ["ב/אהל/ך", "Hb/H168", "HR/Ncmsc/Sp2ms"], ["עולמים", "H5769", "HNcmpa"], ["אחסה", "H2620", "HVqi1cs"], ["ב/סתר", "Hb/H5643", "HR/Ncmsc"], ["כנפי/ך", "H3671", "HNcfdc/Sp2ms"], ["סלה", "H5542", "HTj"]], "header": ""}
-{"chapter": 61, "verse": 5, "english": "For thou, O God, hast heard my vows: thou hast given <i>me</i> the heritage of those that fear thy name.", "hebrew": [["כי", "H3588", "HC"], ["אתה", "H859", "HPp2ms"], ["אלהים", "H430", "HNcmpa"], ["שמעת", "H8085", "HVqp2ms"], ["ל/נדר/י", "Hl/H5088", "HR/Ncmpc/Sp1cs"], ["נתת", "H5414", "HVqp2ms"], ["ירשת", "H3425", "HNcfsc"], ["יראי", "H3373", "HAampc"], ["שמ/ך", "H8034", "HNcmsc/Sp2ms"]], "header": ""}
-{"chapter": 61, "verse": 6, "english": "Thou wilt prolong the king's life: <i>and</i> his years as many generations.", "hebrew": [["ימים", "H3117", "HNcmpa"], ["על", "H5921", "HR"], ["ימי", "H3117", "HNcmpc"], ["מלך", "H4428", "HNcmsa"], ["תוסיף", "H3254", "HVhi2ms"], ["שנותי/ו", "H8141", "HNcfpc/Sp3ms"], ["כמו", "H3644", "HR"], ["דר", "H1755", "HNcmsa"], ["ו/דר", "Hc/H1755", "HC/Ncmsa"]], "header": ""}
-{"chapter": 61, "verse": 7, "english": "He shall abide before God for ever: O prepare mercy and truth, <i>which</i> may preserve him.", "hebrew": [["ישב", "H3427", "HVqi3ms"], ["עולם", "H5769", "HNcmsa"], ["ל/פני", "Hl/H6440", "HR/Ncbpc"], ["אלהים", "H430", "HNcmpa"], ["חסד", "H2617", "HNcmsa"], ["ו/אמת", "Hc/H571", "HC/Ncfsa"], ["מן", "H4487", "HVpv2ms"], ["ינצר/הו", "H5341", "HVqi3mp/Sp3ms"]], "header": ""}
-{"chapter": 61, "verse": 8, "english": "So will I sing praise unto thy name for ever, that I may daily perform my vows.", "hebrew": [["כן", "H3651", "HTm"], ["אזמרה", "H2167", "HVph1cs"], ["שמ/ך", "H8034", "HNcmsc/Sp2ms"], ["ל/עד", "Hl/H5703", "HR/Ncmsa"], ["ל/שלמ/י", "Hl/H7999", "HR/Vpc/Sp1cs"], ["נדר/י", "H5088", "HNcmpc/Sp1cs"], ["יום", "H3117", "HNcmsa"], ["יום", "H3117", "HNcmsa"]], "header": ""}
+{
+  "psalm": 61,
+  "verses": [
+    {
+      "chapter": 61,
+      "verse": 1,
+      "english": "Hear my cry, O God; attend unto my prayer.",
+      "hebrew": [
+        [
+          "ל/מנצח",
+          "Hl/H5329",
+          "HRd/Vprmsa"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "נגינת",
+          "H5058",
+          "HNcfsc"
+        ],
+        [
+          "ל/דוד",
+          "Hl/H1732",
+          "HR/Np"
+        ],
+        [
+          "שמע/ה",
+          "H8085",
+          "HVqv2ms/Sh"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "רנת/י",
+          "H7440",
+          "HNcfsc/Sp1cs"
+        ],
+        [
+          "הקשיב/ה",
+          "H7181",
+          "HVhv2ms/Sh"
+        ],
+        [
+          "תפלת/י",
+          "H8605",
+          "HNcfsc/Sp1cs"
+        ]
+      ],
+      "header": "¶ To the chief Musician upon Neginah, *A Psalm* of David."
+    },
+    {
+      "chapter": 61,
+      "verse": 2,
+      "english": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock <i>that</i> is higher than I.",
+      "hebrew": [
+        [
+          "מ/קצה",
+          "Hm/H7097",
+          "HR/Ncbsc"
+        ],
+        [
+          "ה/ארץ",
+          "Hd/H776",
+          "HTd/Ncbsa"
+        ],
+        [
+          "אלי/ך",
+          "H413",
+          "HR/Sp2ms"
+        ],
+        [
+          "אקרא",
+          "H7121",
+          "HVqi1cs"
+        ],
+        [
+          "ב/עטף",
+          "Hb/H5848",
+          "HR/Vqc"
+        ],
+        [
+          "לב/י",
+          "H3820",
+          "HNcmsc/Sp1cs"
+        ],
+        [
+          "ב/צור",
+          "Hb/H6697",
+          "HR/Ncmsa"
+        ],
+        [
+          "ירום",
+          "H7311",
+          "HVqi3ms"
+        ],
+        [
+          "ממ/ני",
+          "H4480",
+          "HR/Sp1cs"
+        ],
+        [
+          "תנח/ני",
+          "H5148",
+          "HVhi2ms/Sp1cs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 61,
+      "verse": 3,
+      "english": "For thou hast been a shelter for me, <i>and</i> a strong tower from the enemy.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "היית",
+          "H1961",
+          "HVqp2ms"
+        ],
+        [
+          "מחסה",
+          "H4268",
+          "HNcmsa"
+        ],
+        [
+          "ל/י",
+          "Hl",
+          "HR/Sp1cs"
+        ],
+        [
+          "מגדל",
+          "H4026",
+          "HNcbsc"
+        ],
+        [
+          "עז",
+          "H5797",
+          "HNcmsa"
+        ],
+        [
+          "מ/פני",
+          "Hm/H6440",
+          "HR/Ncbpc"
+        ],
+        [
+          "אויב",
+          "H341",
+          "HVqrmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 61,
+      "verse": 4,
+      "english": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+      "hebrew": [
+        [
+          "אגורה",
+          "H1481",
+          "HVqh1cs"
+        ],
+        [
+          "ב/אהל/ך",
+          "Hb/H168",
+          "HR/Ncmsc/Sp2ms"
+        ],
+        [
+          "עולמים",
+          "H5769",
+          "HNcmpa"
+        ],
+        [
+          "אחסה",
+          "H2620",
+          "HVqi1cs"
+        ],
+        [
+          "ב/סתר",
+          "Hb/H5643",
+          "HR/Ncmsc"
+        ],
+        [
+          "כנפי/ך",
+          "H3671",
+          "HNcfdc/Sp2ms"
+        ],
+        [
+          "סלה",
+          "H5542",
+          "HTj"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 61,
+      "verse": 5,
+      "english": "For thou, O God, hast heard my vows: thou hast given <i>me</i> the heritage of those that fear thy name.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "אתה",
+          "H859",
+          "HPp2ms"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "שמעת",
+          "H8085",
+          "HVqp2ms"
+        ],
+        [
+          "ל/נדר/י",
+          "Hl/H5088",
+          "HR/Ncmpc/Sp1cs"
+        ],
+        [
+          "נתת",
+          "H5414",
+          "HVqp2ms"
+        ],
+        [
+          "ירשת",
+          "H3425",
+          "HNcfsc"
+        ],
+        [
+          "יראי",
+          "H3373",
+          "HAampc"
+        ],
+        [
+          "שמ/ך",
+          "H8034",
+          "HNcmsc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 61,
+      "verse": 6,
+      "english": "Thou wilt prolong the king's life: <i>and</i> his years as many generations.",
+      "hebrew": [
+        [
+          "ימים",
+          "H3117",
+          "HNcmpa"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "ימי",
+          "H3117",
+          "HNcmpc"
+        ],
+        [
+          "מלך",
+          "H4428",
+          "HNcmsa"
+        ],
+        [
+          "תוסיף",
+          "H3254",
+          "HVhi2ms"
+        ],
+        [
+          "שנותי/ו",
+          "H8141",
+          "HNcfpc/Sp3ms"
+        ],
+        [
+          "כמו",
+          "H3644",
+          "HR"
+        ],
+        [
+          "דר",
+          "H1755",
+          "HNcmsa"
+        ],
+        [
+          "ו/דר",
+          "Hc/H1755",
+          "HC/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 61,
+      "verse": 7,
+      "english": "He shall abide before God for ever: O prepare mercy and truth, <i>which</i> may preserve him.",
+      "hebrew": [
+        [
+          "ישב",
+          "H3427",
+          "HVqi3ms"
+        ],
+        [
+          "עולם",
+          "H5769",
+          "HNcmsa"
+        ],
+        [
+          "ל/פני",
+          "Hl/H6440",
+          "HR/Ncbpc"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "חסד",
+          "H2617",
+          "HNcmsa"
+        ],
+        [
+          "ו/אמת",
+          "Hc/H571",
+          "HC/Ncfsa"
+        ],
+        [
+          "מן",
+          "H4487",
+          "HVpv2ms"
+        ],
+        [
+          "ינצר/הו",
+          "H5341",
+          "HVqi3mp/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 61,
+      "verse": 8,
+      "english": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+      "hebrew": [
+        [
+          "כן",
+          "H3651",
+          "HTm"
+        ],
+        [
+          "אזמרה",
+          "H2167",
+          "HVph1cs"
+        ],
+        [
+          "שמ/ך",
+          "H8034",
+          "HNcmsc/Sp2ms"
+        ],
+        [
+          "ל/עד",
+          "Hl/H5703",
+          "HR/Ncmsa"
+        ],
+        [
+          "ל/שלמ/י",
+          "Hl/H7999",
+          "HR/Vpc/Sp1cs"
+        ],
+        [
+          "נדר/י",
+          "H5088",
+          "HNcmpc/Sp1cs"
+        ],
+        [
+          "יום",
+          "H3117",
+          "HNcmsa"
+        ],
+        [
+          "יום",
+          "H3117",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

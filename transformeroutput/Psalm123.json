@@ -1,4 +1,242 @@
-{"chapter": 123, "verse": 1, "english": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.", "hebrew": [["שיר", "H7892", "HNcbsc"], ["ה/מעלות", "Hd/H4609", "HTd/Ncfpa"], ["אלי/ך", "H413", "HR/Sp2ms"], ["נשאתי", "H5375", "HVqp1cs"], ["את", "H853", "HTo"], ["עינ/י", "H5869", "HNcbdc/Sp1cs"], ["ה/ישבי", "Hd/H3427", "HTd/Vqrmsc"], ["ב/שמים", "Hb/H8064", "HRd/Ncmpa"]], "header": "¶ A Song of degrees."}
-{"chapter": 123, "verse": 2, "english": "Behold, as the eyes of servants <i>look</i> unto the hand of their masters, <i>and</i> as the eyes of a maiden unto the hand of her mistress; so our eyes <i>wait</i> upon the LORD our God, until that he have mercy upon us.", "hebrew": [["הנה", "H2009", "HTm"], ["כ/עיני", "Hk/H5869", "HR/Ncbdc"], ["עבדים", "H5650", "HNcmpa"], ["אל", "H413", "HR"], ["יד", "H3027", "HNcbsc"], ["אדוני/הם", "H113", "HNcmpc/Sp3mp"], ["כ/עיני", "Hk/H5869", "HR/Ncbdc"], ["שפחה", "H8198", "HNcfsa"], ["אל", "H413", "HR"], ["יד", "H3027", "HNcbsc"], ["גברת/ה", "H1404", "HNcfsc/Sp3fs"], ["כן", "H3651", "HTm"], ["עיני/נו", "H5869", "HNcbdc/Sp1cp"], ["אל", "H413", "HR"], ["יהוה", "H3068", "HNp"], ["אלהי/נו", "H430", "HNcmpc/Sp1cp"], ["עד", "H5704", "HR"], ["ש/יחנ/נו", "Hs/H2603", "HTr/Vqi3ms/Sp1cp"]], "header": ""}
-{"chapter": 123, "verse": 3, "english": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.", "hebrew": [["חנ/נו", "H2603", "HVqv2ms/Sp1cp"], ["יהוה", "H3068", "HNp"], ["חנ/נו", "H2603", "HVqv2ms/Sp1cp"], ["כי", "H3588", "HC"], ["רב", "H7227", "HAamsa"], ["שבענו", "H7646", "HVqp1cp"], ["בוז", "H937", "HNcmsa"]], "header": ""}
-{"chapter": 123, "verse": 4, "english": "Our soul is exceedingly filled with the scorning of those that are at ease, <i>and</i> with the contempt of the proud.", "hebrew": [["רבת", "H7227", "HAafsc"], ["שבעה", "H7646", "HVqp3fs"], ["ל/ה", "Hl", "HR/Sp3fs"], ["נפש/נו", "H5315", "HNcbsc/Sp1cp"], ["ה/לעג", "Hd/H3933", "HTd/Ncmsa"], ["ה/שאננים", "Hd/H7600", "HTd/Aampa"], ["ה/בוז", "Hd/H937", "HTd/Ncmsa"], ["ל/גאיונים", "Hl/H1349", "HR/Aampa"]], "header": ""}
+{
+  "psalm": 123,
+  "verses": [
+    {
+      "chapter": 123,
+      "verse": 1,
+      "english": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+      "hebrew": [
+        [
+          "שיר",
+          "H7892",
+          "HNcbsc"
+        ],
+        [
+          "ה/מעלות",
+          "Hd/H4609",
+          "HTd/Ncfpa"
+        ],
+        [
+          "אלי/ך",
+          "H413",
+          "HR/Sp2ms"
+        ],
+        [
+          "נשאתי",
+          "H5375",
+          "HVqp1cs"
+        ],
+        [
+          "את",
+          "H853",
+          "HTo"
+        ],
+        [
+          "עינ/י",
+          "H5869",
+          "HNcbdc/Sp1cs"
+        ],
+        [
+          "ה/ישבי",
+          "Hd/H3427",
+          "HTd/Vqrmsc"
+        ],
+        [
+          "ב/שמים",
+          "Hb/H8064",
+          "HRd/Ncmpa"
+        ]
+      ],
+      "header": "¶ A Song of degrees."
+    },
+    {
+      "chapter": 123,
+      "verse": 2,
+      "english": "Behold, as the eyes of servants <i>look</i> unto the hand of their masters, <i>and</i> as the eyes of a maiden unto the hand of her mistress; so our eyes <i>wait</i> upon the LORD our God, until that he have mercy upon us.",
+      "hebrew": [
+        [
+          "הנה",
+          "H2009",
+          "HTm"
+        ],
+        [
+          "כ/עיני",
+          "Hk/H5869",
+          "HR/Ncbdc"
+        ],
+        [
+          "עבדים",
+          "H5650",
+          "HNcmpa"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יד",
+          "H3027",
+          "HNcbsc"
+        ],
+        [
+          "אדוני/הם",
+          "H113",
+          "HNcmpc/Sp3mp"
+        ],
+        [
+          "כ/עיני",
+          "Hk/H5869",
+          "HR/Ncbdc"
+        ],
+        [
+          "שפחה",
+          "H8198",
+          "HNcfsa"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יד",
+          "H3027",
+          "HNcbsc"
+        ],
+        [
+          "גברת/ה",
+          "H1404",
+          "HNcfsc/Sp3fs"
+        ],
+        [
+          "כן",
+          "H3651",
+          "HTm"
+        ],
+        [
+          "עיני/נו",
+          "H5869",
+          "HNcbdc/Sp1cp"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "אלהי/נו",
+          "H430",
+          "HNcmpc/Sp1cp"
+        ],
+        [
+          "עד",
+          "H5704",
+          "HR"
+        ],
+        [
+          "ש/יחנ/נו",
+          "Hs/H2603",
+          "HTr/Vqi3ms/Sp1cp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 123,
+      "verse": 3,
+      "english": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
+      "hebrew": [
+        [
+          "חנ/נו",
+          "H2603",
+          "HVqv2ms/Sp1cp"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "חנ/נו",
+          "H2603",
+          "HVqv2ms/Sp1cp"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "רב",
+          "H7227",
+          "HAamsa"
+        ],
+        [
+          "שבענו",
+          "H7646",
+          "HVqp1cp"
+        ],
+        [
+          "בוז",
+          "H937",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 123,
+      "verse": 4,
+      "english": "Our soul is exceedingly filled with the scorning of those that are at ease, <i>and</i> with the contempt of the proud.",
+      "hebrew": [
+        [
+          "רבת",
+          "H7227",
+          "HAafsc"
+        ],
+        [
+          "שבעה",
+          "H7646",
+          "HVqp3fs"
+        ],
+        [
+          "ל/ה",
+          "Hl",
+          "HR/Sp3fs"
+        ],
+        [
+          "נפש/נו",
+          "H5315",
+          "HNcbsc/Sp1cp"
+        ],
+        [
+          "ה/לעג",
+          "Hd/H3933",
+          "HTd/Ncmsa"
+        ],
+        [
+          "ה/שאננים",
+          "Hd/H7600",
+          "HTd/Aampa"
+        ],
+        [
+          "ה/בוז",
+          "Hd/H937",
+          "HTd/Ncmsa"
+        ],
+        [
+          "ל/גאיונים",
+          "Hl/H1349",
+          "HR/Aampa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

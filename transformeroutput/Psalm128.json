@@ -1,6 +1,288 @@
-{"chapter": 128, "verse": 1, "english": "Blessed <i>is</i> every one that feareth the LORD; that walketh in his ways.", "hebrew": [["שיר", "H7892", "HNcbsc"], ["ה/מעלות", "Hd/H4609", "HTd/Ncfpa"], ["אשרי", "H835", "HNcmpa"], ["כל", "H3605", "HNcmsc"], ["ירא", "H3373", "HAamsc"], ["יהוה", "H3068", "HNp"], ["ה/הלך", "Hd/H1980", "HTd/Vqrmsa"], ["ב/דרכי/ו", "Hb/H1870", "HR/Ncbpc/Sp3ms"]], "header": "¶ A Song of degrees."}
-{"chapter": 128, "verse": 2, "english": "For thou shalt eat the labour of thine hands: happy <i>shalt</i> thou <i>be,</i> and <i>it shall be</i> well with thee.", "hebrew": [["יגיע", "H3018", "HNcmsc"], ["כפי/ך", "H3709", "HNcfdc/Sp2ms"], ["כי", "H3588", "HC"], ["תאכל", "H398", "HVqi2ms"], ["אשרי/ך", "H835", "HNcmpc/Sp2ms"], ["ו/טוב", "Hc/H2896", "HC/Vqq3ms"], ["ל/ך", "Hl", "HR/Sp2fs"]], "header": ""}
-{"chapter": 128, "verse": 3, "english": "Thy wife <i>shall be</i> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.", "hebrew": [["אשת/ך", "H802", "HNcfsc/Sp2ms"], ["כ/גפן", "Hk/H1612", "HR/Ncbsa"], ["פריה", "H6509", "HVqrfsa"], ["ב/ירכתי", "Hb/H3411", "HR/Ncfdc"], ["בית/ך", "H1004", "HNcmsc/Sp2ms"], ["בני/ך", "H1121", "HNcmpc/Sp2ms"], ["כ/שתלי", "Hk/H8363", "HR/Ncmpc"], ["זיתים", "H2132", "HNcmpa"], ["סביב", "H5439", "HNcbsa"], ["ל/שלחנ/ך", "Hl/H7979", "HR/Ncmsc/Sp2ms"]], "header": ""}
-{"chapter": 128, "verse": 4, "english": "Behold, that thus shall the man be blessed that feareth the LORD.", "hebrew": [["הנה", "H2009", "HTm"], ["כי", "H3588", "HC"], ["כן", "H3651", "HD"], ["יברך", "H1288", "HVPi3ms"], ["גבר", "H1397", "HNcmsa"], ["ירא", "H3373", "HAamsc"], ["יהוה", "H3068", "HNp"]], "header": ""}
-{"chapter": 128, "verse": 5, "english": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.", "hebrew": [["יברכ/ך", "H1288", "HVpi3ms/Sp2ms"], ["יהוה", "H3068", "HNp"], ["מ/ציון", "Hm/H6726", "HR/Np"], ["ו/ראה", "Hc/H7200", "HC/Vqv2ms"], ["ב/טוב", "Hb/H2898", "HR/Ncmsc"], ["ירושלם", "H3389", "HNp"], ["כל", "H3605", "HNcmsc"], ["ימי", "H3117", "HNcmpc"], ["חיי/ך", "H2416", "HNcmpc/Sp2ms"]], "header": ""}
-{"chapter": 128, "verse": 6, "english": "Yea, thou shalt see thy children's children, <i>and</i> peace upon Israel.", "hebrew": [["ו/ראה", "Hc/H7200", "HC/Vqv2ms"], ["בנים", "H1121", "HNcmpa"], ["ל/בני/ך", "Hl/H1121", "HR/Ncmpc/Sp2ms"], ["שלום", "H7965", "HNcmsa"], ["על", "H5921", "HR"], ["ישראל", "H3478", "HNp"]], "header": ""}
+{
+  "psalm": 128,
+  "verses": [
+    {
+      "chapter": 128,
+      "verse": 1,
+      "english": "Blessed <i>is</i> every one that feareth the LORD; that walketh in his ways.",
+      "hebrew": [
+        [
+          "שיר",
+          "H7892",
+          "HNcbsc"
+        ],
+        [
+          "ה/מעלות",
+          "Hd/H4609",
+          "HTd/Ncfpa"
+        ],
+        [
+          "אשרי",
+          "H835",
+          "HNcmpa"
+        ],
+        [
+          "כל",
+          "H3605",
+          "HNcmsc"
+        ],
+        [
+          "ירא",
+          "H3373",
+          "HAamsc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ה/הלך",
+          "Hd/H1980",
+          "HTd/Vqrmsa"
+        ],
+        [
+          "ב/דרכי/ו",
+          "Hb/H1870",
+          "HR/Ncbpc/Sp3ms"
+        ]
+      ],
+      "header": "¶ A Song of degrees."
+    },
+    {
+      "chapter": 128,
+      "verse": 2,
+      "english": "For thou shalt eat the labour of thine hands: happy <i>shalt</i> thou <i>be,</i> and <i>it shall be</i> well with thee.",
+      "hebrew": [
+        [
+          "יגיע",
+          "H3018",
+          "HNcmsc"
+        ],
+        [
+          "כפי/ך",
+          "H3709",
+          "HNcfdc/Sp2ms"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "תאכל",
+          "H398",
+          "HVqi2ms"
+        ],
+        [
+          "אשרי/ך",
+          "H835",
+          "HNcmpc/Sp2ms"
+        ],
+        [
+          "ו/טוב",
+          "Hc/H2896",
+          "HC/Vqq3ms"
+        ],
+        [
+          "ל/ך",
+          "Hl",
+          "HR/Sp2fs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 128,
+      "verse": 3,
+      "english": "Thy wife <i>shall be</i> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+      "hebrew": [
+        [
+          "אשת/ך",
+          "H802",
+          "HNcfsc/Sp2ms"
+        ],
+        [
+          "כ/גפן",
+          "Hk/H1612",
+          "HR/Ncbsa"
+        ],
+        [
+          "פריה",
+          "H6509",
+          "HVqrfsa"
+        ],
+        [
+          "ב/ירכתי",
+          "Hb/H3411",
+          "HR/Ncfdc"
+        ],
+        [
+          "בית/ך",
+          "H1004",
+          "HNcmsc/Sp2ms"
+        ],
+        [
+          "בני/ך",
+          "H1121",
+          "HNcmpc/Sp2ms"
+        ],
+        [
+          "כ/שתלי",
+          "Hk/H8363",
+          "HR/Ncmpc"
+        ],
+        [
+          "זיתים",
+          "H2132",
+          "HNcmpa"
+        ],
+        [
+          "סביב",
+          "H5439",
+          "HNcbsa"
+        ],
+        [
+          "ל/שלחנ/ך",
+          "Hl/H7979",
+          "HR/Ncmsc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 128,
+      "verse": 4,
+      "english": "Behold, that thus shall the man be blessed that feareth the LORD.",
+      "hebrew": [
+        [
+          "הנה",
+          "H2009",
+          "HTm"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "כן",
+          "H3651",
+          "HD"
+        ],
+        [
+          "יברך",
+          "H1288",
+          "HVPi3ms"
+        ],
+        [
+          "גבר",
+          "H1397",
+          "HNcmsa"
+        ],
+        [
+          "ירא",
+          "H3373",
+          "HAamsc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 128,
+      "verse": 5,
+      "english": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+      "hebrew": [
+        [
+          "יברכ/ך",
+          "H1288",
+          "HVpi3ms/Sp2ms"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "מ/ציון",
+          "Hm/H6726",
+          "HR/Np"
+        ],
+        [
+          "ו/ראה",
+          "Hc/H7200",
+          "HC/Vqv2ms"
+        ],
+        [
+          "ב/טוב",
+          "Hb/H2898",
+          "HR/Ncmsc"
+        ],
+        [
+          "ירושלם",
+          "H3389",
+          "HNp"
+        ],
+        [
+          "כל",
+          "H3605",
+          "HNcmsc"
+        ],
+        [
+          "ימי",
+          "H3117",
+          "HNcmpc"
+        ],
+        [
+          "חיי/ך",
+          "H2416",
+          "HNcmpc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 128,
+      "verse": 6,
+      "english": "Yea, thou shalt see thy children's children, <i>and</i> peace upon Israel.",
+      "hebrew": [
+        [
+          "ו/ראה",
+          "Hc/H7200",
+          "HC/Vqv2ms"
+        ],
+        [
+          "בנים",
+          "H1121",
+          "HNcmpa"
+        ],
+        [
+          "ל/בני/ך",
+          "Hl/H1121",
+          "HR/Ncmpc/Sp2ms"
+        ],
+        [
+          "שלום",
+          "H7965",
+          "HNcmsa"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "ישראל",
+          "H3478",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

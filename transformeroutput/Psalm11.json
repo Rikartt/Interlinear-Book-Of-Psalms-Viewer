@@ -1,7 +1,406 @@
-{"chapter": 11, "verse": 1, "english": "In the LORD put I my trust: how say ye to my soul, Flee <i>as</i> a bird to your mountain?", "hebrew": [["ל/מנצח", "Hl/H5329", "HRd/Vprmsa"], ["ל/דוד", "Hl/H1732", "HR/Np"], ["ב/יהוה", "Hb/H3068", "HR/Np"], ["חסיתי", "H2620", "HVqp1cs"], ["איך", "H349", "HTi"], ["תאמרו", "H559", "HVqi2mp"], ["ל/נפש/י", "Hl/H5315", "HR/Ncbsc/Sp1cs"], ["נודו", "H5110", "HVqv2mp"], ["נודי", "H5110", "HVqv2fs"], ["הר/כם", "H2022", "HNcmsc/Sp2mp"], ["צפור", "H6833", "HNcbsa"]], "header": "¶ To the chief Musician, *A Psalm* of David."}
-{"chapter": 11, "verse": 2, "english": "For, lo, the wicked bend <i>their</i> bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.", "hebrew": [["כי", "H3588", "HC"], ["הנה", "H2009", "HTm"], ["ה/רשעים", "Hd/H7563", "HTd/Aampa"], ["ידרכו/ן", "H1869", "HVqi3mp/Sn"], ["קשת", "H7198", "HNcfsa"], ["כוננו", "H3559", "HVop3cp"], ["חצ/ם", "H2671", "HNcmsc/Sp3mp"], ["על", "H5921", "HR"], ["יתר", "H3499", "HNcmsa"], ["ל/ירות", "Hl/H3384", "HR/Vqc"], ["במו", "H1119", "HR"], ["אפל", "H652", "HNcmsa"], ["ל/ישרי", "Hl/H3477", "HR/Aampc"], ["לב", "H3820", "HNcmsa"]], "header": ""}
-{"chapter": 11, "verse": 3, "english": "If the foundations be destroyed, what can the righteous do?", "hebrew": [["כי", "H3588", "HC"], ["ה/שתות", "Hd/H8356", "HTd/Ncmpa"], ["יהרסו/ן", "H2040", "HVNi3mp/Sn"], ["צדיק", "H6662", "HAamsa"], ["מה", "H4100", "HTi"], ["פעל", "H6466", "HVqp3ms"]], "header": ""}
-{"chapter": 11, "verse": 4, "english": "The LORD <i>is</i> in his holy temple, the LORD's throne <i>is</i> in heaven: his eyes behold, his eyelids try, the children of men.", "hebrew": [["יהוה", "H3068", "HNp"], ["ב/היכל", "Hb/H1964", "HR/Ncmsc"], ["קדש/ו", "H6944", "HNcmsc/Sp3ms"], ["יהוה", "H3068", "HNp"], ["ב/שמים", "Hb/H8064", "HRd/Ncmpa"], ["כסא/ו", "H3678", "HNcmsc/Sp3ms"], ["עיני/ו", "H5869", "HNcbdc/Sp3ms"], ["יחזו", "H2372", "HVqi3mp"], ["עפעפי/ו", "H6079", "HNcmdc/Sp3ms"], ["יבחנו", "H974", "HVqi3mp"], ["בני", "H1121", "HNcmpc"], ["אדם", "H120", "HNcmsa"]], "header": ""}
-{"chapter": 11, "verse": 5, "english": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.", "hebrew": [["יהוה", "H3068", "HNp"], ["צדיק", "H6662", "HAamsa"], ["יבחן", "H974", "HVqi3ms"], ["ו/רשע", "Hc/H7563", "HC/Aamsa"], ["ו/אהב", "Hc/H157", "HC/Vqrmsc"], ["חמס", "H2555", "HNcmsa"], ["שנאה", "H8130", "HVqp3fs"], ["נפש/ו", "H5315", "HNcbsc/Sp3ms"]], "header": ""}
-{"chapter": 11, "verse": 6, "english": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: <i>this shall be</i> the portion of their cup.", "hebrew": [["ימטר", "H4305", "HVhi3ms"], ["על", "H5921", "HR"], ["רשעים", "H7563", "HAampa"], ["פחים", "H6341", "HNcmpa"], ["אש", "H784", "HNcbsa"], ["ו/גפרית", "Hc/H1614", "HC/Ncfsa"], ["ו/רוח", "Hc/H7307", "HC/Ncbsc"], ["זלעפות", "H2152", "HNcfpa"], ["מנת", "H4521", "HNcfsc"], ["כוס/ם", "H3563", "HNcfsc/Sp3mp"]], "header": ""}
-{"chapter": 11, "verse": 7, "english": "For the righteous LORD loveth righteousness; his countenance doth behold the upright.", "hebrew": [["כי", "H3588", "HC"], ["צדיק", "H6662", "HAamsa"], ["יהוה", "H3068", "HNp"], ["צדקות", "H6666", "HNcfpa"], ["אהב", "H157", "HVqp3ms"], ["ישר", "H3477", "HAamsa"], ["יחזו", "H2372", "HVqi3mp"], ["פני/מו", "H6440", "HNcbpc/Sp3ms"]], "header": ""}
+{
+  "psalm": 11,
+  "verses": [
+    {
+      "chapter": 11,
+      "verse": 1,
+      "english": "In the LORD put I my trust: how say ye to my soul, Flee <i>as</i> a bird to your mountain?",
+      "hebrew": [
+        [
+          "ל/מנצח",
+          "Hl/H5329",
+          "HRd/Vprmsa"
+        ],
+        [
+          "ל/דוד",
+          "Hl/H1732",
+          "HR/Np"
+        ],
+        [
+          "ב/יהוה",
+          "Hb/H3068",
+          "HR/Np"
+        ],
+        [
+          "חסיתי",
+          "H2620",
+          "HVqp1cs"
+        ],
+        [
+          "איך",
+          "H349",
+          "HTi"
+        ],
+        [
+          "תאמרו",
+          "H559",
+          "HVqi2mp"
+        ],
+        [
+          "ל/נפש/י",
+          "Hl/H5315",
+          "HR/Ncbsc/Sp1cs"
+        ],
+        [
+          "נודו",
+          "H5110",
+          "HVqv2mp"
+        ],
+        [
+          "נודי",
+          "H5110",
+          "HVqv2fs"
+        ],
+        [
+          "הר/כם",
+          "H2022",
+          "HNcmsc/Sp2mp"
+        ],
+        [
+          "צפור",
+          "H6833",
+          "HNcbsa"
+        ]
+      ],
+      "header": "¶ To the chief Musician, *A Psalm* of David."
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "english": "For, lo, the wicked bend <i>their</i> bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "הנה",
+          "H2009",
+          "HTm"
+        ],
+        [
+          "ה/רשעים",
+          "Hd/H7563",
+          "HTd/Aampa"
+        ],
+        [
+          "ידרכו/ן",
+          "H1869",
+          "HVqi3mp/Sn"
+        ],
+        [
+          "קשת",
+          "H7198",
+          "HNcfsa"
+        ],
+        [
+          "כוננו",
+          "H3559",
+          "HVop3cp"
+        ],
+        [
+          "חצ/ם",
+          "H2671",
+          "HNcmsc/Sp3mp"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "יתר",
+          "H3499",
+          "HNcmsa"
+        ],
+        [
+          "ל/ירות",
+          "Hl/H3384",
+          "HR/Vqc"
+        ],
+        [
+          "במו",
+          "H1119",
+          "HR"
+        ],
+        [
+          "אפל",
+          "H652",
+          "HNcmsa"
+        ],
+        [
+          "ל/ישרי",
+          "Hl/H3477",
+          "HR/Aampc"
+        ],
+        [
+          "לב",
+          "H3820",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "english": "If the foundations be destroyed, what can the righteous do?",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "ה/שתות",
+          "Hd/H8356",
+          "HTd/Ncmpa"
+        ],
+        [
+          "יהרסו/ן",
+          "H2040",
+          "HVNi3mp/Sn"
+        ],
+        [
+          "צדיק",
+          "H6662",
+          "HAamsa"
+        ],
+        [
+          "מה",
+          "H4100",
+          "HTi"
+        ],
+        [
+          "פעל",
+          "H6466",
+          "HVqp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "english": "The LORD <i>is</i> in his holy temple, the LORD's throne <i>is</i> in heaven: his eyes behold, his eyelids try, the children of men.",
+      "hebrew": [
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/היכל",
+          "Hb/H1964",
+          "HR/Ncmsc"
+        ],
+        [
+          "קדש/ו",
+          "H6944",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/שמים",
+          "Hb/H8064",
+          "HRd/Ncmpa"
+        ],
+        [
+          "כסא/ו",
+          "H3678",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "עיני/ו",
+          "H5869",
+          "HNcbdc/Sp3ms"
+        ],
+        [
+          "יחזו",
+          "H2372",
+          "HVqi3mp"
+        ],
+        [
+          "עפעפי/ו",
+          "H6079",
+          "HNcmdc/Sp3ms"
+        ],
+        [
+          "יבחנו",
+          "H974",
+          "HVqi3mp"
+        ],
+        [
+          "בני",
+          "H1121",
+          "HNcmpc"
+        ],
+        [
+          "אדם",
+          "H120",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "english": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
+      "hebrew": [
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "צדיק",
+          "H6662",
+          "HAamsa"
+        ],
+        [
+          "יבחן",
+          "H974",
+          "HVqi3ms"
+        ],
+        [
+          "ו/רשע",
+          "Hc/H7563",
+          "HC/Aamsa"
+        ],
+        [
+          "ו/אהב",
+          "Hc/H157",
+          "HC/Vqrmsc"
+        ],
+        [
+          "חמס",
+          "H2555",
+          "HNcmsa"
+        ],
+        [
+          "שנאה",
+          "H8130",
+          "HVqp3fs"
+        ],
+        [
+          "נפש/ו",
+          "H5315",
+          "HNcbsc/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "english": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: <i>this shall be</i> the portion of their cup.",
+      "hebrew": [
+        [
+          "ימטר",
+          "H4305",
+          "HVhi3ms"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "רשעים",
+          "H7563",
+          "HAampa"
+        ],
+        [
+          "פחים",
+          "H6341",
+          "HNcmpa"
+        ],
+        [
+          "אש",
+          "H784",
+          "HNcbsa"
+        ],
+        [
+          "ו/גפרית",
+          "Hc/H1614",
+          "HC/Ncfsa"
+        ],
+        [
+          "ו/רוח",
+          "Hc/H7307",
+          "HC/Ncbsc"
+        ],
+        [
+          "זלעפות",
+          "H2152",
+          "HNcfpa"
+        ],
+        [
+          "מנת",
+          "H4521",
+          "HNcfsc"
+        ],
+        [
+          "כוס/ם",
+          "H3563",
+          "HNcfsc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "english": "For the righteous LORD loveth righteousness; his countenance doth behold the upright.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "צדיק",
+          "H6662",
+          "HAamsa"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "צדקות",
+          "H6666",
+          "HNcfpa"
+        ],
+        [
+          "אהב",
+          "H157",
+          "HVqp3ms"
+        ],
+        [
+          "ישר",
+          "H3477",
+          "HAamsa"
+        ],
+        [
+          "יחזו",
+          "H2372",
+          "HVqi3mp"
+        ],
+        [
+          "פני/מו",
+          "H6440",
+          "HNcbpc/Sp3ms"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

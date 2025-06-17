@@ -1,7 +1,331 @@
-{"chapter": 87, "verse": 1, "english": "His foundation <i>is</i> in the holy mountains.", "hebrew": [["ל/בני", "Hl/H1121", "HR/Ncmpc"], ["קרח", "H7141", "HNp"], ["מזמור", "H4210", "HNcmsa"], ["שיר", "H7892", "HNcbsa"], ["יסודת/ו", "H3248", "HNcfsc/Sp3ms"], ["ב/הררי", "Hb/H2042", "HR/Ncmpc"], ["קדש", "H6944", "HNcmsa"]], "header": "¶ A Psalm *or* Song for the sons of Korah."}
-{"chapter": 87, "verse": 2, "english": "The LORD loveth the gates of Zion more than all the dwellings of Jacob.", "hebrew": [["אהב", "H157", "HVqrmsa"], ["יהוה", "H3068", "HNp"], ["שערי", "H8179", "HNcmpc"], ["ציון", "H6726", "HNp"], ["מ/כל", "Hm/H3605", "HR/Ncmsc"], ["משכנות", "H4908", "HNcmpc"], ["יעקב", "H3290", "HNp"]], "header": ""}
-{"chapter": 87, "verse": 3, "english": "Glorious things are spoken of thee, O city of God. Selah.", "hebrew": [["נכבדות", "H3513", "HVNrfpa"], ["מדבר", "H1696", "HVPsmsa"], ["ב/ך", "Hb", "HR/Sp2fs"], ["עיר", "H5892", "HNcfsc"], ["ה/אלהים", "Hd/H430", "HTd/Ncmpa"], ["סלה", "H5542", "HTj"]], "header": ""}
-{"chapter": 87, "verse": 4, "english": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this <i>man</i> was born there.", "hebrew": [["אזכיר", "H2142", "HVhi1cs"], ["רהב", "H7294", "HNp"], ["ו/בבל", "Hc/H894", "HC/Np"], ["ל/ידע/י", "Hl/H3045", "HR/Vqrmpc/Sp1cs"], ["הנה", "H2009", "HTm"], ["פלשת", "H6429", "HNp"], ["ו/צור", "Hc/H6865", "HC/Np"], ["עם", "H5973", "HR"], ["כוש", "H3568", "HNp"], ["זה", "H2088", "HPdxms"], ["ילד", "H3205", "HVPp3ms"], ["שם", "H8033", "HD"]], "header": ""}
-{"chapter": 87, "verse": 5, "english": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.", "hebrew": [["ו/ל/ציון", "Hc/Hl/H6726", "HC/R/Np"], ["יאמר", "H559", "HVNi3ms"], ["איש", "H376", "HNcmsa"], ["ו/איש", "Hc/H376", "HC/Ncmsa"], ["ילד", "H3205", "HVPp3ms"], ["ב/ה", "Hb", "HR/Sp3fs"], ["ו/הוא", "Hc/H1931", "HC/Pp3ms"], ["יכוננ/ה", "H3559", "HVoi3ms/Sp3fs"], ["עליון", "H5945", "HAamsa"]], "header": ""}
-{"chapter": 87, "verse": 6, "english": "The LORD shall count, when he writeth up the people, <i>that</i> this <i>man</i> was born there. Selah.", "hebrew": [["יהוה", "H3068", "HNp"], ["יספר", "H5608", "HVqi3ms"], ["ב/כתוב", "Hb/H3789", "HR/Vqc"], ["עמים", "H5971", "HNcmpa"], ["זה", "H2088", "HPdxms"], ["ילד", "H3205", "HVPp3ms"], ["שם", "H8033", "HD"], ["סלה", "H5542", "HTj"]], "header": ""}
-{"chapter": 87, "verse": 7, "english": "As well the singers as the players on instruments <i>shall be there:</i> all my springs <i>are</i> in thee.", "hebrew": [["ו/שרים", "Hc/H7891", "HC/Vqrmpa"], ["כ/חללים", "Hk/H2490", "HR/Vqrmpa"], ["כל", "H3605", "HNcmsc"], ["מעינ/י", "H4599", "HNcmpc/Sp1cs"], ["ב/ך", "Hb", "HR/Sp2fs"]], "header": ""}
+{
+  "psalm": 87,
+  "verses": [
+    {
+      "chapter": 87,
+      "verse": 1,
+      "english": "His foundation <i>is</i> in the holy mountains.",
+      "hebrew": [
+        [
+          "ל/בני",
+          "Hl/H1121",
+          "HR/Ncmpc"
+        ],
+        [
+          "קרח",
+          "H7141",
+          "HNp"
+        ],
+        [
+          "מזמור",
+          "H4210",
+          "HNcmsa"
+        ],
+        [
+          "שיר",
+          "H7892",
+          "HNcbsa"
+        ],
+        [
+          "יסודת/ו",
+          "H3248",
+          "HNcfsc/Sp3ms"
+        ],
+        [
+          "ב/הררי",
+          "Hb/H2042",
+          "HR/Ncmpc"
+        ],
+        [
+          "קדש",
+          "H6944",
+          "HNcmsa"
+        ]
+      ],
+      "header": "¶ A Psalm *or* Song for the sons of Korah."
+    },
+    {
+      "chapter": 87,
+      "verse": 2,
+      "english": "The LORD loveth the gates of Zion more than all the dwellings of Jacob.",
+      "hebrew": [
+        [
+          "אהב",
+          "H157",
+          "HVqrmsa"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "שערי",
+          "H8179",
+          "HNcmpc"
+        ],
+        [
+          "ציון",
+          "H6726",
+          "HNp"
+        ],
+        [
+          "מ/כל",
+          "Hm/H3605",
+          "HR/Ncmsc"
+        ],
+        [
+          "משכנות",
+          "H4908",
+          "HNcmpc"
+        ],
+        [
+          "יעקב",
+          "H3290",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 87,
+      "verse": 3,
+      "english": "Glorious things are spoken of thee, O city of God. Selah.",
+      "hebrew": [
+        [
+          "נכבדות",
+          "H3513",
+          "HVNrfpa"
+        ],
+        [
+          "מדבר",
+          "H1696",
+          "HVPsmsa"
+        ],
+        [
+          "ב/ך",
+          "Hb",
+          "HR/Sp2fs"
+        ],
+        [
+          "עיר",
+          "H5892",
+          "HNcfsc"
+        ],
+        [
+          "ה/אלהים",
+          "Hd/H430",
+          "HTd/Ncmpa"
+        ],
+        [
+          "סלה",
+          "H5542",
+          "HTj"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 87,
+      "verse": 4,
+      "english": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this <i>man</i> was born there.",
+      "hebrew": [
+        [
+          "אזכיר",
+          "H2142",
+          "HVhi1cs"
+        ],
+        [
+          "רהב",
+          "H7294",
+          "HNp"
+        ],
+        [
+          "ו/בבל",
+          "Hc/H894",
+          "HC/Np"
+        ],
+        [
+          "ל/ידע/י",
+          "Hl/H3045",
+          "HR/Vqrmpc/Sp1cs"
+        ],
+        [
+          "הנה",
+          "H2009",
+          "HTm"
+        ],
+        [
+          "פלשת",
+          "H6429",
+          "HNp"
+        ],
+        [
+          "ו/צור",
+          "Hc/H6865",
+          "HC/Np"
+        ],
+        [
+          "עם",
+          "H5973",
+          "HR"
+        ],
+        [
+          "כוש",
+          "H3568",
+          "HNp"
+        ],
+        [
+          "זה",
+          "H2088",
+          "HPdxms"
+        ],
+        [
+          "ילד",
+          "H3205",
+          "HVPp3ms"
+        ],
+        [
+          "שם",
+          "H8033",
+          "HD"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 87,
+      "verse": 5,
+      "english": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.",
+      "hebrew": [
+        [
+          "ו/ל/ציון",
+          "Hc/Hl/H6726",
+          "HC/R/Np"
+        ],
+        [
+          "יאמר",
+          "H559",
+          "HVNi3ms"
+        ],
+        [
+          "איש",
+          "H376",
+          "HNcmsa"
+        ],
+        [
+          "ו/איש",
+          "Hc/H376",
+          "HC/Ncmsa"
+        ],
+        [
+          "ילד",
+          "H3205",
+          "HVPp3ms"
+        ],
+        [
+          "ב/ה",
+          "Hb",
+          "HR/Sp3fs"
+        ],
+        [
+          "ו/הוא",
+          "Hc/H1931",
+          "HC/Pp3ms"
+        ],
+        [
+          "יכוננ/ה",
+          "H3559",
+          "HVoi3ms/Sp3fs"
+        ],
+        [
+          "עליון",
+          "H5945",
+          "HAamsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 87,
+      "verse": 6,
+      "english": "The LORD shall count, when he writeth up the people, <i>that</i> this <i>man</i> was born there. Selah.",
+      "hebrew": [
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "יספר",
+          "H5608",
+          "HVqi3ms"
+        ],
+        [
+          "ב/כתוב",
+          "Hb/H3789",
+          "HR/Vqc"
+        ],
+        [
+          "עמים",
+          "H5971",
+          "HNcmpa"
+        ],
+        [
+          "זה",
+          "H2088",
+          "HPdxms"
+        ],
+        [
+          "ילד",
+          "H3205",
+          "HVPp3ms"
+        ],
+        [
+          "שם",
+          "H8033",
+          "HD"
+        ],
+        [
+          "סלה",
+          "H5542",
+          "HTj"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 87,
+      "verse": 7,
+      "english": "As well the singers as the players on instruments <i>shall be there:</i> all my springs <i>are</i> in thee.",
+      "hebrew": [
+        [
+          "ו/שרים",
+          "Hc/H7891",
+          "HC/Vqrmpa"
+        ],
+        [
+          "כ/חללים",
+          "Hk/H2490",
+          "HR/Vqrmpa"
+        ],
+        [
+          "כל",
+          "H3605",
+          "HNcmsc"
+        ],
+        [
+          "מעינ/י",
+          "H4599",
+          "HNcmpc/Sp1cs"
+        ],
+        [
+          "ב/ך",
+          "Hb",
+          "HR/Sp2fs"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

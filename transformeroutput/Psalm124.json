@@ -1,8 +1,354 @@
-{"chapter": 124, "verse": 1, "english": "If <i>it had</i> not <i>been</i> the LORD who was on our side, now may Israel say;", "hebrew": [["שיר", "H7892", "HNcbsc"], ["ה/מעלות", "Hd/H4609", "HTd/Ncfpa"], ["ל/דוד", "Hl/H1732", "HR/Np"], ["לולי", "H3884", "HC"], ["יהוה", "H3068", "HNp"], ["ש/היה", "Hs/H1961", "HTr/Vqp3ms"], ["ל/נו", "Hl", "HR/Sp1cp"], ["יאמר", "H559", "HVqj3ms"], ["נא", "H4994", "HTe"], ["ישראל", "H3478", "HNp"]], "header": "¶ A Song of degrees of David."}
-{"chapter": 124, "verse": 2, "english": "If <i>it had</i> not <i>been</i> the LORD who was on our side, when men rose up against us:", "hebrew": [["לולי", "H3884", "HC"], ["יהוה", "H3068", "HNp"], ["ש/היה", "Hs/H1961", "HTr/Vqp3ms"], ["ל/נו", "Hl", "HR/Sp1cp"], ["ב/קום", "Hb/H6965", "HR/Vqc"], ["עלי/נו", "H5921", "HR/Sp1cp"], ["אדם", "H120", "HNcmsa"]], "header": ""}
-{"chapter": 124, "verse": 3, "english": "Then they had swallowed us up quick, when their wrath was kindled against us:", "hebrew": [["אזי", "H233", "HD"], ["חיים", "H2416", "HAampa"], ["בלעו/נו", "H1104", "HVqp3cp/Sp1cp"], ["ב/חרות", "Hb/H2734", "HR/Vqc"], ["אפ/ם", "H639", "HNcmsc/Sp3mp"], ["ב/נו", "Hb", "HR/Sp1cp"]], "header": ""}
-{"chapter": 124, "verse": 4, "english": "Then the waters had overwhelmed us, the stream had gone over our soul:", "hebrew": [["אזי", "H233", "HD"], ["ה/מים", "Hd/H4325", "HTd/Ncmpa"], ["שטפו/נו", "H7857", "HVqp3cp/Sp1cp"], ["נחל/ה", "H5158", "HNcmsa/Sh"], ["עבר", "H5674", "HVqp3ms"], ["על", "H5921", "HR"], ["נפש/נו", "H5315", "HNcbsc/Sp1cp"]], "header": ""}
-{"chapter": 124, "verse": 5, "english": "Then the proud waters had gone over our soul.", "hebrew": [["אזי", "H233", "HD"], ["עבר", "H5674", "HVqp3ms"], ["על", "H5921", "HR"], ["נפש/נו", "H5315", "HNcbsc/Sp1cp"], ["ה/מים", "Hd/H4325", "HTd/Ncmpa"], ["ה/זידונים", "Hd/H2121", "HTd/Aampa"]], "header": ""}
-{"chapter": 124, "verse": 6, "english": "Blessed <i>be</i> the LORD, who hath not given us <i>as</i> a prey to their teeth.", "hebrew": [["ברוך", "H1288", "HVqsmsa"], ["יהוה", "H3068", "HNp"], ["ש/לא", "Hs/H3808", "HTr/Tn"], ["נתנ/נו", "H5414", "HVqp3ms/Sp1cp"], ["טרף", "H2964", "HNcmsa"], ["ל/שני/הם", "Hl/H8127", "HR/Ncbdc/Sp3mp"]], "header": ""}
-{"chapter": 124, "verse": 7, "english": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.", "hebrew": [["נפש/נו", "H5315", "HNcbsc/Sp1cp"], ["כ/צפור", "Hk/H6833", "HR/Ncbsa"], ["נמלטה", "H4422", "HVNp3fs"], ["מ/פח", "Hm/H6341", "HR/Ncmsc"], ["יוקשים", "H3369", "HVqrmpa"], ["ה/פח", "Hd/H6341", "HTd/Ncmsa"], ["נשבר", "H7665", "HVNrmsa"], ["ו/אנחנו", "Hc/H587", "HC/Pp1cp"], ["נמלטנו", "H4422", "HVNp1cp"]], "header": ""}
-{"chapter": 124, "verse": 8, "english": "Our help <i>is</i> in the name of the LORD, who made heaven and earth.", "hebrew": [["עזר/נו", "H5828", "HNcmsc/Sp1cp"], ["ב/שם", "Hb/H8034", "HR/Ncmsc"], ["יהוה", "H3068", "HNp"], ["עשה", "H6213", "HVqrmsc"], ["שמים", "H8064", "HNcmpa"], ["ו/ארץ", "Hc/H776", "HC/Ncbsa"]], "header": ""}
+{
+  "psalm": 124,
+  "verses": [
+    {
+      "chapter": 124,
+      "verse": 1,
+      "english": "If <i>it had</i> not <i>been</i> the LORD who was on our side, now may Israel say;",
+      "hebrew": [
+        [
+          "שיר",
+          "H7892",
+          "HNcbsc"
+        ],
+        [
+          "ה/מעלות",
+          "Hd/H4609",
+          "HTd/Ncfpa"
+        ],
+        [
+          "ל/דוד",
+          "Hl/H1732",
+          "HR/Np"
+        ],
+        [
+          "לולי",
+          "H3884",
+          "HC"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ש/היה",
+          "Hs/H1961",
+          "HTr/Vqp3ms"
+        ],
+        [
+          "ל/נו",
+          "Hl",
+          "HR/Sp1cp"
+        ],
+        [
+          "יאמר",
+          "H559",
+          "HVqj3ms"
+        ],
+        [
+          "נא",
+          "H4994",
+          "HTe"
+        ],
+        [
+          "ישראל",
+          "H3478",
+          "HNp"
+        ]
+      ],
+      "header": "¶ A Song of degrees of David."
+    },
+    {
+      "chapter": 124,
+      "verse": 2,
+      "english": "If <i>it had</i> not <i>been</i> the LORD who was on our side, when men rose up against us:",
+      "hebrew": [
+        [
+          "לולי",
+          "H3884",
+          "HC"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ש/היה",
+          "Hs/H1961",
+          "HTr/Vqp3ms"
+        ],
+        [
+          "ל/נו",
+          "Hl",
+          "HR/Sp1cp"
+        ],
+        [
+          "ב/קום",
+          "Hb/H6965",
+          "HR/Vqc"
+        ],
+        [
+          "עלי/נו",
+          "H5921",
+          "HR/Sp1cp"
+        ],
+        [
+          "אדם",
+          "H120",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 124,
+      "verse": 3,
+      "english": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+      "hebrew": [
+        [
+          "אזי",
+          "H233",
+          "HD"
+        ],
+        [
+          "חיים",
+          "H2416",
+          "HAampa"
+        ],
+        [
+          "בלעו/נו",
+          "H1104",
+          "HVqp3cp/Sp1cp"
+        ],
+        [
+          "ב/חרות",
+          "Hb/H2734",
+          "HR/Vqc"
+        ],
+        [
+          "אפ/ם",
+          "H639",
+          "HNcmsc/Sp3mp"
+        ],
+        [
+          "ב/נו",
+          "Hb",
+          "HR/Sp1cp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 124,
+      "verse": 4,
+      "english": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+      "hebrew": [
+        [
+          "אזי",
+          "H233",
+          "HD"
+        ],
+        [
+          "ה/מים",
+          "Hd/H4325",
+          "HTd/Ncmpa"
+        ],
+        [
+          "שטפו/נו",
+          "H7857",
+          "HVqp3cp/Sp1cp"
+        ],
+        [
+          "נחל/ה",
+          "H5158",
+          "HNcmsa/Sh"
+        ],
+        [
+          "עבר",
+          "H5674",
+          "HVqp3ms"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "נפש/נו",
+          "H5315",
+          "HNcbsc/Sp1cp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 124,
+      "verse": 5,
+      "english": "Then the proud waters had gone over our soul.",
+      "hebrew": [
+        [
+          "אזי",
+          "H233",
+          "HD"
+        ],
+        [
+          "עבר",
+          "H5674",
+          "HVqp3ms"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "נפש/נו",
+          "H5315",
+          "HNcbsc/Sp1cp"
+        ],
+        [
+          "ה/מים",
+          "Hd/H4325",
+          "HTd/Ncmpa"
+        ],
+        [
+          "ה/זידונים",
+          "Hd/H2121",
+          "HTd/Aampa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 124,
+      "verse": 6,
+      "english": "Blessed <i>be</i> the LORD, who hath not given us <i>as</i> a prey to their teeth.",
+      "hebrew": [
+        [
+          "ברוך",
+          "H1288",
+          "HVqsmsa"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ש/לא",
+          "Hs/H3808",
+          "HTr/Tn"
+        ],
+        [
+          "נתנ/נו",
+          "H5414",
+          "HVqp3ms/Sp1cp"
+        ],
+        [
+          "טרף",
+          "H2964",
+          "HNcmsa"
+        ],
+        [
+          "ל/שני/הם",
+          "Hl/H8127",
+          "HR/Ncbdc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 124,
+      "verse": 7,
+      "english": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+      "hebrew": [
+        [
+          "נפש/נו",
+          "H5315",
+          "HNcbsc/Sp1cp"
+        ],
+        [
+          "כ/צפור",
+          "Hk/H6833",
+          "HR/Ncbsa"
+        ],
+        [
+          "נמלטה",
+          "H4422",
+          "HVNp3fs"
+        ],
+        [
+          "מ/פח",
+          "Hm/H6341",
+          "HR/Ncmsc"
+        ],
+        [
+          "יוקשים",
+          "H3369",
+          "HVqrmpa"
+        ],
+        [
+          "ה/פח",
+          "Hd/H6341",
+          "HTd/Ncmsa"
+        ],
+        [
+          "נשבר",
+          "H7665",
+          "HVNrmsa"
+        ],
+        [
+          "ו/אנחנו",
+          "Hc/H587",
+          "HC/Pp1cp"
+        ],
+        [
+          "נמלטנו",
+          "H4422",
+          "HVNp1cp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 124,
+      "verse": 8,
+      "english": "Our help <i>is</i> in the name of the LORD, who made heaven and earth.",
+      "hebrew": [
+        [
+          "עזר/נו",
+          "H5828",
+          "HNcmsc/Sp1cp"
+        ],
+        [
+          "ב/שם",
+          "Hb/H8034",
+          "HR/Ncmsc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "עשה",
+          "H6213",
+          "HVqrmsc"
+        ],
+        [
+          "שמים",
+          "H8064",
+          "HNcmpa"
+        ],
+        [
+          "ו/ארץ",
+          "Hc/H776",
+          "HC/Ncbsa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

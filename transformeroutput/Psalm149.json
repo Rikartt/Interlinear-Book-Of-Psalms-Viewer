@@ -1,9 +1,397 @@
-{"chapter": 149, "verse": 1, "english": "Praise ye the LORD. Sing unto the LORD a new song, <i>and</i> his praise in the congregation of saints.", "hebrew": [["הללו", "H1984", "HVpv2mp"], ["יה", "H3050", "HNp"], ["שירו", "H7891", "HVqv2mp"], ["ל/יהוה", "Hl/H3068", "HR/Np"], ["שיר", "H7892", "HNcbsa"], ["חדש", "H2319", "HAamsa"], ["תהלת/ו", "H8416", "HNcfsc/Sp3ms"], ["ב/קהל", "Hb/H6951", "HR/Ncmsc"], ["חסידים", "H2623", "HAampa"]], "header": ""}
-{"chapter": 149, "verse": 2, "english": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.", "hebrew": [["ישמח", "H8055", "HVqi3ms"], ["ישראל", "H3478", "HNp"], ["ב/עשי/ו", "Hb/H6213", "HR/Vqrmpc/Sp3ms"], ["בני", "H1121", "HNcmpc"], ["ציון", "H6726", "HNp"], ["יגילו", "H1523", "HVqi3mp"], ["ב/מלכ/ם", "Hb/H4428", "HR/Ncmsc/Sp3mp"]], "header": ""}
-{"chapter": 149, "verse": 3, "english": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.", "hebrew": [["יהללו", "H1984", "HVpj3mp"], ["שמ/ו", "H8034", "HNcmsc/Sp3ms"], ["ב/מחול", "Hb/H4234", "HR/Ncmsa"], ["ב/תף", "Hb/H8596", "HR/Ncmsa"], ["ו/כנור", "Hc/H3658", "HC/Ncmsa"], ["יזמרו", "H2167", "HVpi3mp"], ["ל/ו", "Hl", "HR/Sp3ms"]], "header": ""}
-{"chapter": 149, "verse": 4, "english": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation.", "hebrew": [["כי", "H3588", "HC"], ["רוצה", "H7521", "HVqrmsa"], ["יהוה", "H3068", "HNp"], ["ב/עמ/ו", "Hb/H5971", "HR/Ncmsc/Sp3ms"], ["יפאר", "H6286", "HVpi3ms"], ["ענוים", "H6035", "HAampa"], ["ב/ישועה", "Hb/H3444", "HR/Ncfsa"]], "header": ""}
-{"chapter": 149, "verse": 5, "english": "Let the saints be joyful in glory: let them sing aloud upon their beds.", "hebrew": [["יעלזו", "H5937", "HVqi3mp"], ["חסידים", "H2623", "HAampa"], ["ב/כבוד", "Hb/H3519", "HR/Ncbsa"], ["ירננו", "H7442", "HVpi3mp"], ["על", "H5921", "HR"], ["משכבות/ם", "H4904", "HNcmpc/Sp3mp"]], "header": ""}
-{"chapter": 149, "verse": 6, "english": "<i>Let</i> the high <i>praises</i> of God <i>be</i> in their mouth, and a twoedged sword in their hand;", "hebrew": [["רוממות", "H7319", "HNcmpc"], ["אל", "H410", "HNcmsa"], ["ב/גרונ/ם", "Hb/H1627", "HR/Ncmsc/Sp3mp"], ["ו/חרב", "Hc/H2719", "HC/Ncfsc"], ["פיפיות", "H6374", "HNcbpa"], ["ב/יד/ם", "Hb/H3027", "HR/Ncbsc/Sp3mp"]], "header": ""}
-{"chapter": 149, "verse": 7, "english": "To execute vengeance upon the heathen, <i>and</i> punishments upon the people;", "hebrew": [["ל/עשות", "Hl/H6213", "HR/Vqc"], ["נקמה", "H5360", "HNcfsa"], ["ב/גוים", "Hb/H1471", "HRd/Ncmpa"], ["תוכחת", "H8433", "HNcfpa"], ["בל", "H1077", "HTn"], ["אמים", "H3816", "HNcmpa"]], "header": ""}
-{"chapter": 149, "verse": 8, "english": "To bind their kings with chains, and their nobles with fetters of iron;", "hebrew": [["ל/אסר", "Hl/H631", "HR/Vqc"], ["מלכי/הם", "H4428", "HNcmpc/Sp3mp"], ["ב/זקים", "Hb/H2131", "HR/Ncmpa"], ["ו/נכבדי/הם", "Hc/H3513", "HC/VNrmpc/Sp3mp"], ["ב/כבלי", "Hb/H3525", "HR/Ncmpc"], ["ברזל", "H1270", "HNcmsa"]], "header": ""}
-{"chapter": 149, "verse": 9, "english": "To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.", "hebrew": [["ל/עשות", "Hl/H6213", "HR/Vqc"], ["ב/הם", "Hb", "HR/Sp3mp"], ["משפט", "H4941", "HNcmsa"], ["כתוב", "H3789", "HVqsmsa"], ["הדר", "H1926", "HNcmsa"], ["הוא", "H1931", "HPp3ms"], ["ל/כל", "Hl/H3605", "HR/Ncmsc"], ["חסידי/ו", "H2623", "HAampc/Sp3ms"], ["הללו", "H1984", "HVpv2mp"], ["יה", "H3050", "HNp"]], "header": ""}
+{
+  "psalm": 149,
+  "verses": [
+    {
+      "chapter": 149,
+      "verse": 1,
+      "english": "Praise ye the LORD. Sing unto the LORD a new song, <i>and</i> his praise in the congregation of saints.",
+      "hebrew": [
+        [
+          "הללו",
+          "H1984",
+          "HVpv2mp"
+        ],
+        [
+          "יה",
+          "H3050",
+          "HNp"
+        ],
+        [
+          "שירו",
+          "H7891",
+          "HVqv2mp"
+        ],
+        [
+          "ל/יהוה",
+          "Hl/H3068",
+          "HR/Np"
+        ],
+        [
+          "שיר",
+          "H7892",
+          "HNcbsa"
+        ],
+        [
+          "חדש",
+          "H2319",
+          "HAamsa"
+        ],
+        [
+          "תהלת/ו",
+          "H8416",
+          "HNcfsc/Sp3ms"
+        ],
+        [
+          "ב/קהל",
+          "Hb/H6951",
+          "HR/Ncmsc"
+        ],
+        [
+          "חסידים",
+          "H2623",
+          "HAampa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 2,
+      "english": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.",
+      "hebrew": [
+        [
+          "ישמח",
+          "H8055",
+          "HVqi3ms"
+        ],
+        [
+          "ישראל",
+          "H3478",
+          "HNp"
+        ],
+        [
+          "ב/עשי/ו",
+          "Hb/H6213",
+          "HR/Vqrmpc/Sp3ms"
+        ],
+        [
+          "בני",
+          "H1121",
+          "HNcmpc"
+        ],
+        [
+          "ציון",
+          "H6726",
+          "HNp"
+        ],
+        [
+          "יגילו",
+          "H1523",
+          "HVqi3mp"
+        ],
+        [
+          "ב/מלכ/ם",
+          "Hb/H4428",
+          "HR/Ncmsc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 3,
+      "english": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+      "hebrew": [
+        [
+          "יהללו",
+          "H1984",
+          "HVpj3mp"
+        ],
+        [
+          "שמ/ו",
+          "H8034",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "ב/מחול",
+          "Hb/H4234",
+          "HR/Ncmsa"
+        ],
+        [
+          "ב/תף",
+          "Hb/H8596",
+          "HR/Ncmsa"
+        ],
+        [
+          "ו/כנור",
+          "Hc/H3658",
+          "HC/Ncmsa"
+        ],
+        [
+          "יזמרו",
+          "H2167",
+          "HVpi3mp"
+        ],
+        [
+          "ל/ו",
+          "Hl",
+          "HR/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 4,
+      "english": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "רוצה",
+          "H7521",
+          "HVqrmsa"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/עמ/ו",
+          "Hb/H5971",
+          "HR/Ncmsc/Sp3ms"
+        ],
+        [
+          "יפאר",
+          "H6286",
+          "HVpi3ms"
+        ],
+        [
+          "ענוים",
+          "H6035",
+          "HAampa"
+        ],
+        [
+          "ב/ישועה",
+          "Hb/H3444",
+          "HR/Ncfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 5,
+      "english": "Let the saints be joyful in glory: let them sing aloud upon their beds.",
+      "hebrew": [
+        [
+          "יעלזו",
+          "H5937",
+          "HVqi3mp"
+        ],
+        [
+          "חסידים",
+          "H2623",
+          "HAampa"
+        ],
+        [
+          "ב/כבוד",
+          "Hb/H3519",
+          "HR/Ncbsa"
+        ],
+        [
+          "ירננו",
+          "H7442",
+          "HVpi3mp"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "משכבות/ם",
+          "H4904",
+          "HNcmpc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 6,
+      "english": "<i>Let</i> the high <i>praises</i> of God <i>be</i> in their mouth, and a twoedged sword in their hand;",
+      "hebrew": [
+        [
+          "רוממות",
+          "H7319",
+          "HNcmpc"
+        ],
+        [
+          "אל",
+          "H410",
+          "HNcmsa"
+        ],
+        [
+          "ב/גרונ/ם",
+          "Hb/H1627",
+          "HR/Ncmsc/Sp3mp"
+        ],
+        [
+          "ו/חרב",
+          "Hc/H2719",
+          "HC/Ncfsc"
+        ],
+        [
+          "פיפיות",
+          "H6374",
+          "HNcbpa"
+        ],
+        [
+          "ב/יד/ם",
+          "Hb/H3027",
+          "HR/Ncbsc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 7,
+      "english": "To execute vengeance upon the heathen, <i>and</i> punishments upon the people;",
+      "hebrew": [
+        [
+          "ל/עשות",
+          "Hl/H6213",
+          "HR/Vqc"
+        ],
+        [
+          "נקמה",
+          "H5360",
+          "HNcfsa"
+        ],
+        [
+          "ב/גוים",
+          "Hb/H1471",
+          "HRd/Ncmpa"
+        ],
+        [
+          "תוכחת",
+          "H8433",
+          "HNcfpa"
+        ],
+        [
+          "בל",
+          "H1077",
+          "HTn"
+        ],
+        [
+          "אמים",
+          "H3816",
+          "HNcmpa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 8,
+      "english": "To bind their kings with chains, and their nobles with fetters of iron;",
+      "hebrew": [
+        [
+          "ל/אסר",
+          "Hl/H631",
+          "HR/Vqc"
+        ],
+        [
+          "מלכי/הם",
+          "H4428",
+          "HNcmpc/Sp3mp"
+        ],
+        [
+          "ב/זקים",
+          "Hb/H2131",
+          "HR/Ncmpa"
+        ],
+        [
+          "ו/נכבדי/הם",
+          "Hc/H3513",
+          "HC/VNrmpc/Sp3mp"
+        ],
+        [
+          "ב/כבלי",
+          "Hb/H3525",
+          "HR/Ncmpc"
+        ],
+        [
+          "ברזל",
+          "H1270",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 149,
+      "verse": 9,
+      "english": "To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.",
+      "hebrew": [
+        [
+          "ל/עשות",
+          "Hl/H6213",
+          "HR/Vqc"
+        ],
+        [
+          "ב/הם",
+          "Hb",
+          "HR/Sp3mp"
+        ],
+        [
+          "משפט",
+          "H4941",
+          "HNcmsa"
+        ],
+        [
+          "כתוב",
+          "H3789",
+          "HVqsmsa"
+        ],
+        [
+          "הדר",
+          "H1926",
+          "HNcmsa"
+        ],
+        [
+          "הוא",
+          "H1931",
+          "HPp3ms"
+        ],
+        [
+          "ל/כל",
+          "Hl/H3605",
+          "HR/Ncmsc"
+        ],
+        [
+          "חסידי/ו",
+          "H2623",
+          "HAampc/Sp3ms"
+        ],
+        [
+          "הללו",
+          "H1984",
+          "HVpv2mp"
+        ],
+        [
+          "יה",
+          "H3050",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

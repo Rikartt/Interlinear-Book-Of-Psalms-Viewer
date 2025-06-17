@@ -1,5 +1,345 @@
-{"chapter": 127, "verse": 1, "english": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh <i>but</i> in vain.", "hebrew": [["שיר", "H7892", "HNcbsc"], ["ה/מעלות", "Hd/H4609", "HTd/Ncfpa"], ["ל/שלמה", "Hl/H8010", "HR/Np"], ["אם", "H518", "HC"], ["יהוה", "H3068", "HNp"], ["לא", "H3808", "HTn"], ["יבנה", "H1129", "HVqi3ms"], ["בית", "H1004", "HNcmsa"], ["שוא", "H7723", "HNcmsa"], ["עמלו", "H5998", "HVqp3cp"], ["בוני/ו", "H1129", "HVqrmpc/Sp3ms"], ["ב/ו", "Hb", "HR/Sp3ms"], ["אם", "H518", "HC"], ["יהוה", "H3068", "HNp"], ["לא", "H3808", "HTn"], ["ישמר", "H8104", "HVqi3ms"], ["עיר", "H5892", "HNcfsa"], ["שוא", "H7723", "HNcmsa"], ["שקד", "H8245", "HVqp3ms"], ["שומר", "H8104", "HVqrmsa"]], "header": "¶ A Song of degrees for Solomon."}
-{"chapter": 127, "verse": 2, "english": "<i>It is</i> vain for you to rise up early, to sit up late, to eat the bread of sorrows: <i>for</i> so he giveth his beloved sleep.", "hebrew": [["שוא", "H7723", "HNcmsa"], ["ל/כם", "Hl", "HR/Sp2mp"], ["משכימי", "H7925", "HVhrmpc"], ["קום", "H6965", "HVqc"], ["מאחרי", "H309", "HVprmpc"], ["שבת", "H3427", "HVqc"], ["אכלי", "H398", "HVqrmpc"], ["לחם", "H3899", "HNcbsc"], ["ה/עצבים", "Hd/H6089", "HTd/Ncmpa"], ["כן", "H3651", "HTm"], ["יתן", "H5414", "HVqi3ms"], ["ל/ידיד/ו", "Hl/H3039", "HR/Aamsc/Sp3ms"], ["שנא", "H8142", "HNcfsa"]], "header": ""}
-{"chapter": 127, "verse": 3, "english": "Lo, children <i>are</i> an heritage of the LORD: <i>and</i> the fruit of the womb <i>is his</i> reward.", "hebrew": [["הנה", "H2009", "HTm"], ["נחלת", "H5159", "HNcfsc"], ["יהוה", "H3068", "HNp"], ["בנים", "H1121", "HNcmpa"], ["שכר", "H7939", "HNcmsa"], ["פרי", "H6529", "HNcmsc"], ["ה/בטן", "Hd/H990", "HTd/Ncfsa"]], "header": ""}
-{"chapter": 127, "verse": 4, "english": "As arrows <i>are</i> in the hand of a mighty man; so <i>are</i> children of the youth.", "hebrew": [["כ/חצים", "Hk/H2671", "HR/Ncmpa"], ["ב/יד", "Hb/H3027", "HR/Ncbsc"], ["גבור", "H1368", "HAamsa"], ["כן", "H3651", "HTm"], ["בני", "H1121", "HNcmpc"], ["ה/נעורים", "Hd/H5271", "HTd/Ncbpa"]], "header": ""}
-{"chapter": 127, "verse": 5, "english": "Happy <i>is</i> the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.", "hebrew": [["אשרי", "H835", "HNcmpa"], ["ה/גבר", "Hd/H1397", "HTd/Ncmsa"], ["אשר", "H834", "HTr"], ["מלא", "H4390", "HVpp3ms"], ["את", "H853", "HTo"], ["אשפת/ו", "H827", "HNcfsc/Sp3ms"], ["מ/הם", "Hm", "HR/Sp3mp"], ["לא", "H3808", "HTn"], ["יבשו", "H954", "HVqi3mp"], ["כי", "H3588", "HC"], ["ידברו", "H1696", "HVpi3mp"], ["את", "H854", "HR"], ["אויבים", "H341", "HVqrmpa"], ["ב/שער", "Hb/H8179", "HRd/Ncmsa"]], "header": ""}
+{
+  "psalm": 127,
+  "verses": [
+    {
+      "chapter": 127,
+      "verse": 1,
+      "english": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh <i>but</i> in vain.",
+      "hebrew": [
+        [
+          "שיר",
+          "H7892",
+          "HNcbsc"
+        ],
+        [
+          "ה/מעלות",
+          "Hd/H4609",
+          "HTd/Ncfpa"
+        ],
+        [
+          "ל/שלמה",
+          "Hl/H8010",
+          "HR/Np"
+        ],
+        [
+          "אם",
+          "H518",
+          "HC"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "יבנה",
+          "H1129",
+          "HVqi3ms"
+        ],
+        [
+          "בית",
+          "H1004",
+          "HNcmsa"
+        ],
+        [
+          "שוא",
+          "H7723",
+          "HNcmsa"
+        ],
+        [
+          "עמלו",
+          "H5998",
+          "HVqp3cp"
+        ],
+        [
+          "בוני/ו",
+          "H1129",
+          "HVqrmpc/Sp3ms"
+        ],
+        [
+          "ב/ו",
+          "Hb",
+          "HR/Sp3ms"
+        ],
+        [
+          "אם",
+          "H518",
+          "HC"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "ישמר",
+          "H8104",
+          "HVqi3ms"
+        ],
+        [
+          "עיר",
+          "H5892",
+          "HNcfsa"
+        ],
+        [
+          "שוא",
+          "H7723",
+          "HNcmsa"
+        ],
+        [
+          "שקד",
+          "H8245",
+          "HVqp3ms"
+        ],
+        [
+          "שומר",
+          "H8104",
+          "HVqrmsa"
+        ]
+      ],
+      "header": "¶ A Song of degrees for Solomon."
+    },
+    {
+      "chapter": 127,
+      "verse": 2,
+      "english": "<i>It is</i> vain for you to rise up early, to sit up late, to eat the bread of sorrows: <i>for</i> so he giveth his beloved sleep.",
+      "hebrew": [
+        [
+          "שוא",
+          "H7723",
+          "HNcmsa"
+        ],
+        [
+          "ל/כם",
+          "Hl",
+          "HR/Sp2mp"
+        ],
+        [
+          "משכימי",
+          "H7925",
+          "HVhrmpc"
+        ],
+        [
+          "קום",
+          "H6965",
+          "HVqc"
+        ],
+        [
+          "מאחרי",
+          "H309",
+          "HVprmpc"
+        ],
+        [
+          "שבת",
+          "H3427",
+          "HVqc"
+        ],
+        [
+          "אכלי",
+          "H398",
+          "HVqrmpc"
+        ],
+        [
+          "לחם",
+          "H3899",
+          "HNcbsc"
+        ],
+        [
+          "ה/עצבים",
+          "Hd/H6089",
+          "HTd/Ncmpa"
+        ],
+        [
+          "כן",
+          "H3651",
+          "HTm"
+        ],
+        [
+          "יתן",
+          "H5414",
+          "HVqi3ms"
+        ],
+        [
+          "ל/ידיד/ו",
+          "Hl/H3039",
+          "HR/Aamsc/Sp3ms"
+        ],
+        [
+          "שנא",
+          "H8142",
+          "HNcfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 127,
+      "verse": 3,
+      "english": "Lo, children <i>are</i> an heritage of the LORD: <i>and</i> the fruit of the womb <i>is his</i> reward.",
+      "hebrew": [
+        [
+          "הנה",
+          "H2009",
+          "HTm"
+        ],
+        [
+          "נחלת",
+          "H5159",
+          "HNcfsc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "בנים",
+          "H1121",
+          "HNcmpa"
+        ],
+        [
+          "שכר",
+          "H7939",
+          "HNcmsa"
+        ],
+        [
+          "פרי",
+          "H6529",
+          "HNcmsc"
+        ],
+        [
+          "ה/בטן",
+          "Hd/H990",
+          "HTd/Ncfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 127,
+      "verse": 4,
+      "english": "As arrows <i>are</i> in the hand of a mighty man; so <i>are</i> children of the youth.",
+      "hebrew": [
+        [
+          "כ/חצים",
+          "Hk/H2671",
+          "HR/Ncmpa"
+        ],
+        [
+          "ב/יד",
+          "Hb/H3027",
+          "HR/Ncbsc"
+        ],
+        [
+          "גבור",
+          "H1368",
+          "HAamsa"
+        ],
+        [
+          "כן",
+          "H3651",
+          "HTm"
+        ],
+        [
+          "בני",
+          "H1121",
+          "HNcmpc"
+        ],
+        [
+          "ה/נעורים",
+          "Hd/H5271",
+          "HTd/Ncbpa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 127,
+      "verse": 5,
+      "english": "Happy <i>is</i> the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.",
+      "hebrew": [
+        [
+          "אשרי",
+          "H835",
+          "HNcmpa"
+        ],
+        [
+          "ה/גבר",
+          "Hd/H1397",
+          "HTd/Ncmsa"
+        ],
+        [
+          "אשר",
+          "H834",
+          "HTr"
+        ],
+        [
+          "מלא",
+          "H4390",
+          "HVpp3ms"
+        ],
+        [
+          "את",
+          "H853",
+          "HTo"
+        ],
+        [
+          "אשפת/ו",
+          "H827",
+          "HNcfsc/Sp3ms"
+        ],
+        [
+          "מ/הם",
+          "Hm",
+          "HR/Sp3mp"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "יבשו",
+          "H954",
+          "HVqi3mp"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "ידברו",
+          "H1696",
+          "HVpi3mp"
+        ],
+        [
+          "את",
+          "H854",
+          "HR"
+        ],
+        [
+          "אויבים",
+          "H341",
+          "HVqrmpa"
+        ],
+        [
+          "ב/שער",
+          "Hb/H8179",
+          "HRd/Ncmsa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

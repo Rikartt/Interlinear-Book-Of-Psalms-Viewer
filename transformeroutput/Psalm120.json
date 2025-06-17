@@ -1,7 +1,316 @@
-{"chapter": 120, "verse": 1, "english": "In my distress I cried unto the LORD, and he heard me.", "hebrew": [["שיר", "H7892", "HNcbsc"], ["ה/מעלות", "Hd/H4609", "HTd/Ncfpa"], ["אל", "H413", "HR"], ["יהוה", "H3068", "HNp"], ["ב/צרת/ה", "Hb/H6869", "HRd/Ncfsa/Sh"], ["ל/י", "Hl", "HR/Sp1cs"], ["קראתי", "H7121", "HVqp1cs"], ["ו/יענ/ני", "Hc/H6030", "HC/Vqw3ms/Sp1cs"]], "header": "¶ A Song of degrees."}
-{"chapter": 120, "verse": 2, "english": "Deliver my soul, O LORD, from lying lips, <i>and</i> from a deceitful tongue.", "hebrew": [["יהוה", "H3068", "HNp"], ["הציל/ה", "H5337", "HVhv2ms/Sh"], ["נפש/י", "H5315", "HNcbsc/Sp1cs"], ["מ/שפת", "Hm/H8193", "HR/Ncfsc"], ["שקר", "H8267", "HNcmsa"], ["מ/לשון", "Hm/H3956", "HR/Ncbsc"], ["רמיה", "H7423", "HNcfsa"]], "header": ""}
-{"chapter": 120, "verse": 3, "english": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?", "hebrew": [["מה", "H4100", "HTi"], ["יתן", "H5414", "HVqi3ms"], ["ל/ך", "Hl", "HR/Sp2ms"], ["ו/מה", "Hc/H4100", "HC/Ti"], ["יסיף", "H3254", "HVhi3ms"], ["ל/ך", "Hl", "HR/Sp2fs"], ["לשון", "H3956", "HNcbsa"], ["רמיה", "H7423", "HNcfsa"]], "header": ""}
-{"chapter": 120, "verse": 4, "english": "Sharp arrows of the mighty, with coals of juniper.", "hebrew": [["חצי", "H2671", "HNcmpc"], ["גבור", "H1368", "HAamsa"], ["שנונים", "H8150", "HVqsmpa"], ["עם", "H5973", "HR"], ["גחלי", "H1513", "HNcbpc"], ["רתמים", "H7574", "HNcmpa"]], "header": ""}
-{"chapter": 120, "verse": 5, "english": "Woe is me, that I sojourn in Mesech, <i>that</i> I dwell in the tents of Kedar!", "hebrew": [["אויה", "H190", "HTj"], ["ל/י", "Hl", "HR/Sp1cs"], ["כי", "H3588", "HC"], ["גרתי", "H1481", "HVqp1cs"], ["משך", "H4902", "HNp"], ["שכנתי", "H7931", "HVqp1cs"], ["עם", "H5973", "HR"], ["אהלי", "H168", "HNcmpc"], ["קדר", "H6938", "HNp"]], "header": ""}
-{"chapter": 120, "verse": 6, "english": "My soul hath long dwelt with him that hateth peace.", "hebrew": [["רבת", "H7227", "HAafsc"], ["שכנה", "H7931", "HVqp3fs"], ["ל/ה", "Hl", "HR/Sp3fs"], ["נפש/י", "H5315", "HNcbsc/Sp1cs"], ["עם", "H5973", "HR"], ["שונא", "H8130", "HVqrmsc"], ["שלום", "H7965", "HNcmsa"]], "header": ""}
-{"chapter": 120, "verse": 7, "english": "I <i>am for</i> peace: but when I speak, they <i>are</i> for war.", "hebrew": [["אני", "H589", "HPp1cs"], ["שלום", "H7965", "HNcmsa"], ["ו/כי", "Hc/H3588", "HC/C"], ["אדבר", "H1696", "HVpi1cs"], ["המה", "H1992", "HPp3mp"], ["ל/מלחמה", "Hl/H4421", "HRd/Ncfsa"]], "header": ""}
+{
+  "psalm": 120,
+  "verses": [
+    {
+      "chapter": 120,
+      "verse": 1,
+      "english": "In my distress I cried unto the LORD, and he heard me.",
+      "hebrew": [
+        [
+          "שיר",
+          "H7892",
+          "HNcbsc"
+        ],
+        [
+          "ה/מעלות",
+          "Hd/H4609",
+          "HTd/Ncfpa"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ב/צרת/ה",
+          "Hb/H6869",
+          "HRd/Ncfsa/Sh"
+        ],
+        [
+          "ל/י",
+          "Hl",
+          "HR/Sp1cs"
+        ],
+        [
+          "קראתי",
+          "H7121",
+          "HVqp1cs"
+        ],
+        [
+          "ו/יענ/ני",
+          "Hc/H6030",
+          "HC/Vqw3ms/Sp1cs"
+        ]
+      ],
+      "header": "¶ A Song of degrees."
+    },
+    {
+      "chapter": 120,
+      "verse": 2,
+      "english": "Deliver my soul, O LORD, from lying lips, <i>and</i> from a deceitful tongue.",
+      "hebrew": [
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "הציל/ה",
+          "H5337",
+          "HVhv2ms/Sh"
+        ],
+        [
+          "נפש/י",
+          "H5315",
+          "HNcbsc/Sp1cs"
+        ],
+        [
+          "מ/שפת",
+          "Hm/H8193",
+          "HR/Ncfsc"
+        ],
+        [
+          "שקר",
+          "H8267",
+          "HNcmsa"
+        ],
+        [
+          "מ/לשון",
+          "Hm/H3956",
+          "HR/Ncbsc"
+        ],
+        [
+          "רמיה",
+          "H7423",
+          "HNcfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 120,
+      "verse": 3,
+      "english": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
+      "hebrew": [
+        [
+          "מה",
+          "H4100",
+          "HTi"
+        ],
+        [
+          "יתן",
+          "H5414",
+          "HVqi3ms"
+        ],
+        [
+          "ל/ך",
+          "Hl",
+          "HR/Sp2ms"
+        ],
+        [
+          "ו/מה",
+          "Hc/H4100",
+          "HC/Ti"
+        ],
+        [
+          "יסיף",
+          "H3254",
+          "HVhi3ms"
+        ],
+        [
+          "ל/ך",
+          "Hl",
+          "HR/Sp2fs"
+        ],
+        [
+          "לשון",
+          "H3956",
+          "HNcbsa"
+        ],
+        [
+          "רמיה",
+          "H7423",
+          "HNcfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 120,
+      "verse": 4,
+      "english": "Sharp arrows of the mighty, with coals of juniper.",
+      "hebrew": [
+        [
+          "חצי",
+          "H2671",
+          "HNcmpc"
+        ],
+        [
+          "גבור",
+          "H1368",
+          "HAamsa"
+        ],
+        [
+          "שנונים",
+          "H8150",
+          "HVqsmpa"
+        ],
+        [
+          "עם",
+          "H5973",
+          "HR"
+        ],
+        [
+          "גחלי",
+          "H1513",
+          "HNcbpc"
+        ],
+        [
+          "רתמים",
+          "H7574",
+          "HNcmpa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 120,
+      "verse": 5,
+      "english": "Woe is me, that I sojourn in Mesech, <i>that</i> I dwell in the tents of Kedar!",
+      "hebrew": [
+        [
+          "אויה",
+          "H190",
+          "HTj"
+        ],
+        [
+          "ל/י",
+          "Hl",
+          "HR/Sp1cs"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "גרתי",
+          "H1481",
+          "HVqp1cs"
+        ],
+        [
+          "משך",
+          "H4902",
+          "HNp"
+        ],
+        [
+          "שכנתי",
+          "H7931",
+          "HVqp1cs"
+        ],
+        [
+          "עם",
+          "H5973",
+          "HR"
+        ],
+        [
+          "אהלי",
+          "H168",
+          "HNcmpc"
+        ],
+        [
+          "קדר",
+          "H6938",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 120,
+      "verse": 6,
+      "english": "My soul hath long dwelt with him that hateth peace.",
+      "hebrew": [
+        [
+          "רבת",
+          "H7227",
+          "HAafsc"
+        ],
+        [
+          "שכנה",
+          "H7931",
+          "HVqp3fs"
+        ],
+        [
+          "ל/ה",
+          "Hl",
+          "HR/Sp3fs"
+        ],
+        [
+          "נפש/י",
+          "H5315",
+          "HNcbsc/Sp1cs"
+        ],
+        [
+          "עם",
+          "H5973",
+          "HR"
+        ],
+        [
+          "שונא",
+          "H8130",
+          "HVqrmsc"
+        ],
+        [
+          "שלום",
+          "H7965",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 120,
+      "verse": 7,
+      "english": "I <i>am for</i> peace: but when I speak, they <i>are</i> for war.",
+      "hebrew": [
+        [
+          "אני",
+          "H589",
+          "HPp1cs"
+        ],
+        [
+          "שלום",
+          "H7965",
+          "HNcmsa"
+        ],
+        [
+          "ו/כי",
+          "Hc/H3588",
+          "HC/C"
+        ],
+        [
+          "אדבר",
+          "H1696",
+          "HVpi1cs"
+        ],
+        [
+          "המה",
+          "H1992",
+          "HPp3mp"
+        ],
+        [
+          "ל/מלחמה",
+          "Hl/H4421",
+          "HRd/Ncfsa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

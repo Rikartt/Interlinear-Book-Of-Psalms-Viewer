@@ -1,6 +1,313 @@
-{"chapter": 13, "verse": 1, "english": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?", "hebrew": [["ל/מנצח", "Hl/H5329", "HRd/Vprmsa"], ["מזמור", "H4210", "HNcmsa"], ["ל/דוד", "Hl/H1732", "HR/Np"], ["עד", "H5704", "HR"], ["אנה", "H575", "HD"], ["יהוה", "H3068", "HNp"], ["תשכח/ני", "H7911", "HVqi2ms/Sp1cs"], ["נצח", "H5331", "HNcmsa"], ["עד", "H5704", "HR"], ["אנה", "H575", "HD"], ["תסתיר", "H5641", "HVhi2ms"], ["את", "H853", "HTo"], ["פני/ך", "H6440", "HNcbpc/Sp2ms"], ["ממ/ני", "H4480", "HR/Sp1cs"]], "header": "¶ To the chief Musician, A Psalm of David."}
-{"chapter": 13, "verse": 2, "english": "How long shall I take counsel in my soul, <i>having</i> sorrow in my heart daily? how long shall mine enemy be exalted over me?", "hebrew": [["עד", "H5704", "HR"], ["אנה", "H575", "HD"], ["אשית", "H7896", "HVqi1cs"], ["עצות", "H6098", "HNcfpa"], ["ב/נפש/י", "Hb/H5315", "HR/Ncbsc/Sp1cs"], ["יגון", "H3015", "HNcmsa"], ["ב/לבב/י", "Hb/H3824", "HR/Ncmsc/Sp1cs"], ["יומם", "H3119", "HD"], ["עד", "H5704", "HR"], ["אנה", "H575", "HD"], ["ירום", "H7311", "HVqi3ms"], ["איב/י", "H341", "HVqrmsc/Sp1cs"], ["על/י", "H5921", "HR/Sp1cs"]], "header": ""}
-{"chapter": 13, "verse": 3, "english": "Consider <i>and</i> hear me, O LORD my God: lighten mine eyes, lest I sleep the <i>sleep of</i> death;", "hebrew": [["הביט/ה", "H5027", "HVhv2ms/Sh"], ["ענ/ני", "H6030", "HVqv2ms/Sp1cs"], ["יהוה", "H3068", "HNp"], ["אלה/י", "H430", "HNcmpc/Sp1cs"], ["האיר/ה", "H215", "HVhv2ms/Sh"], ["עינ/י", "H5869", "HNcbdc/Sp1cs"], ["פן", "H6435", "HC"], ["אישן", "H3462", "HVqi1cs"], ["ה/מות", "Hd/H4194", "HTd/Ncmsa"]], "header": ""}
-{"chapter": 13, "verse": 4, "english": "Lest mine enemy say, I have prevailed against him; <i>and</i> those that trouble me rejoice when I am moved.", "hebrew": [["פן", "H6435", "HC"], ["יאמר", "H559", "HVqi3ms"], ["איב/י", "H341", "HVqrmsc/Sp1cs"], ["יכלתי/ו", "H3201", "HVqp1cs/Sp3ms"], ["צר/י", "H6862", "HNcmpc/Sp1cs"], ["יגילו", "H1523", "HVqi3mp"], ["כי", "H3588", "HC"], ["אמוט", "H4131", "HVNi1cs"]], "header": ""}
-{"chapter": 13, "verse": 5, "english": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.", "hebrew": [["פן", "H6435", "HC"], ["יאמר", "H559", "HVqi3ms"], ["איב/י", "H341", "HVqrmsc/Sp1cs"], ["יכלתי/ו", "H3201", "HVqp1cs/Sp3ms"], ["צר/י", "H6862", "HNcmpc/Sp1cs"], ["יגילו", "H1523", "HVqi3mp"]], "header": ""}
-{"chapter": 13, "verse": 6, "english": "I will sing unto the LORD, because he hath dealt bountifully with me.", "hebrew": [["כי", "H3588", "HC"], ["אמוט", "H4131", "HVNi1cs"]], "header": ""}
+{
+  "psalm": 13,
+  "verses": [
+    {
+      "chapter": 13,
+      "verse": 1,
+      "english": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?",
+      "hebrew": [
+        [
+          "ל/מנצח",
+          "Hl/H5329",
+          "HRd/Vprmsa"
+        ],
+        [
+          "מזמור",
+          "H4210",
+          "HNcmsa"
+        ],
+        [
+          "ל/דוד",
+          "Hl/H1732",
+          "HR/Np"
+        ],
+        [
+          "עד",
+          "H5704",
+          "HR"
+        ],
+        [
+          "אנה",
+          "H575",
+          "HD"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "תשכח/ני",
+          "H7911",
+          "HVqi2ms/Sp1cs"
+        ],
+        [
+          "נצח",
+          "H5331",
+          "HNcmsa"
+        ],
+        [
+          "עד",
+          "H5704",
+          "HR"
+        ],
+        [
+          "אנה",
+          "H575",
+          "HD"
+        ],
+        [
+          "תסתיר",
+          "H5641",
+          "HVhi2ms"
+        ],
+        [
+          "את",
+          "H853",
+          "HTo"
+        ],
+        [
+          "פני/ך",
+          "H6440",
+          "HNcbpc/Sp2ms"
+        ],
+        [
+          "ממ/ני",
+          "H4480",
+          "HR/Sp1cs"
+        ]
+      ],
+      "header": "¶ To the chief Musician, A Psalm of David."
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "english": "How long shall I take counsel in my soul, <i>having</i> sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+      "hebrew": [
+        [
+          "עד",
+          "H5704",
+          "HR"
+        ],
+        [
+          "אנה",
+          "H575",
+          "HD"
+        ],
+        [
+          "אשית",
+          "H7896",
+          "HVqi1cs"
+        ],
+        [
+          "עצות",
+          "H6098",
+          "HNcfpa"
+        ],
+        [
+          "ב/נפש/י",
+          "Hb/H5315",
+          "HR/Ncbsc/Sp1cs"
+        ],
+        [
+          "יגון",
+          "H3015",
+          "HNcmsa"
+        ],
+        [
+          "ב/לבב/י",
+          "Hb/H3824",
+          "HR/Ncmsc/Sp1cs"
+        ],
+        [
+          "יומם",
+          "H3119",
+          "HD"
+        ],
+        [
+          "עד",
+          "H5704",
+          "HR"
+        ],
+        [
+          "אנה",
+          "H575",
+          "HD"
+        ],
+        [
+          "ירום",
+          "H7311",
+          "HVqi3ms"
+        ],
+        [
+          "איב/י",
+          "H341",
+          "HVqrmsc/Sp1cs"
+        ],
+        [
+          "על/י",
+          "H5921",
+          "HR/Sp1cs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "english": "Consider <i>and</i> hear me, O LORD my God: lighten mine eyes, lest I sleep the <i>sleep of</i> death;",
+      "hebrew": [
+        [
+          "הביט/ה",
+          "H5027",
+          "HVhv2ms/Sh"
+        ],
+        [
+          "ענ/ני",
+          "H6030",
+          "HVqv2ms/Sp1cs"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "אלה/י",
+          "H430",
+          "HNcmpc/Sp1cs"
+        ],
+        [
+          "האיר/ה",
+          "H215",
+          "HVhv2ms/Sh"
+        ],
+        [
+          "עינ/י",
+          "H5869",
+          "HNcbdc/Sp1cs"
+        ],
+        [
+          "פן",
+          "H6435",
+          "HC"
+        ],
+        [
+          "אישן",
+          "H3462",
+          "HVqi1cs"
+        ],
+        [
+          "ה/מות",
+          "Hd/H4194",
+          "HTd/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "english": "Lest mine enemy say, I have prevailed against him; <i>and</i> those that trouble me rejoice when I am moved.",
+      "hebrew": [
+        [
+          "פן",
+          "H6435",
+          "HC"
+        ],
+        [
+          "יאמר",
+          "H559",
+          "HVqi3ms"
+        ],
+        [
+          "איב/י",
+          "H341",
+          "HVqrmsc/Sp1cs"
+        ],
+        [
+          "יכלתי/ו",
+          "H3201",
+          "HVqp1cs/Sp3ms"
+        ],
+        [
+          "צר/י",
+          "H6862",
+          "HNcmpc/Sp1cs"
+        ],
+        [
+          "יגילו",
+          "H1523",
+          "HVqi3mp"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "אמוט",
+          "H4131",
+          "HVNi1cs"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "english": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+      "hebrew": [
+        [
+          "פן",
+          "H6435",
+          "HC"
+        ],
+        [
+          "יאמר",
+          "H559",
+          "HVqi3ms"
+        ],
+        [
+          "איב/י",
+          "H341",
+          "HVqrmsc/Sp1cs"
+        ],
+        [
+          "יכלתי/ו",
+          "H3201",
+          "HVqp1cs/Sp3ms"
+        ],
+        [
+          "צר/י",
+          "H6862",
+          "HNcmpc/Sp1cs"
+        ],
+        [
+          "יגילו",
+          "H1523",
+          "HVqi3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "english": "I will sing unto the LORD, because he hath dealt bountifully with me.",
+      "hebrew": [
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "אמוט",
+          "H4131",
+          "HVNi1cs"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

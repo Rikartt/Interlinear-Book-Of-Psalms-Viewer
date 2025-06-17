@@ -1,7 +1,326 @@
-{"chapter": 67, "verse": 1, "english": "God be merciful unto us, and bless us; <i>and</i> cause his face to shine upon us; Selah.", "hebrew": [["ל/מנצח", "Hl/H5329", "HRd/Vprmsa"], ["ב/נגינת", "Hb/H5058", "HR/Ncfpa"], ["מזמור", "H4210", "HNcmsa"], ["שיר", "H7892", "HNcbsa"], ["אלהים", "H430", "HNcmpa"], ["יחנ/נו", "H2603", "HVpi3ms/Sp1cp"], ["ו/יברכ/נו", "Hc/H1288", "HC/Vpi3ms/Sp1cp"], ["יאר", "H215", "HVhj3ms"], ["פני/ו", "H6440", "HNcbpc/Sp3ms"], ["את/נו", "H854", "HR/Sp1cp"], ["סלה", "H5542", "HTj"]], "header": "¶ To the chief Musician on Neginoth, A Psalm *or* Song."}
-{"chapter": 67, "verse": 2, "english": "That thy way may be known upon earth, thy saving health among all nations.", "hebrew": [["ל/דעת", "Hl/H3045", "HR/Vqc"], ["ב/ארץ", "Hb/H776", "HRd/Ncbsa"], ["דרכ/ך", "H1870", "HNcbsc/Sp2ms"], ["ב/כל", "Hb/H3605", "HR/Ncmsc"], ["גוים", "H1471", "HNcmpa"], ["ישועת/ך", "H3444", "HNcfsc/Sp2ms"]], "header": ""}
-{"chapter": 67, "verse": 3, "english": "Let the people praise thee, O God; let all the people praise thee.", "hebrew": [["יודו/ך", "H3034", "HVhi3mp/Sp2ms"], ["עמים", "H5971", "HNcmpa"], ["אלהים", "H430", "HNcmpa"], ["יודו/ך", "H3034", "HVhi3mp/Sp2ms"], ["עמים", "H5971", "HNcmpa"], ["כל/ם", "H3605", "HNcmsc/Sp3mp"]], "header": ""}
-{"chapter": 67, "verse": 4, "english": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.", "hebrew": [["ישמחו", "H8055", "HVqi3mp"], ["ו/ירננו", "Hc/H7442", "HC/Vpi3mp"], ["לאמים", "H3816", "HNcmpa"], ["כי", "H3588", "HC"], ["תשפט", "H8199", "HVqi2ms"], ["עמים", "H5971", "HNcmpa"], ["מישור", "H4334", "HNcmsa"], ["ו/לאמים", "Hc/H3816", "HC/Ncmpa"], ["ב/ארץ", "Hb/H776", "HRd/Ncbsa"], ["תנח/ם", "H5148", "HVhi2ms/Sp3mp"], ["סלה", "H5542", "HTj"]], "header": ""}
-{"chapter": 67, "verse": 5, "english": "Let the people praise thee, O God; let all the people praise thee.", "hebrew": [["יודו/ך", "H3034", "HVhi3mp/Sp2ms"], ["עמים", "H5971", "HNcmpa"], ["אלהים", "H430", "HNcmpa"], ["יודו/ך", "H3034", "HVhi3mp/Sp2ms"], ["עמים", "H5971", "HNcmpa"], ["כל/ם", "H3605", "HNcmsc/Sp3mp"]], "header": ""}
-{"chapter": 67, "verse": 6, "english": "<i>Then</i> shall the earth yield her increase; <i>and</i> God, <i>even</i> our own God, shall bless us.", "hebrew": [["ארץ", "H776", "HNcbsa"], ["נתנה", "H5414", "HVqp3fs"], ["יבול/ה", "H2981", "HNcmsc/Sp3fs"], ["יברכ/נו", "H1288", "HVpi3ms/Sp1cp"], ["אלהים", "H430", "HNcmpa"], ["אלהי/נו", "H430", "HNcmpc/Sp1cp"]], "header": ""}
-{"chapter": 67, "verse": 7, "english": "God shall bless us; and all the ends of the earth shall fear him.", "hebrew": [["יברכ/נו", "H1288", "HVpi3ms/Sp1cp"], ["אלהים", "H430", "HNcmpa"], ["ו/ייראו", "Hc/H3372", "HC/Vqi3mp"], ["את/ו", "H853", "HTo/Sp3ms"], ["כל", "H3605", "HNcmsc"], ["אפסי", "H657", "HNcmpc"], ["ארץ", "H776", "HNcbsa"]], "header": ""}
+{
+  "psalm": 67,
+  "verses": [
+    {
+      "chapter": 67,
+      "verse": 1,
+      "english": "God be merciful unto us, and bless us; <i>and</i> cause his face to shine upon us; Selah.",
+      "hebrew": [
+        [
+          "ל/מנצח",
+          "Hl/H5329",
+          "HRd/Vprmsa"
+        ],
+        [
+          "ב/נגינת",
+          "Hb/H5058",
+          "HR/Ncfpa"
+        ],
+        [
+          "מזמור",
+          "H4210",
+          "HNcmsa"
+        ],
+        [
+          "שיר",
+          "H7892",
+          "HNcbsa"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "יחנ/נו",
+          "H2603",
+          "HVpi3ms/Sp1cp"
+        ],
+        [
+          "ו/יברכ/נו",
+          "Hc/H1288",
+          "HC/Vpi3ms/Sp1cp"
+        ],
+        [
+          "יאר",
+          "H215",
+          "HVhj3ms"
+        ],
+        [
+          "פני/ו",
+          "H6440",
+          "HNcbpc/Sp3ms"
+        ],
+        [
+          "את/נו",
+          "H854",
+          "HR/Sp1cp"
+        ],
+        [
+          "סלה",
+          "H5542",
+          "HTj"
+        ]
+      ],
+      "header": "¶ To the chief Musician on Neginoth, A Psalm *or* Song."
+    },
+    {
+      "chapter": 67,
+      "verse": 2,
+      "english": "That thy way may be known upon earth, thy saving health among all nations.",
+      "hebrew": [
+        [
+          "ל/דעת",
+          "Hl/H3045",
+          "HR/Vqc"
+        ],
+        [
+          "ב/ארץ",
+          "Hb/H776",
+          "HRd/Ncbsa"
+        ],
+        [
+          "דרכ/ך",
+          "H1870",
+          "HNcbsc/Sp2ms"
+        ],
+        [
+          "ב/כל",
+          "Hb/H3605",
+          "HR/Ncmsc"
+        ],
+        [
+          "גוים",
+          "H1471",
+          "HNcmpa"
+        ],
+        [
+          "ישועת/ך",
+          "H3444",
+          "HNcfsc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 67,
+      "verse": 3,
+      "english": "Let the people praise thee, O God; let all the people praise thee.",
+      "hebrew": [
+        [
+          "יודו/ך",
+          "H3034",
+          "HVhi3mp/Sp2ms"
+        ],
+        [
+          "עמים",
+          "H5971",
+          "HNcmpa"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "יודו/ך",
+          "H3034",
+          "HVhi3mp/Sp2ms"
+        ],
+        [
+          "עמים",
+          "H5971",
+          "HNcmpa"
+        ],
+        [
+          "כל/ם",
+          "H3605",
+          "HNcmsc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 67,
+      "verse": 4,
+      "english": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.",
+      "hebrew": [
+        [
+          "ישמחו",
+          "H8055",
+          "HVqi3mp"
+        ],
+        [
+          "ו/ירננו",
+          "Hc/H7442",
+          "HC/Vpi3mp"
+        ],
+        [
+          "לאמים",
+          "H3816",
+          "HNcmpa"
+        ],
+        [
+          "כי",
+          "H3588",
+          "HC"
+        ],
+        [
+          "תשפט",
+          "H8199",
+          "HVqi2ms"
+        ],
+        [
+          "עמים",
+          "H5971",
+          "HNcmpa"
+        ],
+        [
+          "מישור",
+          "H4334",
+          "HNcmsa"
+        ],
+        [
+          "ו/לאמים",
+          "Hc/H3816",
+          "HC/Ncmpa"
+        ],
+        [
+          "ב/ארץ",
+          "Hb/H776",
+          "HRd/Ncbsa"
+        ],
+        [
+          "תנח/ם",
+          "H5148",
+          "HVhi2ms/Sp3mp"
+        ],
+        [
+          "סלה",
+          "H5542",
+          "HTj"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 67,
+      "verse": 5,
+      "english": "Let the people praise thee, O God; let all the people praise thee.",
+      "hebrew": [
+        [
+          "יודו/ך",
+          "H3034",
+          "HVhi3mp/Sp2ms"
+        ],
+        [
+          "עמים",
+          "H5971",
+          "HNcmpa"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "יודו/ך",
+          "H3034",
+          "HVhi3mp/Sp2ms"
+        ],
+        [
+          "עמים",
+          "H5971",
+          "HNcmpa"
+        ],
+        [
+          "כל/ם",
+          "H3605",
+          "HNcmsc/Sp3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 67,
+      "verse": 6,
+      "english": "<i>Then</i> shall the earth yield her increase; <i>and</i> God, <i>even</i> our own God, shall bless us.",
+      "hebrew": [
+        [
+          "ארץ",
+          "H776",
+          "HNcbsa"
+        ],
+        [
+          "נתנה",
+          "H5414",
+          "HVqp3fs"
+        ],
+        [
+          "יבול/ה",
+          "H2981",
+          "HNcmsc/Sp3fs"
+        ],
+        [
+          "יברכ/נו",
+          "H1288",
+          "HVpi3ms/Sp1cp"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "אלהי/נו",
+          "H430",
+          "HNcmpc/Sp1cp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 67,
+      "verse": 7,
+      "english": "God shall bless us; and all the ends of the earth shall fear him.",
+      "hebrew": [
+        [
+          "יברכ/נו",
+          "H1288",
+          "HVpi3ms/Sp1cp"
+        ],
+        [
+          "אלהים",
+          "H430",
+          "HNcmpa"
+        ],
+        [
+          "ו/ייראו",
+          "Hc/H3372",
+          "HC/Vqi3mp"
+        ],
+        [
+          "את/ו",
+          "H853",
+          "HTo/Sp3ms"
+        ],
+        [
+          "כל",
+          "H3605",
+          "HNcmsc"
+        ],
+        [
+          "אפסי",
+          "H657",
+          "HNcmpc"
+        ],
+        [
+          "ארץ",
+          "H776",
+          "HNcbsa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

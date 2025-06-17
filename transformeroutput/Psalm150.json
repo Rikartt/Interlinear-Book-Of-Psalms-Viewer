@@ -1,6 +1,238 @@
-{"chapter": 150, "verse": 1, "english": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.", "hebrew": [["הללו", "H1984", "HVpv2mp"], ["יה", "H3050", "HNp"], ["הללו", "H1984", "HVpv2mp"], ["אל", "H410", "HNcmsa"], ["ב/קדש/ו", "Hb/H6944", "HR/Ncmsc/Sp3ms"], ["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/רקיע", "Hb/H7549", "HR/Ncmsc"], ["עז/ו", "H5797", "HNcmsc/Sp3ms"]], "header": ""}
-{"chapter": 150, "verse": 2, "english": "Praise him for his mighty acts: praise him according to his excellent greatness.", "hebrew": [["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/גבורתי/ו", "Hb/H1369", "HR/Ncfpc/Sp3ms"], ["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["כ/רב", "Hk/H7230", "HR/Ncbsc"], ["גדל/ו", "H1433", "HNcmsc/Sp3ms"]], "header": ""}
-{"chapter": 150, "verse": 3, "english": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.", "hebrew": [["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/תקע", "Hb/H8629", "HR/Ncmsc"], ["שופר", "H7782", "HNcmsa"], ["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/נבל", "Hb/H5035", "HR/Ncmsa"], ["ו/כנור", "Hc/H3658", "HC/Ncmsa"]], "header": ""}
-{"chapter": 150, "verse": 4, "english": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.", "hebrew": [["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/תף", "Hb/H8596", "HR/Ncmsa"], ["ו/מחול", "Hc/H4234", "HC/Ncmsa"], ["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/מנים", "Hb/H4482", "HR/Ncmpa"], ["ו/עוגב", "Hc/H5748", "HC/Ncmsa"]], "header": ""}
-{"chapter": 150, "verse": 5, "english": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.", "hebrew": [["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/צלצלי", "Hb/H6767", "HR/Ncmpc"], ["שמע", "H8088", "HNcmsa"], ["הללו/הו", "H1984", "HVpv2mp/Sp3ms"], ["ב/צלצלי", "Hb/H6767", "HR/Ncmpc"], ["תרועה", "H8643", "HNcfsa"]], "header": ""}
-{"chapter": 150, "verse": 6, "english": "Let every thing that hath breath praise the LORD. Praise ye the LORD.", "hebrew": [["כל", "H3605", "HNcmsc"], ["ה/נשמה", "Hd/H5397", "HTd/Ncfsa"], ["תהלל", "H1984", "HVpi3fs"], ["יה", "H3050", "HNp"], ["הללו", "H1984", "HVpv2mp"], ["יה", "H3050", "HNp"]], "header": ""}
+{
+  "psalm": 150,
+  "verses": [
+    {
+      "chapter": 150,
+      "verse": 1,
+      "english": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.",
+      "hebrew": [
+        [
+          "הללו",
+          "H1984",
+          "HVpv2mp"
+        ],
+        [
+          "יה",
+          "H3050",
+          "HNp"
+        ],
+        [
+          "הללו",
+          "H1984",
+          "HVpv2mp"
+        ],
+        [
+          "אל",
+          "H410",
+          "HNcmsa"
+        ],
+        [
+          "ב/קדש/ו",
+          "Hb/H6944",
+          "HR/Ncmsc/Sp3ms"
+        ],
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/רקיע",
+          "Hb/H7549",
+          "HR/Ncmsc"
+        ],
+        [
+          "עז/ו",
+          "H5797",
+          "HNcmsc/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 150,
+      "verse": 2,
+      "english": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+      "hebrew": [
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/גבורתי/ו",
+          "Hb/H1369",
+          "HR/Ncfpc/Sp3ms"
+        ],
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "כ/רב",
+          "Hk/H7230",
+          "HR/Ncbsc"
+        ],
+        [
+          "גדל/ו",
+          "H1433",
+          "HNcmsc/Sp3ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 150,
+      "verse": 3,
+      "english": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+      "hebrew": [
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/תקע",
+          "Hb/H8629",
+          "HR/Ncmsc"
+        ],
+        [
+          "שופר",
+          "H7782",
+          "HNcmsa"
+        ],
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/נבל",
+          "Hb/H5035",
+          "HR/Ncmsa"
+        ],
+        [
+          "ו/כנור",
+          "Hc/H3658",
+          "HC/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 150,
+      "verse": 4,
+      "english": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+      "hebrew": [
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/תף",
+          "Hb/H8596",
+          "HR/Ncmsa"
+        ],
+        [
+          "ו/מחול",
+          "Hc/H4234",
+          "HC/Ncmsa"
+        ],
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/מנים",
+          "Hb/H4482",
+          "HR/Ncmpa"
+        ],
+        [
+          "ו/עוגב",
+          "Hc/H5748",
+          "HC/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 150,
+      "verse": 5,
+      "english": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+      "hebrew": [
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/צלצלי",
+          "Hb/H6767",
+          "HR/Ncmpc"
+        ],
+        [
+          "שמע",
+          "H8088",
+          "HNcmsa"
+        ],
+        [
+          "הללו/הו",
+          "H1984",
+          "HVpv2mp/Sp3ms"
+        ],
+        [
+          "ב/צלצלי",
+          "Hb/H6767",
+          "HR/Ncmpc"
+        ],
+        [
+          "תרועה",
+          "H8643",
+          "HNcfsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 150,
+      "verse": 6,
+      "english": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+      "hebrew": [
+        [
+          "כל",
+          "H3605",
+          "HNcmsc"
+        ],
+        [
+          "ה/נשמה",
+          "Hd/H5397",
+          "HTd/Ncfsa"
+        ],
+        [
+          "תהלל",
+          "H1984",
+          "HVpi3fs"
+        ],
+        [
+          "יה",
+          "H3050",
+          "HNp"
+        ],
+        [
+          "הללו",
+          "H1984",
+          "HVpv2mp"
+        ],
+        [
+          "יה",
+          "H3050",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

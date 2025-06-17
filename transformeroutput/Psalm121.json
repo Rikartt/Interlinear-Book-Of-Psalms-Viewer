@@ -1,8 +1,349 @@
-{"chapter": 121, "verse": 1, "english": "I will lift up mine eyes unto the hills, from whence cometh my help.", "hebrew": [["שיר", "H7892", "HNcbsa"], ["ל/מעלות", "Hl/H4609", "HRd/Ncfpa"], ["אשא", "H5375", "HVqi1cs"], ["עינ/י", "H5869", "HNcbdc/Sp1cs"], ["אל", "H413", "HR"], ["ה/הרים", "Hd/H2022", "HTd/Ncmpa"], ["מ/אין", "Hm/H370", "HR/Ti"], ["יבא", "H935", "HVqi3ms"], ["עזר/י", "H5828", "HNcmsc/Sp1cs"]], "header": "¶ A Song of degrees."}
-{"chapter": 121, "verse": 2, "english": "My help <i>cometh</i> from the LORD, which made heaven and earth.", "hebrew": [["עזר/י", "H5828", "HNcmsc/Sp1cs"], ["מ/עם", "Hm/H5973", "HR/R"], ["יהוה", "H3068", "HNp"], ["עשה", "H6213", "HVqrmsc"], ["שמים", "H8064", "HNcmpa"], ["ו/ארץ", "Hc/H776", "HC/Ncbsa"]], "header": ""}
-{"chapter": 121, "verse": 3, "english": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.", "hebrew": [["אל", "H408", "HTn"], ["יתן", "H5414", "HVqj3ms"], ["ל/מוט", "Hl/H4132", "HR/Vqc"], ["רגל/ך", "H7272", "HNcfsc/Sp2ms"], ["אל", "H408", "HTn"], ["ינום", "H5123", "HVqj3ms"], ["שמר/ך", "H8104", "HVqrmsc/Sp2ms"]], "header": ""}
-{"chapter": 121, "verse": 4, "english": "Behold, he that keepeth Israel shall neither slumber nor sleep.", "hebrew": [["הנה", "H2009", "HTm"], ["לא", "H3808", "HTn"], ["ינום", "H5123", "HVqi3ms"], ["ו/לא", "Hc/H3808", "HC/Tn"], ["יישן", "H3462", "HVqi3ms"], ["שומר", "H8104", "HVqrmsc"], ["ישראל", "H3478", "HNp"]], "header": ""}
-{"chapter": 121, "verse": 5, "english": "The LORD <i>is</i> thy keeper: the LORD <i>is</i> thy shade upon thy right hand.", "hebrew": [["יהוה", "H3068", "HNp"], ["שמר/ך", "H8104", "HVqrmsc/Sp2ms"], ["יהוה", "H3068", "HNp"], ["צל/ך", "H6738", "HNcmsc/Sp2ms"], ["על", "H5921", "HR"], ["יד", "H3027", "HNcbsc"], ["ימינ/ך", "H3225", "HNcfsc/Sp2ms"]], "header": ""}
-{"chapter": 121, "verse": 6, "english": "The sun shall not smite thee by day, nor the moon by night.", "hebrew": [["יומם", "H3119", "HD"], ["ה/שמש", "Hd/H8121", "HTd/Ncbsa"], ["לא", "H3808", "HTn"], ["יכ/כה", "H5221", "HVhi3ms/Sp2ms"], ["ו/ירח", "Hc/H3394", "HC/Ncmsa"], ["ב/לילה", "Hb/H3915", "HRd/Ncmsa"]], "header": ""}
-{"chapter": 121, "verse": 7, "english": "The LORD shall preserve thee from all evil: he shall preserve thy soul.", "hebrew": [["יהוה", "H3068", "HNp"], ["ישמר/ך", "H8104", "HVqi3ms/Sp2ms"], ["מ/כל", "Hm/H3605", "HR/Ncmsc"], ["רע", "H7451", "HAamsa"], ["ישמר", "H8104", "HVqi3ms"], ["את", "H853", "HTo"], ["נפש/ך", "H5315", "HNcbsc/Sp2ms"]], "header": ""}
-{"chapter": 121, "verse": 8, "english": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.", "hebrew": [["יהוה", "H3068", "HNp"], ["ישמר", "H8104", "HVqi3ms"], ["צאת/ך", "H3318", "HVqc/Sp2ms"], ["ו/בוא/ך", "Hc/H935", "HC/Vqc/Sp2ms"], ["מ/עתה", "Hm/H6258", "HR/D"], ["ו/עד", "Hc/H5704", "HC/R"], ["עולם", "H5769", "HNcmsa"]], "header": ""}
+{
+  "psalm": 121,
+  "verses": [
+    {
+      "chapter": 121,
+      "verse": 1,
+      "english": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+      "hebrew": [
+        [
+          "שיר",
+          "H7892",
+          "HNcbsa"
+        ],
+        [
+          "ל/מעלות",
+          "Hl/H4609",
+          "HRd/Ncfpa"
+        ],
+        [
+          "אשא",
+          "H5375",
+          "HVqi1cs"
+        ],
+        [
+          "עינ/י",
+          "H5869",
+          "HNcbdc/Sp1cs"
+        ],
+        [
+          "אל",
+          "H413",
+          "HR"
+        ],
+        [
+          "ה/הרים",
+          "Hd/H2022",
+          "HTd/Ncmpa"
+        ],
+        [
+          "מ/אין",
+          "Hm/H370",
+          "HR/Ti"
+        ],
+        [
+          "יבא",
+          "H935",
+          "HVqi3ms"
+        ],
+        [
+          "עזר/י",
+          "H5828",
+          "HNcmsc/Sp1cs"
+        ]
+      ],
+      "header": "¶ A Song of degrees."
+    },
+    {
+      "chapter": 121,
+      "verse": 2,
+      "english": "My help <i>cometh</i> from the LORD, which made heaven and earth.",
+      "hebrew": [
+        [
+          "עזר/י",
+          "H5828",
+          "HNcmsc/Sp1cs"
+        ],
+        [
+          "מ/עם",
+          "Hm/H5973",
+          "HR/R"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "עשה",
+          "H6213",
+          "HVqrmsc"
+        ],
+        [
+          "שמים",
+          "H8064",
+          "HNcmpa"
+        ],
+        [
+          "ו/ארץ",
+          "Hc/H776",
+          "HC/Ncbsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 121,
+      "verse": 3,
+      "english": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+      "hebrew": [
+        [
+          "אל",
+          "H408",
+          "HTn"
+        ],
+        [
+          "יתן",
+          "H5414",
+          "HVqj3ms"
+        ],
+        [
+          "ל/מוט",
+          "Hl/H4132",
+          "HR/Vqc"
+        ],
+        [
+          "רגל/ך",
+          "H7272",
+          "HNcfsc/Sp2ms"
+        ],
+        [
+          "אל",
+          "H408",
+          "HTn"
+        ],
+        [
+          "ינום",
+          "H5123",
+          "HVqj3ms"
+        ],
+        [
+          "שמר/ך",
+          "H8104",
+          "HVqrmsc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 121,
+      "verse": 4,
+      "english": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+      "hebrew": [
+        [
+          "הנה",
+          "H2009",
+          "HTm"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "ינום",
+          "H5123",
+          "HVqi3ms"
+        ],
+        [
+          "ו/לא",
+          "Hc/H3808",
+          "HC/Tn"
+        ],
+        [
+          "יישן",
+          "H3462",
+          "HVqi3ms"
+        ],
+        [
+          "שומר",
+          "H8104",
+          "HVqrmsc"
+        ],
+        [
+          "ישראל",
+          "H3478",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 121,
+      "verse": 5,
+      "english": "The LORD <i>is</i> thy keeper: the LORD <i>is</i> thy shade upon thy right hand.",
+      "hebrew": [
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "שמר/ך",
+          "H8104",
+          "HVqrmsc/Sp2ms"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "צל/ך",
+          "H6738",
+          "HNcmsc/Sp2ms"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "יד",
+          "H3027",
+          "HNcbsc"
+        ],
+        [
+          "ימינ/ך",
+          "H3225",
+          "HNcfsc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 121,
+      "verse": 6,
+      "english": "The sun shall not smite thee by day, nor the moon by night.",
+      "hebrew": [
+        [
+          "יומם",
+          "H3119",
+          "HD"
+        ],
+        [
+          "ה/שמש",
+          "Hd/H8121",
+          "HTd/Ncbsa"
+        ],
+        [
+          "לא",
+          "H3808",
+          "HTn"
+        ],
+        [
+          "יכ/כה",
+          "H5221",
+          "HVhi3ms/Sp2ms"
+        ],
+        [
+          "ו/ירח",
+          "Hc/H3394",
+          "HC/Ncmsa"
+        ],
+        [
+          "ב/לילה",
+          "Hb/H3915",
+          "HRd/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 121,
+      "verse": 7,
+      "english": "The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+      "hebrew": [
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ישמר/ך",
+          "H8104",
+          "HVqi3ms/Sp2ms"
+        ],
+        [
+          "מ/כל",
+          "Hm/H3605",
+          "HR/Ncmsc"
+        ],
+        [
+          "רע",
+          "H7451",
+          "HAamsa"
+        ],
+        [
+          "ישמר",
+          "H8104",
+          "HVqi3ms"
+        ],
+        [
+          "את",
+          "H853",
+          "HTo"
+        ],
+        [
+          "נפש/ך",
+          "H5315",
+          "HNcbsc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 121,
+      "verse": 8,
+      "english": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+      "hebrew": [
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ישמר",
+          "H8104",
+          "HVqi3ms"
+        ],
+        [
+          "צאת/ך",
+          "H3318",
+          "HVqc/Sp2ms"
+        ],
+        [
+          "ו/בוא/ך",
+          "Hc/H935",
+          "HC/Vqc/Sp2ms"
+        ],
+        [
+          "מ/עתה",
+          "Hm/H6258",
+          "HR/D"
+        ],
+        [
+          "ו/עד",
+          "Hc/H5704",
+          "HC/R"
+        ],
+        [
+          "עולם",
+          "H5769",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

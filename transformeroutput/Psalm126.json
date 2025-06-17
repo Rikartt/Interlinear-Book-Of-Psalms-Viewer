@@ -1,6 +1,308 @@
-{"chapter": 126, "verse": 1, "english": "When the LORD turned again the captivity of Zion, we were like them that dream.", "hebrew": [["שיר", "H7892", "HNcbsc"], ["ה/מעלות", "Hd/H4609", "HTd/Ncfpa"], ["ב/שוב", "Hb/H7725", "HR/Vqc"], ["יהוה", "H3068", "HNp"], ["את", "H853", "HTo"], ["שיבת", "H7870", "HNcfsc"], ["ציון", "H6726", "HNp"], ["היינו", "H1961", "HVqp1cp"], ["כ/חלמים", "Hk/H2492", "HR/Vqrmpa"]], "header": "¶ A Song of degrees."}
-{"chapter": 126, "verse": 2, "english": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.", "hebrew": [["אז", "H227", "HD"], ["ימלא", "H4390", "HVNi3ms"], ["שחוק", "H7814", "HNcmsa"], ["פי/נו", "H6310", "HNcmsc/Sp1cp"], ["ו/לשונ/נו", "Hc/H3956", "HC/Ncbsc/Sp1cp"], ["רנה", "H7440", "HNcfsa"], ["אז", "H227", "HD"], ["יאמרו", "H559", "HVqi3mp"], ["ב/גוים", "Hb/H1471", "HRd/Ncmpa"], ["הגדיל", "H1431", "HVhp3ms"], ["יהוה", "H3068", "HNp"], ["ל/עשות", "Hl/H6213", "HR/Vqc"], ["עם", "H5973", "HR"], ["אלה", "H428", "HPdxcp"]], "header": ""}
-{"chapter": 126, "verse": 3, "english": "The LORD hath done great things for us; <i>whereof</i> we are glad.", "hebrew": [["הגדיל", "H1431", "HVhp3ms"], ["יהוה", "H3068", "HNp"], ["ל/עשות", "Hl/H6213", "HR/Vqc"], ["עמ/נו", "H5973", "HR/Sp1cp"], ["היינו", "H1961", "HVqp1cp"], ["שמחים", "H8056", "HAampa"]], "header": ""}
-{"chapter": 126, "verse": 4, "english": "Turn again our captivity, O LORD, as the streams in the south.", "hebrew": [["שוב/ה", "H7725", "HVqv2ms/Sh"], ["יהוה", "H3068", "HNp"], ["את", "H853", "HTo"], ["שבות/נו", "H7622", "HNcfsc/Sp1cp"], ["שבית/נו", "H7622", "HNcfsc/Sp1cp"], ["כ/אפיקים", "Hk/H650", "HR/Ncmpa"], ["ב/נגב", "Hb/H5045", "HRd/Ncmsa"]], "header": ""}
-{"chapter": 126, "verse": 5, "english": "They that sow in tears shall reap in joy.", "hebrew": [["ה/זרעים", "Hd/H2232", "HTd/Vqrmpa"], ["ב/דמעה", "Hb/H1832", "HR/Ncfsa"], ["ב/רנה", "Hb/H7440", "HR/Ncfsa"], ["יקצרו", "H7114", "HVqi3mp"]], "header": ""}
-{"chapter": 126, "verse": 6, "english": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves <i>with him.</i>", "hebrew": [["הלוך", "H1980", "HVqa"], ["ילך", "H3212", "HVqi3ms"], ["ו/בכה", "Hc/H1058", "HC/Vqa"], ["נשא", "H5375", "HVqrmsa"], ["משך", "H4901", "HNcmsc"], ["ה/זרע", "Hd/H2233", "HTd/Ncmsa"], ["בא", "H935", "HVqa"], ["יבוא", "H935", "HVqi3ms"], ["ב/רנה", "Hb/H7440", "HR/Ncfsa"], ["נשא", "H5375", "HVqrmsa"], ["אלמתי/ו", "H485", "HNcfpc/Sp3ms"]], "header": ""}
+{
+  "psalm": 126,
+  "verses": [
+    {
+      "chapter": 126,
+      "verse": 1,
+      "english": "When the LORD turned again the captivity of Zion, we were like them that dream.",
+      "hebrew": [
+        [
+          "שיר",
+          "H7892",
+          "HNcbsc"
+        ],
+        [
+          "ה/מעלות",
+          "Hd/H4609",
+          "HTd/Ncfpa"
+        ],
+        [
+          "ב/שוב",
+          "Hb/H7725",
+          "HR/Vqc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "את",
+          "H853",
+          "HTo"
+        ],
+        [
+          "שיבת",
+          "H7870",
+          "HNcfsc"
+        ],
+        [
+          "ציון",
+          "H6726",
+          "HNp"
+        ],
+        [
+          "היינו",
+          "H1961",
+          "HVqp1cp"
+        ],
+        [
+          "כ/חלמים",
+          "Hk/H2492",
+          "HR/Vqrmpa"
+        ]
+      ],
+      "header": "¶ A Song of degrees."
+    },
+    {
+      "chapter": 126,
+      "verse": 2,
+      "english": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.",
+      "hebrew": [
+        [
+          "אז",
+          "H227",
+          "HD"
+        ],
+        [
+          "ימלא",
+          "H4390",
+          "HVNi3ms"
+        ],
+        [
+          "שחוק",
+          "H7814",
+          "HNcmsa"
+        ],
+        [
+          "פי/נו",
+          "H6310",
+          "HNcmsc/Sp1cp"
+        ],
+        [
+          "ו/לשונ/נו",
+          "Hc/H3956",
+          "HC/Ncbsc/Sp1cp"
+        ],
+        [
+          "רנה",
+          "H7440",
+          "HNcfsa"
+        ],
+        [
+          "אז",
+          "H227",
+          "HD"
+        ],
+        [
+          "יאמרו",
+          "H559",
+          "HVqi3mp"
+        ],
+        [
+          "ב/גוים",
+          "Hb/H1471",
+          "HRd/Ncmpa"
+        ],
+        [
+          "הגדיל",
+          "H1431",
+          "HVhp3ms"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ל/עשות",
+          "Hl/H6213",
+          "HR/Vqc"
+        ],
+        [
+          "עם",
+          "H5973",
+          "HR"
+        ],
+        [
+          "אלה",
+          "H428",
+          "HPdxcp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 126,
+      "verse": 3,
+      "english": "The LORD hath done great things for us; <i>whereof</i> we are glad.",
+      "hebrew": [
+        [
+          "הגדיל",
+          "H1431",
+          "HVhp3ms"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ל/עשות",
+          "Hl/H6213",
+          "HR/Vqc"
+        ],
+        [
+          "עמ/נו",
+          "H5973",
+          "HR/Sp1cp"
+        ],
+        [
+          "היינו",
+          "H1961",
+          "HVqp1cp"
+        ],
+        [
+          "שמחים",
+          "H8056",
+          "HAampa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 126,
+      "verse": 4,
+      "english": "Turn again our captivity, O LORD, as the streams in the south.",
+      "hebrew": [
+        [
+          "שוב/ה",
+          "H7725",
+          "HVqv2ms/Sh"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "את",
+          "H853",
+          "HTo"
+        ],
+        [
+          "שבות/נו",
+          "H7622",
+          "HNcfsc/Sp1cp"
+        ],
+        [
+          "שבית/נו",
+          "H7622",
+          "HNcfsc/Sp1cp"
+        ],
+        [
+          "כ/אפיקים",
+          "Hk/H650",
+          "HR/Ncmpa"
+        ],
+        [
+          "ב/נגב",
+          "Hb/H5045",
+          "HRd/Ncmsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 126,
+      "verse": 5,
+      "english": "They that sow in tears shall reap in joy.",
+      "hebrew": [
+        [
+          "ה/זרעים",
+          "Hd/H2232",
+          "HTd/Vqrmpa"
+        ],
+        [
+          "ב/דמעה",
+          "Hb/H1832",
+          "HR/Ncfsa"
+        ],
+        [
+          "ב/רנה",
+          "Hb/H7440",
+          "HR/Ncfsa"
+        ],
+        [
+          "יקצרו",
+          "H7114",
+          "HVqi3mp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 126,
+      "verse": 6,
+      "english": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves <i>with him.</i>",
+      "hebrew": [
+        [
+          "הלוך",
+          "H1980",
+          "HVqa"
+        ],
+        [
+          "ילך",
+          "H3212",
+          "HVqi3ms"
+        ],
+        [
+          "ו/בכה",
+          "Hc/H1058",
+          "HC/Vqa"
+        ],
+        [
+          "נשא",
+          "H5375",
+          "HVqrmsa"
+        ],
+        [
+          "משך",
+          "H4901",
+          "HNcmsc"
+        ],
+        [
+          "ה/זרע",
+          "Hd/H2233",
+          "HTd/Ncmsa"
+        ],
+        [
+          "בא",
+          "H935",
+          "HVqa"
+        ],
+        [
+          "יבוא",
+          "H935",
+          "HVqi3ms"
+        ],
+        [
+          "ב/רנה",
+          "Hb/H7440",
+          "HR/Ncfsa"
+        ],
+        [
+          "נשא",
+          "H5375",
+          "HVqrmsa"
+        ],
+        [
+          "אלמתי/ו",
+          "H485",
+          "HNcfpc/Sp3ms"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}

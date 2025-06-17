@@ -1,7 +1,386 @@
-{"chapter": 110, "verse": 1, "english": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.", "hebrew": [["ל/דוד", "Hl/H1732", "HR/Np"], ["מזמור", "H4210", "HNcmsa"], ["נאם", "H5002", "HNcmsc"], ["יהוה", "H3068", "HNp"], ["ל/אדנ/י", "Hl/H113", "HR/Ncmsc/Sp1cs"], ["שב", "H3427", "HVqv2ms"], ["ל/ימינ/י", "Hl/H3225", "HR/Ncfsc/Sp1cs"], ["עד", "H5704", "HR"], ["אשית", "H7896", "HVqi1cs"], ["איבי/ך", "H341", "HVqrmpc/Sp2ms"], ["הדם", "H1916", "HNcmsa"], ["ל/רגלי/ך", "Hl/H7272", "HR/Ncfdc/Sp2ms"]], "header": "¶ A Psalm of David."}
-{"chapter": 110, "verse": 2, "english": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.", "hebrew": [["מטה", "H4294", "HNcmsc"], ["עז/ך", "H5797", "HNcmsc/Sp2ms"], ["ישלח", "H7971", "HVqi3ms"], ["יהוה", "H3068", "HNp"], ["מ/ציון", "Hm/H6726", "HR/Np"], ["רדה", "H7287", "HVqv2ms"], ["ב/קרב", "Hb/H7130", "HR/Ncmsc"], ["איבי/ך", "H341", "HVqrmpc/Sp2ms"]], "header": ""}
-{"chapter": 110, "verse": 3, "english": "Thy people <i>shall be</i> willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.", "hebrew": [["עמ/ך", "H5971", "HNcmsc/Sp2ms"], ["נדבת", "H5071", "HNcfpa"], ["ב/יום", "Hb/H3117", "HR/Ncmsc"], ["חיל/ך", "H2428", "HNcmsc/Sp2ms"], ["ב/הדרי", "Hb/H1926", "HR/Ncmpc"], ["קדש", "H6944", "HNcmsa"], ["מ/רחם", "Hm/H7358", "HR/Ncmsc"], ["משחר", "H4891", "HNcmsa"], ["ל/ך", "Hl", "HR/Sp2ms"], ["טל", "H2919", "HNcmsc"], ["ילדתי/ך", "H3208", "HNcfpc/Sp2ms"]], "header": ""}
-{"chapter": 110, "verse": 4, "english": "The LORD hath sworn, and will not repent, Thou <i>art</i> a priest for ever after the order of Melchizedek.", "hebrew": [["נשבע", "H7650", "HVNp3ms"], ["יהוה", "H3068", "HNp"], ["ו/לא", "Hc/H3808", "HC/Tn"], ["ינחם", "H5162", "HVNi3ms"], ["אתה", "H859", "HPp2ms"], ["כהן", "H3548", "HNcmsa"], ["ל/עולם", "Hl/H5769", "HR/Ncmsa"], ["על", "H5921", "HR"], ["דברתי", "H1700", "HNcfsc"], ["מלכי", "H4442", "HNp"], ["צדק", "H4442", "HNp"]], "header": ""}
-{"chapter": 110, "verse": 5, "english": "The Lord at thy right hand shall strike through kings in the day of his wrath.", "hebrew": [["אדנ/י", "H136", "HNcmpc/Sp1cs"], ["על", "H5921", "HR"], ["ימינ/ך", "H3225", "HNcfsc/Sp2ms"], ["מחץ", "H4272", "HVqp3ms"], ["ב/יום", "Hb/H3117", "HR/Ncmsc"], ["אפ/ו", "H639", "HNcmsc/Sp3ms"], ["מלכים", "H4428", "HNcmpa"]], "header": ""}
-{"chapter": 110, "verse": 6, "english": "He shall judge among the heathen, he shall fill <i>the places</i> with the dead bodies; he shall wound the heads over many countries.", "hebrew": [["ידין", "H1777", "HVqi3ms"], ["ב/גוים", "Hb/H1471", "HRd/Ncmpa"], ["מלא", "H4390", "HVqp3ms"], ["גויות", "H1472", "HNcfpa"], ["מחץ", "H4272", "HVqp3ms"], ["ראש", "H7218", "HNcmsa"], ["על", "H5921", "HR"], ["ארץ", "H776", "HNcbsa"], ["רבה", "H7227", "HAafsa"]], "header": ""}
-{"chapter": 110, "verse": 7, "english": "He shall drink of the brook in the way: therefore shall he lift up the head.", "hebrew": [["מ/נחל", "Hm/H5158", "HR/Ncmsa"], ["ב/דרך", "Hb/H1870", "HRd/Ncbsa"], ["ישתה", "H8354", "HVqi3ms"], ["על", "H5921", "HR"], ["כן", "H3651", "HTm"], ["ירים", "H7311", "HVhi3ms"], ["ראש", "H7218", "HNcmsa"]], "header": ""}
+{
+  "psalm": 110,
+  "verses": [
+    {
+      "chapter": 110,
+      "verse": 1,
+      "english": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+      "hebrew": [
+        [
+          "ל/דוד",
+          "Hl/H1732",
+          "HR/Np"
+        ],
+        [
+          "מזמור",
+          "H4210",
+          "HNcmsa"
+        ],
+        [
+          "נאם",
+          "H5002",
+          "HNcmsc"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ל/אדנ/י",
+          "Hl/H113",
+          "HR/Ncmsc/Sp1cs"
+        ],
+        [
+          "שב",
+          "H3427",
+          "HVqv2ms"
+        ],
+        [
+          "ל/ימינ/י",
+          "Hl/H3225",
+          "HR/Ncfsc/Sp1cs"
+        ],
+        [
+          "עד",
+          "H5704",
+          "HR"
+        ],
+        [
+          "אשית",
+          "H7896",
+          "HVqi1cs"
+        ],
+        [
+          "איבי/ך",
+          "H341",
+          "HVqrmpc/Sp2ms"
+        ],
+        [
+          "הדם",
+          "H1916",
+          "HNcmsa"
+        ],
+        [
+          "ל/רגלי/ך",
+          "Hl/H7272",
+          "HR/Ncfdc/Sp2ms"
+        ]
+      ],
+      "header": "¶ A Psalm of David."
+    },
+    {
+      "chapter": 110,
+      "verse": 2,
+      "english": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+      "hebrew": [
+        [
+          "מטה",
+          "H4294",
+          "HNcmsc"
+        ],
+        [
+          "עז/ך",
+          "H5797",
+          "HNcmsc/Sp2ms"
+        ],
+        [
+          "ישלח",
+          "H7971",
+          "HVqi3ms"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "מ/ציון",
+          "Hm/H6726",
+          "HR/Np"
+        ],
+        [
+          "רדה",
+          "H7287",
+          "HVqv2ms"
+        ],
+        [
+          "ב/קרב",
+          "Hb/H7130",
+          "HR/Ncmsc"
+        ],
+        [
+          "איבי/ך",
+          "H341",
+          "HVqrmpc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 110,
+      "verse": 3,
+      "english": "Thy people <i>shall be</i> willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+      "hebrew": [
+        [
+          "עמ/ך",
+          "H5971",
+          "HNcmsc/Sp2ms"
+        ],
+        [
+          "נדבת",
+          "H5071",
+          "HNcfpa"
+        ],
+        [
+          "ב/יום",
+          "Hb/H3117",
+          "HR/Ncmsc"
+        ],
+        [
+          "חיל/ך",
+          "H2428",
+          "HNcmsc/Sp2ms"
+        ],
+        [
+          "ב/הדרי",
+          "Hb/H1926",
+          "HR/Ncmpc"
+        ],
+        [
+          "קדש",
+          "H6944",
+          "HNcmsa"
+        ],
+        [
+          "מ/רחם",
+          "Hm/H7358",
+          "HR/Ncmsc"
+        ],
+        [
+          "משחר",
+          "H4891",
+          "HNcmsa"
+        ],
+        [
+          "ל/ך",
+          "Hl",
+          "HR/Sp2ms"
+        ],
+        [
+          "טל",
+          "H2919",
+          "HNcmsc"
+        ],
+        [
+          "ילדתי/ך",
+          "H3208",
+          "HNcfpc/Sp2ms"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 110,
+      "verse": 4,
+      "english": "The LORD hath sworn, and will not repent, Thou <i>art</i> a priest for ever after the order of Melchizedek.",
+      "hebrew": [
+        [
+          "נשבע",
+          "H7650",
+          "HVNp3ms"
+        ],
+        [
+          "יהוה",
+          "H3068",
+          "HNp"
+        ],
+        [
+          "ו/לא",
+          "Hc/H3808",
+          "HC/Tn"
+        ],
+        [
+          "ינחם",
+          "H5162",
+          "HVNi3ms"
+        ],
+        [
+          "אתה",
+          "H859",
+          "HPp2ms"
+        ],
+        [
+          "כהן",
+          "H3548",
+          "HNcmsa"
+        ],
+        [
+          "ל/עולם",
+          "Hl/H5769",
+          "HR/Ncmsa"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "דברתי",
+          "H1700",
+          "HNcfsc"
+        ],
+        [
+          "מלכי",
+          "H4442",
+          "HNp"
+        ],
+        [
+          "צדק",
+          "H4442",
+          "HNp"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 110,
+      "verse": 5,
+      "english": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+      "hebrew": [
+        [
+          "אדנ/י",
+          "H136",
+          "HNcmpc/Sp1cs"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "ימינ/ך",
+          "H3225",
+          "HNcfsc/Sp2ms"
+        ],
+        [
+          "מחץ",
+          "H4272",
+          "HVqp3ms"
+        ],
+        [
+          "ב/יום",
+          "Hb/H3117",
+          "HR/Ncmsc"
+        ],
+        [
+          "אפ/ו",
+          "H639",
+          "HNcmsc/Sp3ms"
+        ],
+        [
+          "מלכים",
+          "H4428",
+          "HNcmpa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 110,
+      "verse": 6,
+      "english": "He shall judge among the heathen, he shall fill <i>the places</i> with the dead bodies; he shall wound the heads over many countries.",
+      "hebrew": [
+        [
+          "ידין",
+          "H1777",
+          "HVqi3ms"
+        ],
+        [
+          "ב/גוים",
+          "Hb/H1471",
+          "HRd/Ncmpa"
+        ],
+        [
+          "מלא",
+          "H4390",
+          "HVqp3ms"
+        ],
+        [
+          "גויות",
+          "H1472",
+          "HNcfpa"
+        ],
+        [
+          "מחץ",
+          "H4272",
+          "HVqp3ms"
+        ],
+        [
+          "ראש",
+          "H7218",
+          "HNcmsa"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "ארץ",
+          "H776",
+          "HNcbsa"
+        ],
+        [
+          "רבה",
+          "H7227",
+          "HAafsa"
+        ]
+      ],
+      "header": ""
+    },
+    {
+      "chapter": 110,
+      "verse": 7,
+      "english": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+      "hebrew": [
+        [
+          "מ/נחל",
+          "Hm/H5158",
+          "HR/Ncmsa"
+        ],
+        [
+          "ב/דרך",
+          "Hb/H1870",
+          "HRd/Ncbsa"
+        ],
+        [
+          "ישתה",
+          "H8354",
+          "HVqi3ms"
+        ],
+        [
+          "על",
+          "H5921",
+          "HR"
+        ],
+        [
+          "כן",
+          "H3651",
+          "HTm"
+        ],
+        [
+          "ירים",
+          "H7311",
+          "HVhi3ms"
+        ],
+        [
+          "ראש",
+          "H7218",
+          "HNcmsa"
+        ]
+      ],
+      "header": ""
+    }
+  ]
+}
