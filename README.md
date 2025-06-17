@@ -94,6 +94,8 @@ Website/psalms-interlinear/public/data/psalms/
 
 ## 📈 Roadmap
 
+- [ ] Add nikkud to the UI
+- [ ] Improve user-friendliness of UI
 - [ ] Add verse audio support
 - [ ] Add search by Strong’s number or lemma
 - [ ] Expand beyond Psalms to full Tanakh
@@ -104,7 +106,14 @@ Website/psalms-interlinear/public/data/psalms/
 
 ## 🪪 License
 
-MIT — feel free to fork, remix, or use for your own Biblical study tools.
+This project is **not open source**.
+
+All code, data, and content in this repository are © [Your Name or Alias] and may not be used, copied, modified, or distributed without explicit written permission.
+
+Personal and educational viewing of this repository is allowed.  
+Commercial use, redistribution, or public deployment is **strictly prohibited** without a license.
+
+If you're interested in using this project commercially or contributing to a licensed version, contact me directly.
 
 ---
 
