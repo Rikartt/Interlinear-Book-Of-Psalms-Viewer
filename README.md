@@ -94,7 +94,9 @@ Website/psalms-interlinear/public/data/psalms/
 
 ## 📈 Roadmap
 
-- [ ] Add nikkud to the UI
+- [X] Add nikkud to the UI
+- [X] Add hover info for prefixes like ה , ו, ב , that is , "the", "and", and "in/by/with"
+- [ ] Add nikkud support for prefixes like the aforementioned
 - [ ] Add scaling for smaller displays
 - [ ] Improve user-friendliness of UI
 - [ ] Add mobile support

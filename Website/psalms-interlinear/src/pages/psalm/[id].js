@@ -1,9 +1,47 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 // src/pages/something.js
+const PREFIX_INFO = {
+  Hb: {
+    gloss: "in / by / with",
+    xlit: "b",
+    strongs_def: "Preposition: in, by, with (inseparable prefix)",
+    lemma: "ב",
+    morph: "Preposition"
+  },
+  Hc: {
+    gloss: "and",
+    xlit: "v",
+    strongs_def: "Conjunction: and (inseparable prefix)",
+    lemma: "ו",
+    morph: "Conjunction"
+  },
+  Hd: {
+    gloss: "the",
+    xlit: "ha",
+    strongs_def: "Definite article: the (inseparable prefix)",
+    lemma: "ה",
+    morph: "Article"
+  },
+  Hk: {
+    gloss: "like / as",
+    xlit: "k",
+    strongs_def: "Comparative prefix: like, as (inseparable prefix)",
+    lemma: "כ",
+    morph: "Preposition (Comparative)"
+  },
+  Hl: {
+    gloss: "to / for",
+    xlit: "l",
+    strongs_def: "Preposition: to, for (inseparable prefix)",
+    lemma: "ל",
+    morph: "Preposition"
+  }
+};
+
 function addNikkud(wordObj) {
   return wordObj.word.map((w, idx) => {
-    if (wordObj.lemma[idx] == null) return w;
+    if (wordObj.lemma[idx] == null) return wordObj.word[idx];
     return wordObj.lemma[idx]; 
   });
 }
@@ -39,7 +77,7 @@ function decodeMorph(tag) {
   };
   
   if (tag == null ) return "Unknown";
-  if (!tag.startsWith("H")) return;
+  if (!tag.startsWith("H")) return null;
 
   const code = tag.slice(1); // remove H
   const [type, ...rest] = code;
@@ -54,6 +92,26 @@ function decodeMorph(tag) {
 
   return desc.filter(Boolean).join(", ");
 }
+function decodeInfo(wordObj, idx, infoField) {
+  const strongCode = wordObj.strong?.[idx] ?? null;
+
+  // 1. Try to get the requested field directly
+  const fieldArray = wordObj[infoField];
+  if (Array.isArray(fieldArray) && fieldArray[idx] != null) {
+    return fieldArray[idx];
+  }
+
+  // 2. If strong code is a known prefix, return its specific infoField
+  if (strongCode && PREFIX_INFO.hasOwnProperty(strongCode)) {
+    const prefixEntry = PREFIX_INFO[strongCode];
+    return prefixEntry?.[infoField] ?? null;
+  }
+
+  // 3. Fallback
+  return null;
+}
+
+
 
 export default function PsalmPage() {
   const router = useRouter()
@@ -75,18 +133,16 @@ export default function PsalmPage() {
           <div className="text-right font-hebrew"> 
             {v.hebrew.map((wordObj, i) => (
               <span key={i} className="group relative mx-1 hover:underline cursor-help">
-                {addNikkud(wordObj).join("")}
-                <span className="absolute top-full mb-1 hidden group-hover:block bg-white text-black text-xs px-3 py-2 rounded shadow-lg z-10 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
+                {wordObj.word.join("")}
+                <span className="absolute top-full mb-1 hidden group-hover:block bg-white text-black text-xs px-6 py-2 rounded shadow-lg z-10 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
                   {wordObj.word.map((w, idx) => (
                     <div key={idx} className="text wrap">
-                      <b>{addNikkud(wordObj)}</b> —
-                        <div>• {wordObj.strong[idx]}</div>
-                        <div>• {decodeMorph(wordObj.morph[idx])}</div>
-                        <div>• {wordObj.xlit[idx]}</div>
-                        <div>• {wordObj.pron[idx]}</div>
-                        <div>• {wordObj.derivation[idx]}</div>
-                        <div>• {wordObj.strongs_def[idx]}</div>
-                        <div>• {wordObj.gloss[idx]}</div>
+                      <b>{addNikkud(wordObj)[idx]}</b> :
+                        {['strong', 'morph', 'xlit', 'pron', 'derivation', 'strongs_def', 'gloss'].map(field =>
+                          decodeInfo(wordObj, idx, field) !== null && (
+                            <div key={field}>• {decodeInfo(wordObj, idx, field)}</div>
+                          )
+                        )}
                     </div>
                   ))}
                 </span>
