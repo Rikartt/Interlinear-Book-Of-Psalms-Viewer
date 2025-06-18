@@ -203,13 +203,13 @@ export default function PsalmPage() {
     <div className="p-20">
       <h1 className="text-2xl font-bold mb-4">Psalms {psalm.psalm}</h1>
       {psalm.verses.map((v) => (
-        <div key={v.verse} className="grid grid-cols-2 gap-4 mb-4">
-          <div className="text-left font-serif">{v.english}</div> 
-          <div className="text-right font-hebrew"> 
+        <div key={v.verse} className="flex flex-col lg:flex-row md:justify-between mb-4">
+          <div className="text-left font-serif" dangerouslySetInnerHTML={{ __html: v.english }}></div> 
+          <div className="text-right font-hebrew text-lg break-words whitespace-pre-wrap leading-relaxed" dir="rtl"> 
             {v.hebrew.map((wordObj, i) => (
               <span key={i} className="group relative mx-1 hover:underline cursor-help hover:bg-white hover:text-black transition-colors duration-500">
                 {wordObj.word.join("")}
-                <span className="absolute top-full mb-1 hidden group-hover:block bg-white text-black text-xs px-6 py-2 rounded shadow-lg z-10 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
+                <span className="absolute top-full mb-1 hidden group-hover:block bg-white text-black text-xs px-6 py-2 rounded shadow-lg z-10 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug transition-colors duration-500">
                   {wordObj.word.map((w, idx) => (
                     <div key={idx} className="text wrap">
                       <b>{addNikkud(wordObj)[idx]}</b> :
