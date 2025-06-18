@@ -101,9 +101,11 @@ Website/psalms-interlinear/public/data/psalms/
 - [X] Add scaling for smaller displays
 - [ ] Add next/previous psalm button
 - [ ] Add mobile support for the tooltips
+- [ ] Expand beyond Psalms to full Tanakh
+- [ ] Add German language support (using the same source as the KJV)
+- [ ] Add Spanish language support
 - [ ] Add verse audio support
 - [ ] Add search by Strong’s number or lemma
-- [ ] Expand beyond Psalms to full Tanakh
 - [ ] Integrate grammatical parsing (mood, stem, etc.)
 - [ ] Add verse bookmarking and linking
 
