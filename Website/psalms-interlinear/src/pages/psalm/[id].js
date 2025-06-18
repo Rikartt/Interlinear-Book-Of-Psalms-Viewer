@@ -38,6 +38,52 @@ const PREFIX_INFO = {
     morph: "Preposition"
   }
 };
+const SUFFIX_INFO = {
+  Sp1cs: {
+    gloss: "my",
+    desc: "Suffix: 1st person, Common, Singular"
+  },
+  Sp2ms: {
+    gloss: "your (m. sg.)",
+    desc: "Suffix: 2nd person, Masculine, Singular"
+  },
+  Sp2fs: {
+    gloss: "your (f. sg.)",
+    desc: "Suffix: 2nd person, Feminine, Singular"
+  },
+  Sp3ms: {
+    gloss: "his",
+    desc: "Suffix: 3rd person, Masculine, Singular"
+  },
+  Sp3fs: {
+    gloss: "her",
+    desc: "Suffix: 3rd person, Feminine, Singular"
+  },
+  Sp1cp: {
+    gloss: "our",
+    desc: "Suffix: 1st person, Common, Plural"
+  },
+  Sp2mp: {
+    gloss: "your (m. pl.)",
+    desc: "Suffix: 2nd person, Masculine, Plural"
+  },
+  Sp2fp: {
+    gloss: "your (f. pl.)",
+    desc: "Suffix: 2nd person, Feminine, Plural"
+  },
+  Sp3mp: {
+    gloss: "their (m.)",
+    desc: "Suffix: 3rd person, Masculine, Plural"
+  },
+  Sp3fp: {
+    gloss: "their (f.)",
+    desc: "Suffix: 3rd person, Feminine, Plural"
+  },
+  Sh: {
+    gloss: "–",
+    desc: "Suffix: Final Heh — typically marks feminine singular nouns"
+  }
+};
 
 function addNikkud(wordObj) {
   return wordObj.word.map((w, idx) => {
@@ -77,8 +123,10 @@ function decodeMorph(tag) {
   };
   
   if (tag == null ) return "Unknown";
-  if (!tag.startsWith("H")) return null;
-
+  if (!tag.startsWith("H") && !tag.startsWith("S")) return null;
+  if (tag.startsWith("S")) {
+    return decodeSuffix(tag);
+  }
   const code = tag.slice(1); // remove H
   const [type, ...rest] = code;
 
@@ -94,23 +142,50 @@ function decodeMorph(tag) {
 }
 function decodeInfo(wordObj, idx, infoField) {
   const strongCode = wordObj.strong?.[idx] ?? null;
-
+  if (infoField == "morph") {
+    return decodeMorph(wordObj.morph[idx])
+  }
   // 1. Try to get the requested field directly
   const fieldArray = wordObj[infoField];
   if (Array.isArray(fieldArray) && fieldArray[idx] != null) {
     return fieldArray[idx];
   }
-
   // 2. If strong code is a known prefix, return its specific infoField
   if (strongCode && PREFIX_INFO.hasOwnProperty(strongCode)) {
     const prefixEntry = PREFIX_INFO[strongCode];
     return prefixEntry?.[infoField] ?? null;
   }
-
+  if (!strongCode && SUFFIX_INFO.hasOwnProperty(wordObj.morph?.[idx])) {
+  return SUFFIX_INFO[wordObj.morph[idx]]?.[infoField] ?? null;
+  }
   // 3. Fallback
   return null;
 }
-
+function decodeSuffix(tag) {
+  const person = {
+    1: "1st person",
+    2: "2nd person",
+    3: "3rd person"
+  }
+  const gender = {
+    m: "Masculine",
+    f: "Feminine",
+    c: "Common"
+  }
+  const number = {
+    s: "Singular",
+    p: "Plural"
+  }
+  if (tag === "Sh") return "Suffix: Final Heh — typically marks feminine singular nouns";
+  const code = tag.slice(2);
+  const desc = [];
+  const chars = tag.split('');
+  chars.forEach((char) => {
+    if (gender[char]) desc.push(gender[char]);
+    else if (number[char]) desc.push(number[char]);
+  });
+  return "Suffix: " + desc.filter(Boolean).join(", ");
+}
 
 
 export default function PsalmPage() {
@@ -125,14 +200,14 @@ export default function PsalmPage() {
   }, [id])
   if (!psalm) return <div>Loading...</div>
   return (
-    <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Psalm {psalm.psalm}</h1>
+    <div className="p-20">
+      <h1 className="text-2xl font-bold mb-4">Psalms {psalm.psalm}</h1>
       {psalm.verses.map((v) => (
         <div key={v.verse} className="grid grid-cols-2 gap-4 mb-4">
-          <div className="text-left font-serif">{v.english}</div>
+          <div className="text-left font-serif">{v.english}</div> 
           <div className="text-right font-hebrew"> 
             {v.hebrew.map((wordObj, i) => (
-              <span key={i} className="group relative mx-1 hover:underline cursor-help">
+              <span key={i} className="group relative mx-1 hover:underline cursor-help hover:bg-white hover:text-black transition-colors duration-500">
                 {wordObj.word.join("")}
                 <span className="absolute top-full mb-1 hidden group-hover:block bg-white text-black text-xs px-6 py-2 rounded shadow-lg z-10 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
                   {wordObj.word.map((w, idx) => (
