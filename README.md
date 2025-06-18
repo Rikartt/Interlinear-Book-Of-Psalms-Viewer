@@ -94,13 +94,13 @@ Website/psalms-interlinear/public/data/psalms/
 
 ## 📈 Roadmap
 
-- [X] Add nikkud to the UI
+- [ ] Add nikkud to the UI (Currently only present for root morphemes in the tooltips)
 - [X] Add hover info for prefixes like ה , ו, ב , that is , "the", "and", and "in/by/with"
 - [ ] Add nikkud support for prefixes (and suffixes) like the aforementioned
 - [X] Build suffix/pronoun logic
-- [ ] Add scaling for smaller displays
-- [ ] Improve user-friendliness of UI
-- [ ] Add mobile support
+- [X] Add scaling for smaller displays
+- [ ] Add next/previous psalm button
+- [ ] Add mobile support for the tooltips
 - [ ] Add verse audio support
 - [ ] Add search by Strong’s number or lemma
 - [ ] Expand beyond Psalms to full Tanakh

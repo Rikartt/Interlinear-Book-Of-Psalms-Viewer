@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
+import * as Tooltip from '@radix-ui/react-tooltip';
 // src/pages/something.js
 const PREFIX_INFO = {
   Hb: {
@@ -200,6 +201,7 @@ export default function PsalmPage() {
   }, [id])
   if (!psalm) return <div>Loading...</div>
   return (
+    <Tooltip.Provider delayDuration={150}>
     <div className="p-20">
       <h1 className="text-2xl font-bold mb-4">Psalms {psalm.psalm}</h1>
       {psalm.verses.map((v) => (
@@ -207,25 +209,37 @@ export default function PsalmPage() {
           <div className="text-left font-serif" dangerouslySetInnerHTML={{ __html: v.english }}></div> 
           <div className="text-right font-hebrew text-lg break-words whitespace-pre-wrap leading-relaxed" dir="rtl"> 
             {v.hebrew.map((wordObj, i) => (
-              <span key={i} className="group relative mx-1 hover:underline cursor-help hover:bg-white hover:text-black transition-colors duration-500">
-                {wordObj.word.join("")}
-                <span className="absolute top-full mb-1 hidden group-hover:block bg-white text-black text-xs px-6 py-2 rounded shadow-lg z-10 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug transition-colors duration-500">
+            <Tooltip.Root key={i}>
+              <Tooltip.Trigger asChild>
+                <span className="mx-1 cursor-help hover:underline hover:bg-white hover:text-black transition-colors duration-500">
+                  {wordObj.word.join("")}
+                </span>
+              </Tooltip.Trigger>
+              <Tooltip.Portal>
+                <Tooltip.Content
+                  side="top"
+                  sideOffset={4}
+                  className="bg-white text-black text-xs px-4 py-2 rounded shadow-lg z-50 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug"
+                >
                   {wordObj.word.map((w, idx) => (
-                    <div key={idx} className="text wrap">
+                    <div key={idx}>
                       <b>{addNikkud(wordObj)[idx]}</b> :
-                        {['strong', 'morph', 'xlit', 'pron', 'derivation', 'strongs_def', 'gloss'].map(field =>
-                          decodeInfo(wordObj, idx, field) !== null && (
-                            <div key={field}>• {decodeInfo(wordObj, idx, field)}</div>
-                          )
-                        )}
+                      {['strong', 'morph', 'xlit', 'pron', 'derivation', 'strongs_def', 'gloss'].map((field) =>
+                        decodeInfo(wordObj, idx, field) !== null && (
+                          <div key={field}>• {decodeInfo(wordObj, idx, field)}</div>
+                        )
+                      )}
                     </div>
                   ))}
-                </span>
-              </span>
+                  <Tooltip.Arrow className="fill-white" />
+                </Tooltip.Content>
+              </Tooltip.Portal>
+            </Tooltip.Root>
             ))}
           </div>
         </div>
       ))}
     </div>
+    </Tooltip.Provider>
   );
 }
