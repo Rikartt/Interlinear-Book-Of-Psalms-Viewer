@@ -97,7 +97,7 @@ Website/psalms-interlinear/public/data/psalms/
 - [ ] Add nikkud to the UI (Currently only present for root morphemes in the tooltips)
 - [X] Add hover info for prefixes like ה , ו, ב , that is , "the", "and", and "in/by/with"
 - [ ] Add nikkud support for prefixes (and suffixes) like the aforementioned
-- [ ] Add support for 'Headers' like 'For the director of music. A psalm of David.' in psalm 140
+- [X] Add support for 'Headers' like 'For the director of music. A psalm of David.' in psalm 140
 - [X] Build suffix/pronoun logic
 - [X] Add scaling for smaller displays
 - [X] Add next/previous psalm button
