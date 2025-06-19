@@ -99,7 +99,7 @@ Website/psalms-interlinear/public/data/psalms/
 - [ ] Add nikkud support for prefixes (and suffixes) like the aforementioned
 - [X] Build suffix/pronoun logic
 - [X] Add scaling for smaller displays
-- [ ] Add next/previous psalm button
+- [X] Add next/previous psalm button
 - [ ] Add mobile support for the tooltips
 - [ ] Expand beyond Psalms to full Tanakh
 - [ ] Add German language support (using the same source as the KJV)

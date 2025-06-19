@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import * as Tooltip from '@radix-ui/react-tooltip';
+import Link from 'next/link'
 // src/pages/something.js
 const PREFIX_INFO = {
   Hb: {
@@ -199,10 +200,64 @@ export default function PsalmPage() {
       .then((res) => res.json())
       .then((data) => setPsalm(data))
   }, [id])
+  const [hasPrev, setHasPrev] = useState(false);
+const [hasNext, setHasNext] = useState(false);
+
+useEffect(() => {
+  if (!id) return;
+
+  const prevId = Number(id) - 1;
+  const nextId = Number(id) + 1;
+
+  const checkExistence = async () => {
+    try {
+      const [prevRes, nextRes] = await Promise.all([
+        fetch(`/data/psalms/Psalm${prevId}.json`),
+        fetch(`/data/psalms/Psalm${nextId}.json`)
+      ]);
+      setHasPrev(prevRes.ok);
+      setHasNext(nextRes.ok);
+    } catch {
+      setHasPrev(false);
+      setHasNext(false);
+    }
+  };
+
+  checkExistence();
+}, [id]);
+
   if (!psalm) return <div>Loading...</div>
   return (
     <Tooltip.Provider delayDuration={150}>
     <div className="p-20">
+      <div className="flex justify-between items-center mb-4">
+      {(hasPrev) && <div className="flex justify-between items-center mb-4"><Link href={`/psalms/${Number(id) - 1}`}>
+            <Tooltip.Root>
+              <Tooltip.Trigger><span className="text-4xl">•</span></Tooltip.Trigger>
+              <Tooltip.Portal>
+                <Tooltip.Content>
+                  <span className="bg-white text-black text-sm px-4 py-2 rounded shadow-lg z-50 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
+                    Previous Chapter
+                  </span>
+                  <Tooltip.Arrow className="fill-white"/>
+                </Tooltip.Content>
+              </Tooltip.Portal>
+            </Tooltip.Root>
+      </Link></div>}
+      {(hasNext) && <div className="text-right break-words leading-relaxed lg:flex-row"><Link href={`/psalms/${Number(id) + 1}`}>
+            <Tooltip.Root>
+              <Tooltip.Trigger><span className="text-4xl">•</span></Tooltip.Trigger>
+              <Tooltip.Portal>
+                <Tooltip.Content>
+                  <span className="bg-white text-black text-sm px-4 py-2 rounded shadow-lg z-50 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
+                    Next Chapter
+                  </span>
+                  <Tooltip.Arrow className="fill-white"/>
+                </Tooltip.Content>
+              </Tooltip.Portal>
+            </Tooltip.Root>
+      </Link></div>}
+      </div>
       <h1 className="text-2xl font-bold mb-4">Psalms {psalm.psalm}</h1>
       {psalm.verses.map((v) => (
         <div key={v.verse} className="flex flex-col lg:flex-row md:justify-between mb-4">

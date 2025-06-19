@@ -9,7 +9,7 @@ export default function Home() {
       <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2">
         {psalms.map((n) => (
           <li key={n}>
-            <Link href={`/psalm/${n}`}>
+            <Link href={`/psalms/${n}`}>
               <div className="block border p-2 rounded hover:bg-gray-100">
                 Psalm {n}
               </div>
