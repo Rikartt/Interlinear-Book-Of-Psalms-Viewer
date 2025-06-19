@@ -260,7 +260,20 @@ useEffect(() => {
       </div>
       <h1 className="text-2xl font-bold mb-4">Psalms {psalm.psalm}</h1>
       {psalm.verses.map((v) => (
-        <div key={v.verse} className="flex flex-col lg:flex-row md:justify-between mb-4">
+        <div key={v.verse} className="md:justify-between mb-6">
+          {!(v.header == "") && 
+          <Tooltip.Root>
+              <Tooltip.Trigger><span className="font-bold mb-1 block cursor-help">{v.header}</span></Tooltip.Trigger>
+              <Tooltip.Portal>
+                <Tooltip.Content>
+                  <span className="bg-white text-black text-sm px-4 py-2 rounded shadow-lg z-50 w-max max-w-xs whitespace-normal text-left space-y-1 leading-snug">
+                    Header
+                  </span>
+                  <Tooltip.Arrow className="fill-white"/>
+                </Tooltip.Content>
+              </Tooltip.Portal>
+            </Tooltip.Root>}
+          <div className="flex flex-col lg:flex-row justify-between gap-x-4">
           <div className="text-left font-serif" dangerouslySetInnerHTML={{ __html: v.english }}></div> 
           <div className="text-right font-hebrew text-lg break-words whitespace-pre-wrap leading-relaxed" dir="rtl"> 
             {v.hebrew.map((wordObj, i) => (
@@ -291,6 +304,7 @@ useEffect(() => {
               </Tooltip.Portal>
             </Tooltip.Root>
             ))}
+          </div>
           </div>
         </div>
       ))}

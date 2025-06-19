@@ -1,13 +1,13 @@
 # 📖 Intralinear Book of Psalms Viewer
 
-This project is a modern web-based viewer for the Book of Psalms, inspired by Quran.com. It displays Hebrew verses aligned with their English translations and provides rich linguistic metadata, including:
+This project is a modern web-based viewer for the Book of Psalms, inspired, initially, by *Quran.com*. It displays Hebrew verses aligned with their English translations and provides rich linguistic metadata, including:
 
 - Strong’s Concordance numbers
 - Morphological tags
 - Transliteration
 - Word-level glosses
 
-The project aims to serve students of Biblical Hebrew with a highly readable and interactive presentation of the Psalms.
+The project aims to serve students of Biblical Hebrew with a highly readable and interactive presentation of the Psalms, a sort of parallel to *Quran.com*. Made by an enthusiast of the Hebrew language and the eloquence of the Psalms and greater Tanakh, for such people.
 
 ---
 
@@ -97,6 +97,7 @@ Website/psalms-interlinear/public/data/psalms/
 - [ ] Add nikkud to the UI (Currently only present for root morphemes in the tooltips)
 - [X] Add hover info for prefixes like ה , ו, ב , that is , "the", "and", and "in/by/with"
 - [ ] Add nikkud support for prefixes (and suffixes) like the aforementioned
+- [ ] Add support for 'Headers' like 'For the director of music. A psalm of David.' in psalm 140
 - [X] Build suffix/pronoun logic
 - [X] Add scaling for smaller displays
 - [X] Add next/previous psalm button
