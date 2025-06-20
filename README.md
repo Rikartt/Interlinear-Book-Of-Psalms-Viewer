@@ -1,4 +1,4 @@
-# 📖 Intralinear Book of Psalms Viewer
+# 📖 Interlinear Book of Psalms Viewer
 
 This project is a modern web-based viewer for the Book of Psalms, inspired, initially, by *Quran.com*. It displays Hebrew verses aligned with their English translations and provides rich linguistic metadata, including:
 
